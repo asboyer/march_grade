@@ -1,0 +1,191 @@
+{
+    "boise-state": {
+        "players": {
+            "Abu Kigab": {
+                "hs_rank": 101,
+                "Pts": 14.7,
+                "Reb": 5.8,
+                "Ast": 2.4
+            },
+            "Marcus Shaver": {
+                "hs_rank": 101,
+                "Pts": 13.6,
+                "Reb": 3.8,
+                "Ast": 2.2
+            },
+            "Tyson Degenhart": {
+                "hs_rank": 101,
+                "Pts": 9.9,
+                "Reb": 3.9,
+                "Ast": 0.9
+            },
+            "Emmanuel Akot": {
+                "hs_rank": 42,
+                "Pts": 10.7,
+                "Reb": 3.2,
+                "Ast": 2.9
+            },
+            "Mladen Armus": {
+                "hs_rank": 101,
+                "Pts": 7.2,
+                "Reb": 7.9,
+                "Ast": 0.9
+            },
+            "Naje Smith": {
+                "hs_rank": 101,
+                "Pts": 4.8,
+                "Reb": 2.8,
+                "Ast": 0.6
+            },
+            "Max Rice": {
+                "hs_rank": 101,
+                "Pts": 4.0,
+                "Reb": 3.0,
+                "Ast": 0.9
+            },
+            "Pavle Kuzmanovic": {
+                "hs_rank": 101,
+                "Pts": 3.4,
+                "Reb": 0.8,
+                "Ast": 0.7
+            },
+            "Devonaire Doutrive": {
+                "hs_rank": 71,
+                "Pts": 9.1,
+                "Reb": 4.6,
+                "Ast": 1.7
+            },
+            "Lukas Milner": {
+                "hs_rank": 101,
+                "Pts": 1.2,
+                "Reb": 1.1,
+                "Ast": 0.3
+            },
+            "Kasean Pryor": {
+                "hs_rank": 101,
+                "Pts": 2.3,
+                "Reb": 1.4,
+                "Ast": 0.4
+            },
+            "Sam Winter": {
+                "hs_rank": 101,
+                "Pts": 1.0,
+                "Reb": 0.0,
+                "Ast": 0.2
+            },
+            "RJ Keene": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Burke Smith": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Kobe Young": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 24.5,
+                "FGA": 54.6,
+                "FG%": 0.448,
+                "2P": 17.1,
+                "2PA": 33.4,
+                "2P%": 0.512,
+                "3P": 7.4,
+                "3PA": 21.2,
+                "3P%": 0.348,
+                "FT": 12.4,
+                "FTA": 19.1,
+                "FT%": 0.649,
+                "ORB": 10.2,
+                "DRB": 24.8,
+                "TRB": 35.0,
+                "AST": 11.5,
+                "STL": 5.9,
+                "BLK": 3.5,
+                "TOV": 12.1,
+                "PF": 15.1,
+                "PTS": 68.7
+            },
+            "opponent_stats": {
+                "o_FG": 22.6,
+                "o_FGA": 53.1,
+                "o_FG%": 0.426,
+                "o_2P": 16.9,
+                "o_2PA": 35.5,
+                "o_2P%": 0.476,
+                "o_3P": 5.7,
+                "o_3PA": 17.6,
+                "o_3P%": 0.325,
+                "o_FT": 9.8,
+                "o_FTA": 13.7,
+                "o_FT%": 0.718,
+                "o_ORB": 6.8,
+                "o_DRB": 23.1,
+                "o_TRB": 29.9,
+                "o_AST": 9.8,
+                "o_STL": 5.2,
+                "o_BLK": 2.9,
+                "o_TOV": 13.1,
+                "o_PF": 19.2,
+                "o_PTS": 60.8
+            },
+            "team_ranks": {
+                "FG": 263,
+                "FGA": 326,
+                "FG%": 129,
+                "2P": 260,
+                "2PA": 271,
+                "2P%": 138,
+                "3P": 177,
+                "3PA": 209,
+                "3P%": 118,
+                "FT": 178,
+                "FTA": 99,
+                "FT%": 346,
+                "ORB": 155,
+                "DRB": 221,
+                "TRB": 197,
+                "AST": 287,
+                "STL": 249,
+                "BLK": 128,
+                "TOV": 236,
+                "PF": 299,
+                "PTS": 240
+            },
+            "opponent_ranks": {
+                "FG": 36,
+                "FGA": 26,
+                "FG%": 146,
+                "2P": 126,
+                "2PA": 173,
+                "2P%": 112,
+                "3P": 24,
+                "3PA": 18,
+                "3P%": 126,
+                "FT": 35,
+                "FTA": 29,
+                "FT%": 191,
+                "ORB": 6,
+                "DRB": 60,
+                "TRB": 9,
+                "AST": 72,
+                "STL": 24,
+                "BLK": 116,
+                "TOV": 210,
+                "PF": 334,
+                "PTS": 13
+            }
+        },
+        "seed": "8"
+    }
+}

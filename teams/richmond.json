@@ -1,0 +1,221 @@
+{
+    "richmond": {
+        "players": {
+            "Tyler Burton": {
+                "hs_rank": 101,
+                "Pts": 16.3,
+                "Reb": 7.7,
+                "Ast": 1.0
+            },
+            "Grant Golden": {
+                "hs_rank": 101,
+                "Pts": 14.1,
+                "Reb": 6.1,
+                "Ast": 2.8
+            },
+            "Jacob Gilyard": {
+                "hs_rank": 101,
+                "Pts": 13.3,
+                "Reb": 3.4,
+                "Ast": 5.4
+            },
+            "Nathan Cayo": {
+                "hs_rank": 101,
+                "Pts": 8.7,
+                "Reb": 4.4,
+                "Ast": 1.9
+            },
+            "Nick Sherod": {
+                "hs_rank": 101,
+                "Pts": 6.2,
+                "Reb": 1.9,
+                "Ast": 0.3
+            },
+            "Matt Grace": {
+                "hs_rank": 101,
+                "Pts": 4.1,
+                "Reb": 2.5,
+                "Ast": 1.1
+            },
+            "Andre Gustavson": {
+                "hs_rank": 101,
+                "Pts": 4.5,
+                "Reb": 2.4,
+                "Ast": 1.2
+            },
+            "Isaiah Wilson": {
+                "hs_rank": 101,
+                "Pts": 2.5,
+                "Reb": 1.2,
+                "Ast": 0.7
+            },
+            "Connor Crabtree": {
+                "hs_rank": 101,
+                "Pts": 2.2,
+                "Reb": 1.0,
+                "Ast": 0.4
+            },
+            "Dji Bailey": {
+                "hs_rank": 101,
+                "Pts": 2.0,
+                "Reb": 0.7,
+                "Ast": 0.3
+            },
+            "Souleymane Koureissi": {
+                "hs_rank": 101,
+                "Pts": 1.0,
+                "Reb": 0.4,
+                "Ast": 0.3
+            },
+            "Marcus Randolph": {
+                "hs_rank": 101,
+                "Pts": 0.6,
+                "Reb": 0.0,
+                "Ast": 0.1
+            },
+            "Gabe Arizin": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 1.0,
+                "Ast": 0.0
+            },
+            "Jordan Gaitley": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.5,
+                "Ast": 0.0
+            },
+            "Sullivan Kulju": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.5,
+                "Ast": 0.5
+            },
+            "Quentin Southall": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Malcolm Dread": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Jason Nelson": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Aidan Noyes": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Liam Weaver": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 25.4,
+                "FGA": 57.2,
+                "FG%": 0.444,
+                "2P": 17.3,
+                "2PA": 33.1,
+                "2P%": 0.522,
+                "3P": 8.1,
+                "3PA": 24.1,
+                "3P%": 0.337,
+                "FT": 12.8,
+                "FTA": 17.7,
+                "FT%": 0.725,
+                "ORB": 7.5,
+                "DRB": 24.8,
+                "TRB": 32.3,
+                "AST": 14.7,
+                "STL": 7.9,
+                "BLK": 2.3,
+                "TOV": 9.8,
+                "PF": 13.9,
+                "PTS": 71.7
+            },
+            "opponent_stats": {
+                "o_FG": 25.7,
+                "o_FGA": 57.9,
+                "o_FG%": 0.444,
+                "o_2P": 18.6,
+                "o_2PA": 37.2,
+                "o_2P%": 0.5,
+                "o_3P": 7.1,
+                "o_3PA": 20.7,
+                "o_3P%": 0.343,
+                "o_FT": 9.8,
+                "o_FTA": 13.6,
+                "o_FT%": 0.723,
+                "o_ORB": 9.3,
+                "o_DRB": 26.1,
+                "o_TRB": 35.4,
+                "o_AST": 12.5,
+                "o_STL": 5.4,
+                "o_BLK": 3.1,
+                "o_TOV": 12.9,
+                "o_PF": 15.5,
+                "o_PTS": 68.3
+            },
+            "team_ranks": {
+                "FG": 184,
+                "FGA": 206,
+                "FG%": 148,
+                "2P": 237,
+                "2PA": 279,
+                "2P%": 101,
+                "3P": 111,
+                "3PA": 98,
+                "3P%": 190,
+                "FT": 150,
+                "FTA": 167,
+                "FT%": 153,
+                "ORB": 323,
+                "DRB": 223,
+                "TRB": 307,
+                "AST": 69,
+                "STL": 57,
+                "BLK": 305,
+                "TOV": 348,
+                "PF": 341,
+                "PTS": 157
+            },
+            "opponent_ranks": {
+                "FG": 231,
+                "FGA": 190,
+                "FG%": 245,
+                "2P": 259,
+                "2PA": 240,
+                "2P%": 210,
+                "3P": 158,
+                "3PA": 127,
+                "3P%": 232,
+                "FT": 36,
+                "FTA": 28,
+                "FT%": 226,
+                "ORB": 134,
+                "DRB": 268,
+                "TRB": 229,
+                "AST": 290,
+                "STL": 43,
+                "BLK": 173,
+                "TOV": 199,
+                "PF": 78,
+                "PTS": 153
+            }
+        },
+        "seed": "12"
+    }
+}

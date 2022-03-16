@@ -1,0 +1,191 @@
+{
+    "saint-peters": {
+        "players": {
+            "Daryl Banks": {
+                "hs_rank": 101,
+                "Pts": 11.0,
+                "Reb": 2.6,
+                "Ast": 1.5
+            },
+            "KC Ndefo": {
+                "hs_rank": 101,
+                "Pts": 10.6,
+                "Reb": 6.2,
+                "Ast": 2.3
+            },
+            "Doug Edert": {
+                "hs_rank": 101,
+                "Pts": 9.3,
+                "Reb": 2.4,
+                "Ast": 0.8
+            },
+            "Fousseyni Drame": {
+                "hs_rank": 101,
+                "Pts": 7.2,
+                "Reb": 6.8,
+                "Ast": 0.8
+            },
+            "Matthew Lee": {
+                "hs_rank": 101,
+                "Pts": 7.0,
+                "Reb": 1.8,
+                "Ast": 2.9
+            },
+            "Hassan Drame": {
+                "hs_rank": 101,
+                "Pts": 5.9,
+                "Reb": 5.4,
+                "Ast": 0.7
+            },
+            "Jaylen Murray": {
+                "hs_rank": 101,
+                "Pts": 5.8,
+                "Reb": 1.6,
+                "Ast": 1.6
+            },
+            "Isiah Dasher": {
+                "hs_rank": 101,
+                "Pts": 5.0,
+                "Reb": 2.4,
+                "Ast": 0.8
+            },
+            "Clarence Rupert": {
+                "hs_rank": 101,
+                "Pts": 4.1,
+                "Reb": 2.6,
+                "Ast": 0.7
+            },
+            "Oumar Diahame": {
+                "hs_rank": 101,
+                "Pts": 2.2,
+                "Reb": 2.3,
+                "Ast": 0.0
+            },
+            "Marty Silvera": {
+                "hs_rank": 101,
+                "Pts": 1.8,
+                "Reb": 1.3,
+                "Ast": 0.5
+            },
+            "Latrell Reid": {
+                "hs_rank": 101,
+                "Pts": 0.7,
+                "Reb": 0.9,
+                "Ast": 0.7
+            },
+            "Brent Bland": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Jerry Ngopot": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Mouhamed Sow": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 23.6,
+                "FGA": 54.7,
+                "FG%": 0.431,
+                "2P": 17.7,
+                "2PA": 38.1,
+                "2P%": 0.465,
+                "3P": 5.9,
+                "3PA": 16.6,
+                "3P%": 0.353,
+                "FT": 13.9,
+                "FTA": 20.3,
+                "FT%": 0.683,
+                "ORB": 11.0,
+                "DRB": 25.2,
+                "TRB": 36.2,
+                "AST": 12.2,
+                "STL": 7.3,
+                "BLK": 4.9,
+                "TOV": 13.9,
+                "PF": 19.5,
+                "PTS": 66.9
+            },
+            "opponent_stats": {
+                "o_FG": 20.2,
+                "o_FGA": 52.8,
+                "o_FG%": 0.383,
+                "o_2P": 14.6,
+                "o_2PA": 33.5,
+                "o_2P%": 0.435,
+                "o_3P": 5.6,
+                "o_3PA": 19.2,
+                "o_3P%": 0.293,
+                "o_FT": 15.7,
+                "o_FTA": 21.4,
+                "o_FT%": 0.732,
+                "o_ORB": 9.7,
+                "o_DRB": 23.4,
+                "o_TRB": 33.1,
+                "o_AST": 10.4,
+                "o_STL": 7.0,
+                "o_BLK": 4.9,
+                "o_TOV": 14.0,
+                "o_PF": 18.1,
+                "o_PTS": 61.8
+            },
+            "team_ranks": {
+                "FG": 312,
+                "FGA": 324,
+                "FG%": 238,
+                "2P": 208,
+                "2PA": 107,
+                "2P%": 313,
+                "3P": 314,
+                "3PA": 342,
+                "3P%": 97,
+                "FT": 99,
+                "FTA": 50,
+                "FT%": 288,
+                "ORB": 92,
+                "DRB": 190,
+                "TRB": 116,
+                "AST": 237,
+                "STL": 96,
+                "BLK": 23,
+                "TOV": 67,
+                "PF": 23,
+                "PTS": 287
+            },
+            "opponent_ranks": {
+                "FG": 2,
+                "FGA": 24,
+                "FG%": 5,
+                "2P": 12,
+                "2PA": 84,
+                "2P%": 9,
+                "3P": 20,
+                "3PA": 54,
+                "3P%": 13,
+                "FT": 343,
+                "FTA": 332,
+                "FT%": 273,
+                "ORB": 175,
+                "DRB": 78,
+                "TRB": 103,
+                "AST": 122,
+                "STL": 275,
+                "BLK": 354,
+                "TOV": 275,
+                "PF": 293,
+                "PTS": 18
+            }
+        },
+        "seed": "15"
+    }
+}

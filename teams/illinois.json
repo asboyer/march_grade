@@ -1,0 +1,191 @@
+{
+    "illinois": {
+        "players": {
+            "Kofi Cockburn": {
+                "hs_rank": 43,
+                "Pts": 21.1,
+                "Reb": 10.6,
+                "Ast": 0.8
+            },
+            "Alfonso Plummer": {
+                "hs_rank": 101,
+                "Pts": 14.8,
+                "Reb": 2.5,
+                "Ast": 1.1
+            },
+            "Trent Frazier": {
+                "hs_rank": 101,
+                "Pts": 12.1,
+                "Reb": 2.8,
+                "Ast": 4.1
+            },
+            "Jacob Grandison": {
+                "hs_rank": 101,
+                "Pts": 10.3,
+                "Reb": 4.0,
+                "Ast": 2.4
+            },
+            "Coleman Hawkins": {
+                "hs_rank": 101,
+                "Pts": 5.8,
+                "Reb": 4.2,
+                "Ast": 1.5
+            },
+            "Andre Curbelo": {
+                "hs_rank": 45,
+                "Pts": 8.1,
+                "Reb": 3.2,
+                "Ast": 3.2
+            },
+            "Da'Monte Williams": {
+                "hs_rank": 101,
+                "Pts": 4.1,
+                "Reb": 5.0,
+                "Ast": 2.6
+            },
+            "RJ Melendez": {
+                "hs_rank": 81,
+                "Pts": 3.6,
+                "Reb": 1.7,
+                "Ast": 0.6
+            },
+            "Omar Payne": {
+                "hs_rank": 46,
+                "Pts": 1.7,
+                "Reb": 1.7,
+                "Ast": 0.2
+            },
+            "Luke Goode": {
+                "hs_rank": 98,
+                "Pts": 1.9,
+                "Reb": 1.6,
+                "Ast": 0.6
+            },
+            "Benjamin Bosmans-Verdonk": {
+                "hs_rank": 101,
+                "Pts": 1.8,
+                "Reb": 2.3,
+                "Ast": 0.7
+            },
+            "Brandin Podziemski": {
+                "hs_rank": 79,
+                "Pts": 1.4,
+                "Reb": 0.9,
+                "Ast": 0.3
+            },
+            "Austin Hutcherson": {
+                "hs_rank": 101,
+                "Pts": 2.8,
+                "Reb": 2.0,
+                "Ast": 0.5
+            },
+            "Brandon Lieb": {
+                "hs_rank": 101,
+                "Pts": 0.8,
+                "Reb": 0.7,
+                "Ast": 0.1
+            },
+            "Connor Serven": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.2,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 26.7,
+                "FGA": 58.9,
+                "FG%": 0.453,
+                "2P": 17.5,
+                "2PA": 33.8,
+                "2P%": 0.517,
+                "3P": 9.2,
+                "3PA": 25.1,
+                "3P%": 0.367,
+                "FT": 13.2,
+                "FTA": 18.6,
+                "FT%": 0.708,
+                "ORB": 11.6,
+                "DRB": 27.0,
+                "TRB": 38.6,
+                "AST": 15.4,
+                "STL": 5.2,
+                "BLK": 3.0,
+                "TOV": 12.2,
+                "PF": 16.4,
+                "PTS": 75.8
+            },
+            "opponent_stats": {
+                "o_FG": 24.8,
+                "o_FGA": 59.8,
+                "o_FG%": 0.416,
+                "o_2P": 19.1,
+                "o_2PA": 42.1,
+                "o_2P%": 0.454,
+                "o_3P": 5.7,
+                "o_3PA": 17.7,
+                "o_3P%": 0.323,
+                "o_FT": 12.3,
+                "o_FTA": 17.0,
+                "o_FT%": 0.721,
+                "o_ORB": 9.4,
+                "o_DRB": 23.1,
+                "o_TRB": 32.5,
+                "o_AST": 10.4,
+                "o_STL": 6.5,
+                "o_BLK": 2.9,
+                "o_TOV": 10.7,
+                "o_PF": 18.0,
+                "o_PTS": 67.6
+            },
+            "team_ranks": {
+                "FG": 84,
+                "FGA": 120,
+                "FG%": 108,
+                "2P": 230,
+                "2PA": 257,
+                "2P%": 116,
+                "3P": 31,
+                "3PA": 56,
+                "3P%": 44,
+                "FT": 129,
+                "FTA": 118,
+                "FT%": 204,
+                "ORB": 58,
+                "DRB": 55,
+                "TRB": 33,
+                "AST": 39,
+                "STL": 315,
+                "BLK": 194,
+                "TOV": 233,
+                "PF": 202,
+                "PTS": 55
+            },
+            "opponent_ranks": {
+                "FG": 179,
+                "FGA": 278,
+                "FG%": 82,
+                "2P": 283,
+                "2PA": 349,
+                "2P%": 33,
+                "3P": 25,
+                "3PA": 20,
+                "3P%": 116,
+                "FT": 175,
+                "FTA": 166,
+                "FT%": 213,
+                "ORB": 152,
+                "DRB": 63,
+                "TRB": 73,
+                "AST": 320,
+                "STL": 197,
+                "BLK": 121,
+                "TOV": 39,
+                "PF": 289,
+                "PTS": 136
+            }
+        },
+        "seed": "4"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "texas": {
+        "players": {
+            "Timmy Allen": {
+                "hs_rank": 101,
+                "Pts": 12.3,
+                "Reb": 6.5,
+                "Ast": 2.1
+            },
+            "Marcus Carr": {
+                "hs_rank": 101,
+                "Pts": 10.9,
+                "Reb": 2.0,
+                "Ast": 3.2
+            },
+            "Andrew Jones": {
+                "hs_rank": 23,
+                "Pts": 10.7,
+                "Reb": 2.8,
+                "Ast": 1.6
+            },
+            "Courtney Ramey": {
+                "hs_rank": 41,
+                "Pts": 9.5,
+                "Reb": 3.5,
+                "Ast": 1.6
+            },
+            "Christian Bishop": {
+                "hs_rank": 101,
+                "Pts": 6.8,
+                "Reb": 5.6,
+                "Ast": 0.8
+            },
+            "Tre Mitchell": {
+                "hs_rank": 86,
+                "Pts": 8.7,
+                "Reb": 4.0,
+                "Ast": 1.3
+            },
+            "Jase Febres": {
+                "hs_rank": 78,
+                "Pts": 3.8,
+                "Reb": 1.4,
+                "Ast": 0.4
+            },
+            "Dylan Disu": {
+                "hs_rank": 101,
+                "Pts": 3.8,
+                "Reb": 3.2,
+                "Ast": 0.4
+            },
+            "Brock Cunningham": {
+                "hs_rank": 101,
+                "Pts": 2.3,
+                "Reb": 2.2,
+                "Ast": 0.6
+            },
+            "Devin Askew": {
+                "hs_rank": 28,
+                "Pts": 2.2,
+                "Reb": 1.0,
+                "Ast": 1.4
+            },
+            "Tristen Licon": {
+                "hs_rank": 101,
+                "Pts": 1.4,
+                "Reb": 0.4,
+                "Ast": 0.1
+            },
+            "Jaylon Tyson": {
+                "hs_rank": 31,
+                "Pts": 1.8,
+                "Reb": 1.1,
+                "Ast": 0.4
+            },
+            "Avery Benson": {
+                "hs_rank": 101,
+                "Pts": 0.1,
+                "Reb": 0.5,
+                "Ast": 0.3
+            },
+            "Cole Bott": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Gavin Perryman": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 24.3,
+                "FGA": 55.0,
+                "FG%": 0.442,
+                "2P": 17.9,
+                "2PA": 35.2,
+                "2P%": 0.508,
+                "3P": 6.4,
+                "3PA": 19.8,
+                "3P%": 0.323,
+                "FT": 13.3,
+                "FTA": 17.8,
+                "FT%": 0.749,
+                "ORB": 10.4,
+                "DRB": 23.2,
+                "TRB": 33.6,
+                "AST": 13.0,
+                "STL": 7.7,
+                "BLK": 3.4,
+                "TOV": 11.8,
+                "PF": 17.4,
+                "PTS": 68.3
+            },
+            "opponent_stats": {
+                "o_FG": 20.9,
+                "o_FGA": 50.6,
+                "o_FG%": 0.413,
+                "o_2P": 15.5,
+                "o_2PA": 33.6,
+                "o_2P%": 0.461,
+                "o_3P": 5.4,
+                "o_3PA": 17.0,
+                "o_3P%": 0.318,
+                "o_FT": 12.5,
+                "o_FTA": 18.6,
+                "o_FT%": 0.669,
+                "o_ORB": 9.8,
+                "o_DRB": 22.3,
+                "o_TRB": 32.2,
+                "o_AST": 9.2,
+                "o_STL": 5.9,
+                "o_BLK": 3.3,
+                "o_TOV": 15.1,
+                "o_PF": 17.9,
+                "o_PTS": 59.6
+            },
+            "team_ranks": {
+                "FG": 274,
+                "FGA": 313,
+                "FG%": 170,
+                "2P": 190,
+                "2PA": 204,
+                "2P%": 156,
+                "3P": 270,
+                "3PA": 266,
+                "3P%": 255,
+                "FT": 126,
+                "FTA": 163,
+                "FT%": 72,
+                "ORB": 141,
+                "DRB": 319,
+                "TRB": 260,
+                "AST": 176,
+                "STL": 68,
+                "BLK": 141,
+                "TOV": 260,
+                "PF": 119,
+                "PTS": 253
+            },
+            "opponent_ranks": {
+                "FG": 7,
+                "FGA": 5,
+                "FG%": 66,
+                "2P": 39,
+                "2PA": 86,
+                "2P%": 45,
+                "3P": 14,
+                "3PA": 10,
+                "3P%": 87,
+                "FT": 197,
+                "FTA": 259,
+                "FT%": 13,
+                "ORB": 193,
+                "DRB": 30,
+                "TRB": 59,
+                "AST": 183,
+                "STL": 100,
+                "BLK": 211,
+                "TOV": 320,
+                "PF": 282,
+                "PTS": 6
+            }
+        },
+        "seed": "6"
+    }
+}

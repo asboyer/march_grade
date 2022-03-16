@@ -1,0 +1,185 @@
+{
+    "colgate": {
+        "players": {
+            "Nelly Cummings": {
+                "hs_rank": 101,
+                "Pts": 14.5,
+                "Reb": 2.9,
+                "Ast": 3.4
+            },
+            "Jack Ferguson": {
+                "hs_rank": 101,
+                "Pts": 12.6,
+                "Reb": 4.5,
+                "Ast": 1.9
+            },
+            "Tucker Richardson": {
+                "hs_rank": 101,
+                "Pts": 12.6,
+                "Reb": 5.6,
+                "Ast": 3.9
+            },
+            "Keegan Records": {
+                "hs_rank": 101,
+                "Pts": 10.0,
+                "Reb": 6.1,
+                "Ast": 1.4
+            },
+            "Ryan Moffatt": {
+                "hs_rank": 101,
+                "Pts": 10.0,
+                "Reb": 4.9,
+                "Ast": 2.3
+            },
+            "Jeff Woodward": {
+                "hs_rank": 101,
+                "Pts": 6.5,
+                "Reb": 4.1,
+                "Ast": 1.8
+            },
+            "Oliver Lynch-Daniels": {
+                "hs_rank": 101,
+                "Pts": 6.8,
+                "Reb": 3.1,
+                "Ast": 1.9
+            },
+            "Sam Thomson": {
+                "hs_rank": 101,
+                "Pts": 2.7,
+                "Reb": 2.0,
+                "Ast": 0.6
+            },
+            "Nicolas Louis-Jacques": {
+                "hs_rank": 101,
+                "Pts": 2.2,
+                "Reb": 0.8,
+                "Ast": 0.3
+            },
+            "Alex Capitano": {
+                "hs_rank": 101,
+                "Pts": 9.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Pearson Parker": {
+                "hs_rank": 101,
+                "Pts": 1.6,
+                "Reb": 0.2,
+                "Ast": 0.8
+            },
+            "Malcolm Bailey": {
+                "hs_rank": 101,
+                "Pts": 3.5,
+                "Reb": 1.5,
+                "Ast": 0.5
+            },
+            "Blake Henry": {
+                "hs_rank": 101,
+                "Pts": 0.6,
+                "Reb": 0.2,
+                "Ast": 0.1
+            },
+            "Zach Light": {
+                "hs_rank": 101,
+                "Pts": 0.4,
+                "Reb": 0.4,
+                "Ast": 0.3
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 27.7,
+                "FGA": 58.1,
+                "FG%": 0.476,
+                "2P": 17.8,
+                "2PA": 33.6,
+                "2P%": 0.53,
+                "3P": 9.9,
+                "3PA": 24.6,
+                "3P%": 0.403,
+                "FT": 10.7,
+                "FTA": 15.4,
+                "FT%": 0.695,
+                "ORB": 8.8,
+                "DRB": 27.4,
+                "TRB": 36.2,
+                "AST": 17.2,
+                "STL": 6.2,
+                "BLK": 3.7,
+                "TOV": 11.3,
+                "PF": 14.5,
+                "PTS": 76.1
+            },
+            "opponent_stats": {
+                "o_FG": 25.2,
+                "o_FGA": 59.3,
+                "o_FG%": 0.425,
+                "o_2P": 18.2,
+                "o_2PA": 38.3,
+                "o_2P%": 0.475,
+                "o_3P": 7.0,
+                "o_3PA": 20.9,
+                "o_3P%": 0.334,
+                "o_FT": 9.7,
+                "o_FTA": 14.4,
+                "o_FT%": 0.675,
+                "o_ORB": 9.0,
+                "o_DRB": 24.4,
+                "o_TRB": 33.4,
+                "o_AST": 13.4,
+                "o_STL": 6.4,
+                "o_BLK": 2.9,
+                "o_TOV": 11.1,
+                "o_PF": 15.0,
+                "o_PTS": 67.1
+            },
+            "team_ranks": {
+                "FG": 40,
+                "FGA": 158,
+                "FG%": 25,
+                "2P": 200,
+                "2PA": 264,
+                "2P%": 73,
+                "3P": 13,
+                "3PA": 75,
+                "3P%": 2,
+                "FT": 292,
+                "FTA": 277,
+                "FT%": 254,
+                "ORB": 266,
+                "DRB": 40,
+                "TRB": 119,
+                "AST": 8,
+                "STL": 218,
+                "BLK": 111,
+                "TOV": 299,
+                "PF": 323,
+                "PTS": 53
+            },
+            "opponent_ranks": {
+                "FG": 206,
+                "FGA": 252,
+                "FG%": 140,
+                "2P": 232,
+                "2PA": 280,
+                "2P%": 103,
+                "3P": 142,
+                "3PA": 146,
+                "3P%": 184,
+                "FT": 30,
+                "FTA": 50,
+                "FT%": 22,
+                "ORB": 110,
+                "DRB": 142,
+                "TRB": 119,
+                "AST": 351,
+                "STL": 178,
+                "BLK": 116,
+                "TOV": 50,
+                "PF": 54,
+                "PTS": 117
+            }
+        },
+        "seed": "14"
+    }
+}

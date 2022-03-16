@@ -1,0 +1,203 @@
+{
+    "georgia-state": {
+        "players": {
+            "Corey Allen": {
+                "hs_rank": 101,
+                "Pts": 14.7,
+                "Reb": 3.6,
+                "Ast": 3.2
+            },
+            "Kane Williams": {
+                "hs_rank": 101,
+                "Pts": 12.5,
+                "Reb": 4.0,
+                "Ast": 3.8
+            },
+            "Justin Roberts": {
+                "hs_rank": 101,
+                "Pts": 11.2,
+                "Reb": 3.1,
+                "Ast": 2.6
+            },
+            "Jalen Thomas": {
+                "hs_rank": 101,
+                "Pts": 7.7,
+                "Reb": 6.1,
+                "Ast": 0.6
+            },
+            "Nelson Phillips": {
+                "hs_rank": 101,
+                "Pts": 7.7,
+                "Reb": 3.4,
+                "Ast": 0.9
+            },
+            "Eliel Nsoseme": {
+                "hs_rank": 101,
+                "Pts": 9.4,
+                "Reb": 9.8,
+                "Ast": 0.5
+            },
+            "Evan Johnson": {
+                "hs_rank": 101,
+                "Pts": 5.2,
+                "Reb": 1.1,
+                "Ast": 1.2
+            },
+            "Ja'Heim Hudson": {
+                "hs_rank": 101,
+                "Pts": 5.0,
+                "Reb": 4.6,
+                "Ast": 0.3
+            },
+            "Jordan Rawls": {
+                "hs_rank": 101,
+                "Pts": 5.2,
+                "Reb": 1.8,
+                "Ast": 2.2
+            },
+            "Collin Moore": {
+                "hs_rank": 101,
+                "Pts": 1.8,
+                "Reb": 1.5,
+                "Ast": 0.5
+            },
+            "Kaleb Scott": {
+                "hs_rank": 101,
+                "Pts": 1.9,
+                "Reb": 1.6,
+                "Ast": 0.2
+            },
+            "Jamall Clyce": {
+                "hs_rank": 101,
+                "Pts": 1.8,
+                "Reb": 1.7,
+                "Ast": 0.1
+            },
+            "Chien-Hao Ma": {
+                "hs_rank": 101,
+                "Pts": 2.0,
+                "Reb": 0.9,
+                "Ast": 0.1
+            },
+            "Kalik Brooks": {
+                "hs_rank": 101,
+                "Pts": 0.7,
+                "Reb": 0.9,
+                "Ast": 0.2
+            },
+            "Zach Pina": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Danny Stubbs": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.3,
+                "Ast": 0.0
+            },
+            "Joe Jones III": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 25.0,
+                "FGA": 62.0,
+                "FG%": 0.403,
+                "2P": 17.3,
+                "2PA": 38.6,
+                "2P%": 0.447,
+                "3P": 7.7,
+                "3PA": 23.4,
+                "3P%": 0.329,
+                "FT": 13.0,
+                "FTA": 18.1,
+                "FT%": 0.717,
+                "ORB": 13.3,
+                "DRB": 24.0,
+                "TRB": 37.3,
+                "AST": 13.5,
+                "STL": 8.9,
+                "BLK": 4.5,
+                "TOV": 11.9,
+                "PF": 15.8,
+                "PTS": 70.6
+            },
+            "opponent_stats": {
+                "o_FG": 22.7,
+                "o_FGA": 54.9,
+                "o_FG%": 0.413,
+                "o_2P": 15.1,
+                "o_2PA": 34.5,
+                "o_2P%": 0.438,
+                "o_3P": 7.6,
+                "o_3PA": 20.5,
+                "o_3P%": 0.37,
+                "o_FT": 11.8,
+                "o_FTA": 17.0,
+                "o_FT%": 0.695,
+                "o_ORB": 10.3,
+                "o_DRB": 25.5,
+                "o_TRB": 35.8,
+                "o_AST": 12.6,
+                "o_STL": 6.3,
+                "o_BLK": 3.3,
+                "o_TOV": 16.6,
+                "o_PF": 16.8,
+                "o_PTS": 64.8
+            },
+            "team_ranks": {
+                "FG": 221,
+                "FGA": 34,
+                "FG%": 337,
+                "2P": 237,
+                "2PA": 82,
+                "2P%": 343,
+                "3P": 149,
+                "3PA": 114,
+                "3P%": 235,
+                "FT": 139,
+                "FTA": 142,
+                "FT%": 176,
+                "ORB": 8,
+                "DRB": 279,
+                "TRB": 70,
+                "AST": 136,
+                "STL": 16,
+                "BLK": 49,
+                "TOV": 252,
+                "PF": 243,
+                "PTS": 193
+            },
+            "opponent_ranks": {
+                "FG": 41,
+                "FGA": 65,
+                "FG%": 67,
+                "2P": 24,
+                "2PA": 118,
+                "2P%": 13,
+                "3P": 234,
+                "3PA": 108,
+                "3P%": 338,
+                "FT": 148,
+                "FTA": 166,
+                "FT%": 78,
+                "ORB": 246,
+                "DRB": 227,
+                "TRB": 247,
+                "AST": 223,
+                "STL": 160,
+                "BLK": 216,
+                "TOV": 345,
+                "PF": 169,
+                "PTS": 44
+            }
+        },
+        "seed": "16"
+    }
+}

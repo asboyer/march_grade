@@ -1,0 +1,191 @@
+{
+    "kentucky": {
+        "players": {
+            "Oscar Tshiebwe": {
+                "hs_rank": 28,
+                "Pts": 17.0,
+                "Reb": 15.2,
+                "Ast": 1.0
+            },
+            "TyTy Washington": {
+                "hs_rank": 14,
+                "Pts": 12.8,
+                "Reb": 3.5,
+                "Ast": 4.0
+            },
+            "Kellan Grady": {
+                "hs_rank": 82,
+                "Pts": 11.5,
+                "Reb": 2.0,
+                "Ast": 1.2
+            },
+            "Keion Brooks": {
+                "hs_rank": 24,
+                "Pts": 10.9,
+                "Reb": 4.4,
+                "Ast": 1.0
+            },
+            "Sahvir Wheeler": {
+                "hs_rank": 85,
+                "Pts": 10.0,
+                "Reb": 2.5,
+                "Ast": 6.9
+            },
+            "Davion Mintz": {
+                "hs_rank": 101,
+                "Pts": 8.5,
+                "Reb": 2.1,
+                "Ast": 1.8
+            },
+            "Jacob Toppin": {
+                "hs_rank": 101,
+                "Pts": 6.1,
+                "Reb": 3.3,
+                "Ast": 1.1
+            },
+            "Daimion Collins": {
+                "hs_rank": 12,
+                "Pts": 2.9,
+                "Reb": 2.0,
+                "Ast": 0.1
+            },
+            "Bryce Hopkins": {
+                "hs_rank": 33,
+                "Pts": 2.1,
+                "Reb": 1.4,
+                "Ast": 0.3
+            },
+            "Lance Ware": {
+                "hs_rank": 39,
+                "Pts": 1.6,
+                "Reb": 2.0,
+                "Ast": 0.1
+            },
+            "Dontaie Allen": {
+                "hs_rank": 92,
+                "Pts": 2.2,
+                "Reb": 1.2,
+                "Ast": 0.3
+            },
+            "Zan Payne": {
+                "hs_rank": 101,
+                "Pts": 0.9,
+                "Reb": 0.2,
+                "Ast": 0.0
+            },
+            "Brennan Canada": {
+                "hs_rank": 101,
+                "Pts": 0.7,
+                "Reb": 0.1,
+                "Ast": 0.1
+            },
+            "CJ Fredrick": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Kareem Watkins": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.3,
+                "Ast": 0.2
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 30.4,
+                "FGA": 62.8,
+                "FG%": 0.485,
+                "2P": 24.3,
+                "2PA": 45.2,
+                "2P%": 0.537,
+                "3P": 6.2,
+                "3PA": 17.6,
+                "3P%": 0.349,
+                "FT": 12.5,
+                "FTA": 17.1,
+                "FT%": 0.73,
+                "ORB": 12.9,
+                "DRB": 27.3,
+                "TRB": 40.3,
+                "AST": 16.1,
+                "STL": 6.8,
+                "BLK": 4.2,
+                "TOV": 11.5,
+                "PF": 14.2,
+                "PTS": 79.5
+            },
+            "opponent_stats": {
+                "o_FG": 24.4,
+                "o_FGA": 59.4,
+                "o_FG%": 0.411,
+                "o_2P": 17.9,
+                "o_2PA": 38.0,
+                "o_2P%": 0.472,
+                "o_3P": 6.5,
+                "o_3PA": 21.4,
+                "o_3P%": 0.303,
+                "o_FT": 10.7,
+                "o_FTA": 14.9,
+                "o_FT%": 0.715,
+                "o_ORB": 9.0,
+                "o_DRB": 21.2,
+                "o_TRB": 30.3,
+                "o_AST": 11.3,
+                "o_STL": 6.1,
+                "o_BLK": 2.9,
+                "o_TOV": 12.1,
+                "o_PF": 15.8,
+                "o_PTS": 66.0
+            },
+            "team_ranks": {
+                "FG": 5,
+                "FGA": 20,
+                "FG%": 13,
+                "2P": 2,
+                "2PA": 2,
+                "2P%": 54,
+                "3P": 296,
+                "3PA": 326,
+                "3P%": 114,
+                "FT": 172,
+                "FTA": 201,
+                "FT%": 128,
+                "ORB": 9,
+                "DRB": 45,
+                "TRB": 11,
+                "AST": 19,
+                "STL": 139,
+                "BLK": 67,
+                "TOV": 281,
+                "PF": 333,
+                "PTS": 16
+            },
+            "opponent_ranks": {
+                "FG": 153,
+                "FGA": 259,
+                "FG%": 57,
+                "2P": 210,
+                "2PA": 270,
+                "2P%": 89,
+                "3P": 79,
+                "3PA": 171,
+                "3P%": 33,
+                "FT": 64,
+                "FTA": 69,
+                "FT%": 178,
+                "ORB": 112,
+                "DRB": 5,
+                "TRB": 15,
+                "AST": 340,
+                "STL": 124,
+                "BLK": 130,
+                "TOV": 127,
+                "PF": 102,
+                "PTS": 84
+            }
+        },
+        "seed": "2"
+    }
+}

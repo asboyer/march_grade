@@ -1,0 +1,197 @@
+{
+    "southern-california": {
+        "players": {
+            "Isaiah Mobley": {
+                "hs_rank": 18,
+                "Pts": 14.3,
+                "Reb": 8.5,
+                "Ast": 3.2
+            },
+            "Boogie Ellis": {
+                "hs_rank": 36,
+                "Pts": 12.8,
+                "Reb": 3.3,
+                "Ast": 2.5
+            },
+            "Drew Peterson": {
+                "hs_rank": 101,
+                "Pts": 12.3,
+                "Reb": 6.2,
+                "Ast": 3.3
+            },
+            "Chevez Goodwin": {
+                "hs_rank": 101,
+                "Pts": 11.0,
+                "Reb": 6.5,
+                "Ast": 0.6
+            },
+            "Max Agbonkpolo": {
+                "hs_rank": 54,
+                "Pts": 7.8,
+                "Reb": 3.4,
+                "Ast": 0.7
+            },
+            "Ethan Anderson": {
+                "hs_rank": 101,
+                "Pts": 4.5,
+                "Reb": 2.2,
+                "Ast": 2.2
+            },
+            "Reese Waters": {
+                "hs_rank": 101,
+                "Pts": 4.5,
+                "Reb": 1.8,
+                "Ast": 0.5
+            },
+            "Joshua Morgan": {
+                "hs_rank": 101,
+                "Pts": 3.2,
+                "Reb": 2.8,
+                "Ast": 0.4
+            },
+            "Isaiah White": {
+                "hs_rank": 101,
+                "Pts": 3.0,
+                "Reb": 2.2,
+                "Ast": 0.5
+            },
+            "Kobe Johnson": {
+                "hs_rank": 101,
+                "Pts": 1.2,
+                "Reb": 1.1,
+                "Ast": 0.8
+            },
+            "Harrison Hornery": {
+                "hs_rank": 101,
+                "Pts": 1.6,
+                "Reb": 0.9,
+                "Ast": 0.1
+            },
+            "Boubacar Coulibaly": {
+                "hs_rank": 101,
+                "Pts": 1.7,
+                "Reb": 1.7,
+                "Ast": 0.3
+            },
+            "Amar Ross": {
+                "hs_rank": 101,
+                "Pts": 3.0,
+                "Reb": 2.0,
+                "Ast": 0.0
+            },
+            "Malik Thomas": {
+                "hs_rank": 77,
+                "Pts": 0.3,
+                "Reb": 0.1,
+                "Ast": 0.1
+            },
+            "Zach Brooker": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Reggie Parris": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 26.8,
+                "FGA": 59.2,
+                "FG%": 0.454,
+                "2P": 20.2,
+                "2PA": 40.2,
+                "2P%": 0.501,
+                "3P": 6.7,
+                "3PA": 18.9,
+                "3P%": 0.354,
+                "FT": 12.2,
+                "FTA": 18.3,
+                "FT%": 0.666,
+                "ORB": 11.9,
+                "DRB": 28.2,
+                "TRB": 40.2,
+                "AST": 14.2,
+                "STL": 5.1,
+                "BLK": 4.5,
+                "TOV": 12.0,
+                "PF": 15.6,
+                "PTS": 72.6
+            },
+            "opponent_stats": {
+                "o_FG": 23.7,
+                "o_FGA": 60.9,
+                "o_FG%": 0.389,
+                "o_2P": 16.6,
+                "o_2PA": 39.8,
+                "o_2P%": 0.417,
+                "o_3P": 7.1,
+                "o_3PA": 21.1,
+                "o_3P%": 0.336,
+                "o_FT": 11.4,
+                "o_FTA": 16.0,
+                "o_FT%": 0.713,
+                "o_ORB": 10.6,
+                "o_DRB": 23.3,
+                "o_TRB": 33.9,
+                "o_AST": 11.8,
+                "o_STL": 6.4,
+                "o_BLK": 3.3,
+                "o_TOV": 10.0,
+                "o_PF": 17.3,
+                "o_PTS": 65.9
+            },
+            "team_ranks": {
+                "FG": 76,
+                "FGA": 108,
+                "FG%": 100,
+                "2P": 47,
+                "2PA": 38,
+                "2P%": 180,
+                "3P": 256,
+                "3PA": 290,
+                "3P%": 84,
+                "FT": 192,
+                "FTA": 131,
+                "FT%": 329,
+                "ORB": 38,
+                "DRB": 14,
+                "TRB": 13,
+                "AST": 94,
+                "STL": 317,
+                "BLK": 46,
+                "TOV": 238,
+                "PF": 254,
+                "PTS": 139
+            },
+            "opponent_ranks": {
+                "FG": 100,
+                "FGA": 310,
+                "FG%": 12,
+                "2P": 100,
+                "2PA": 324,
+                "2P%": 2,
+                "3P": 159,
+                "3PA": 155,
+                "3P%": 194,
+                "FT": 116,
+                "FTA": 115,
+                "FT%": 167,
+                "ORB": 268,
+                "DRB": 75,
+                "TRB": 141,
+                "AST": 265,
+                "STL": 180,
+                "BLK": 230,
+                "TOV": 11,
+                "PF": 244,
+                "PTS": 80
+            }
+        },
+        "seed": "7"
+    }
+}

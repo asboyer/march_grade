@@ -1,0 +1,185 @@
+{
+    "norfolk-state": {
+        "players": {
+            "Joe Bryant": {
+                "hs_rank": 101,
+                "Pts": 16.8,
+                "Reb": 5.1,
+                "Ast": 3.3
+            },
+            "Jalen Hawkins": {
+                "hs_rank": 101,
+                "Pts": 13.4,
+                "Reb": 3.8,
+                "Ast": 1.6
+            },
+            "Kris Bankston": {
+                "hs_rank": 101,
+                "Pts": 11.3,
+                "Reb": 6.9,
+                "Ast": 0.9
+            },
+            "Dana Tate": {
+                "hs_rank": 101,
+                "Pts": 9.9,
+                "Reb": 5.8,
+                "Ast": 1.2
+            },
+            "Christian Ings": {
+                "hs_rank": 101,
+                "Pts": 9.1,
+                "Reb": 2.4,
+                "Ast": 2.5
+            },
+            "Tyrese Jenkins": {
+                "hs_rank": 101,
+                "Pts": 6.6,
+                "Reb": 4.5,
+                "Ast": 1.7
+            },
+            "Cahiem Brown": {
+                "hs_rank": 101,
+                "Pts": 5.3,
+                "Reb": 3.1,
+                "Ast": 1.8
+            },
+            "Nyzaiah Chambers": {
+                "hs_rank": 101,
+                "Pts": 3.1,
+                "Reb": 3.5,
+                "Ast": 0.4
+            },
+            "Daryl Anderson": {
+                "hs_rank": 101,
+                "Pts": 3.0,
+                "Reb": 1.8,
+                "Ast": 0.3
+            },
+            "Terrance Jones": {
+                "hs_rank": 101,
+                "Pts": 1.8,
+                "Reb": 0.6,
+                "Ast": 0.3
+            },
+            "Chris Ford": {
+                "hs_rank": 101,
+                "Pts": 1.3,
+                "Reb": 1.2,
+                "Ast": 0.2
+            },
+            "Andre Bottoms": {
+                "hs_rank": 101,
+                "Pts": 1.1,
+                "Reb": 0.5,
+                "Ast": 0.3
+            },
+            "Dana Woodley": {
+                "hs_rank": 101,
+                "Pts": 4.0,
+                "Reb": 1.3,
+                "Ast": 0.3
+            },
+            "Yoro Sidibe": {
+                "hs_rank": 101,
+                "Pts": 0.9,
+                "Reb": 1.0,
+                "Ast": 0.2
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 26.5,
+                "FGA": 57.0,
+                "FG%": 0.466,
+                "2P": 19.5,
+                "2PA": 36.7,
+                "2P%": 0.531,
+                "3P": 7.0,
+                "3PA": 20.2,
+                "3P%": 0.348,
+                "FT": 15.0,
+                "FTA": 21.5,
+                "FT%": 0.698,
+                "ORB": 10.1,
+                "DRB": 28.6,
+                "TRB": 38.8,
+                "AST": 12.6,
+                "STL": 6.7,
+                "BLK": 3.7,
+                "TOV": 14.0,
+                "PF": 17.7,
+                "PTS": 75.1
+            },
+            "opponent_stats": {
+                "o_FG": 21.9,
+                "o_FGA": 58.4,
+                "o_FG%": 0.374,
+                "o_2P": 14.3,
+                "o_2PA": 32.1,
+                "o_2P%": 0.445,
+                "o_3P": 7.6,
+                "o_3PA": 26.3,
+                "o_3P%": 0.288,
+                "o_FT": 12.4,
+                "o_FTA": 19.2,
+                "o_FT%": 0.646,
+                "o_ORB": 10.3,
+                "o_DRB": 23.1,
+                "o_TRB": 33.4,
+                "o_AST": 11.8,
+                "o_STL": 5.8,
+                "o_BLK": 3.3,
+                "o_TOV": 13.8,
+                "o_PF": 18.3,
+                "o_PTS": 63.7
+            },
+            "team_ranks": {
+                "FG": 97,
+                "FGA": 220,
+                "FG%": 49,
+                "2P": 71,
+                "2PA": 161,
+                "2P%": 72,
+                "3P": 217,
+                "3PA": 251,
+                "3P%": 120,
+                "FT": 35,
+                "FTA": 20,
+                "FT%": 243,
+                "ORB": 160,
+                "DRB": 10,
+                "TRB": 29,
+                "AST": 198,
+                "STL": 152,
+                "BLK": 112,
+                "TOV": 55,
+                "PF": 101,
+                "PTS": 72
+            },
+            "opponent_ranks": {
+                "FG": 18,
+                "FGA": 212,
+                "FG%": 2,
+                "2P": 9,
+                "2PA": 33,
+                "2P%": 18,
+                "3P": 232,
+                "3PA": 341,
+                "3P%": 9,
+                "FT": 194,
+                "FTA": 283,
+                "FT%": 3,
+                "ORB": 248,
+                "DRB": 68,
+                "TRB": 118,
+                "AST": 160,
+                "STL": 84,
+                "BLK": 208,
+                "TOV": 266,
+                "PF": 302,
+                "PTS": 36
+            }
+        },
+        "seed": "16"
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "chattanooga": {
+        "players": {
+            "Malachi Smith": {
+                "hs_rank": 101,
+                "Pts": 20.1,
+                "Reb": 6.7,
+                "Ast": 3.1
+            },
+            "David Jean-Baptiste": {
+                "hs_rank": 101,
+                "Pts": 14.7,
+                "Reb": 2.5,
+                "Ast": 2.3
+            },
+            "Silvio De Sousa": {
+                "hs_rank": 101,
+                "Pts": 11.1,
+                "Reb": 7.0,
+                "Ast": 0.8
+            },
+            "Darius Banks": {
+                "hs_rank": 101,
+                "Pts": 8.3,
+                "Reb": 4.7,
+                "Ast": 2.7
+            },
+            "A.J. Caldwell": {
+                "hs_rank": 101,
+                "Pts": 5.0,
+                "Reb": 3.1,
+                "Ast": 2.2
+            },
+            "Avery Diggs": {
+                "hs_rank": 101,
+                "Pts": 4.6,
+                "Reb": 2.3,
+                "Ast": 0.4
+            },
+            "Grant Ledford": {
+                "hs_rank": 101,
+                "Pts": 4.9,
+                "Reb": 2.0,
+                "Ast": 0.5
+            },
+            "Josh Ayeni": {
+                "hs_rank": 101,
+                "Pts": 4.2,
+                "Reb": 2.5,
+                "Ast": 0.3
+            },
+            "KC Hankton": {
+                "hs_rank": 101,
+                "Pts": 4.5,
+                "Reb": 2.9,
+                "Ast": 0.7
+            },
+            "Jamaal Walker": {
+                "hs_rank": 101,
+                "Pts": 4.4,
+                "Reb": 1.7,
+                "Ast": 0.4
+            },
+            "Tada Stricklen": {
+                "hs_rank": 101,
+                "Pts": 0.4,
+                "Reb": 1.0,
+                "Ast": 0.4
+            },
+            "Jaden Frazier": {
+                "hs_rank": 101,
+                "Pts": 0.6,
+                "Reb": 0.4,
+                "Ast": 0.1
+            },
+            "Ashton Smith": {
+                "hs_rank": 101,
+                "Pts": 0.6,
+                "Reb": 0.6,
+                "Ast": 0.7
+            },
+            "Randy Brady": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Jacob Radaker": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Johnny Taylor Jr.": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 27.5,
+                "FGA": 58.6,
+                "FG%": 0.469,
+                "2P": 19.5,
+                "2PA": 35.6,
+                "2P%": 0.548,
+                "3P": 8.0,
+                "3PA": 23.1,
+                "3P%": 0.346,
+                "FT": 11.8,
+                "FTA": 15.7,
+                "FT%": 0.752,
+                "ORB": 10.6,
+                "DRB": 25.3,
+                "TRB": 35.9,
+                "AST": 13.0,
+                "STL": 7.2,
+                "BLK": 2.2,
+                "TOV": 11.0,
+                "PF": 15.5,
+                "PTS": 74.8
+            },
+            "opponent_stats": {
+                "o_FG": 23.9,
+                "o_FGA": 56.4,
+                "o_FG%": 0.423,
+                "o_2P": 17.0,
+                "o_2PA": 33.5,
+                "o_2P%": 0.507,
+                "o_3P": 6.9,
+                "o_3PA": 22.9,
+                "o_3P%": 0.3,
+                "o_FT": 10.1,
+                "o_FTA": 14.6,
+                "o_FT%": 0.692,
+                "o_ORB": 9.0,
+                "o_DRB": 21.9,
+                "o_TRB": 30.9,
+                "o_AST": 10.6,
+                "o_STL": 5.6,
+                "o_BLK": 3.4,
+                "o_TOV": 12.2,
+                "o_PF": 14.6,
+                "o_PTS": 64.7
+            },
+            "team_ranks": {
+                "FG": 54,
+                "FGA": 132,
+                "FG%": 42,
+                "2P": 71,
+                "2PA": 192,
+                "2P%": 32,
+                "3P": 120,
+                "3PA": 121,
+                "3P%": 127,
+                "FT": 223,
+                "FTA": 271,
+                "FT%": 60,
+                "ORB": 118,
+                "DRB": 183,
+                "TRB": 132,
+                "AST": 177,
+                "STL": 106,
+                "BLK": 313,
+                "TOV": 315,
+                "PF": 265,
+                "PTS": 80
+            },
+            "opponent_ranks": {
+                "FG": 116,
+                "FGA": 132,
+                "FG%": 130,
+                "2P": 129,
+                "2PA": 81,
+                "2P%": 245,
+                "3P": 130,
+                "3PA": 244,
+                "3P%": 25,
+                "FT": 44,
+                "FTA": 56,
+                "FT%": 65,
+                "ORB": 106,
+                "DRB": 20,
+                "TRB": 28,
+                "AST": 182,
+                "STL": 69,
+                "BLK": 262,
+                "TOV": 136,
+                "PF": 33,
+                "PTS": 42
+            }
+        },
+        "seed": "13"
+    }
+}

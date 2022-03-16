@@ -1,0 +1,203 @@
+{
+    "montana-state": {
+        "players": {
+            "Xavier Bishop": {
+                "hs_rank": 101,
+                "Pts": 13.9,
+                "Reb": 3.3,
+                "Ast": 4.3
+            },
+            "Jubrile Belo": {
+                "hs_rank": 101,
+                "Pts": 13.0,
+                "Reb": 6.8,
+                "Ast": 1.0
+            },
+            "Amin Adamu": {
+                "hs_rank": 101,
+                "Pts": 11.6,
+                "Reb": 4.8,
+                "Ast": 1.7
+            },
+            "Raequan Battle": {
+                "hs_rank": 78,
+                "Pts": 8.5,
+                "Reb": 2.4,
+                "Ast": 0.8
+            },
+            "Abdul Mohamed": {
+                "hs_rank": 101,
+                "Pts": 7.8,
+                "Reb": 6.6,
+                "Ast": 1.6
+            },
+            "Tyler Patterson": {
+                "hs_rank": 101,
+                "Pts": 7.2,
+                "Reb": 1.2,
+                "Ast": 0.7
+            },
+            "Great Osobor": {
+                "hs_rank": 101,
+                "Pts": 6.0,
+                "Reb": 4.2,
+                "Ast": 0.7
+            },
+            "Nick Gazelas": {
+                "hs_rank": 101,
+                "Pts": 5.2,
+                "Reb": 0.5,
+                "Ast": 0.5
+            },
+            "Sam Lecholat": {
+                "hs_rank": 101,
+                "Pts": 2.0,
+                "Reb": 1.4,
+                "Ast": 0.6
+            },
+            "Kellen Tynes": {
+                "hs_rank": 101,
+                "Pts": 1.1,
+                "Reb": 0.9,
+                "Ast": 0.9
+            },
+            "Patrick McMahon": {
+                "hs_rank": 101,
+                "Pts": 1.8,
+                "Reb": 0.9,
+                "Ast": 0.3
+            },
+            "Mareng Gatkuoth": {
+                "hs_rank": 101,
+                "Pts": 3.2,
+                "Reb": 1.0,
+                "Ast": 1.8
+            },
+            "Isaac Spears": {
+                "hs_rank": 101,
+                "Pts": 1.2,
+                "Reb": 0.3,
+                "Ast": 0.4
+            },
+            "Borja Fernandez": {
+                "hs_rank": 101,
+                "Pts": 0.5,
+                "Reb": 0.6,
+                "Ast": 0.0
+            },
+            "Carter Ash": {
+                "hs_rank": 101,
+                "Pts": 1.5,
+                "Reb": 0.5,
+                "Ast": 0.5
+            },
+            "Alex Germer": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Jasper Reinalda": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 26.5,
+                "FGA": 55.8,
+                "FG%": 0.475,
+                "2P": 18.9,
+                "2PA": 35.1,
+                "2P%": 0.539,
+                "3P": 7.6,
+                "3PA": 20.7,
+                "3P%": 0.369,
+                "FT": 16.3,
+                "FTA": 21.6,
+                "FT%": 0.753,
+                "ORB": 8.7,
+                "DRB": 26.8,
+                "TRB": 35.5,
+                "AST": 13.2,
+                "STL": 5.2,
+                "BLK": 3.7,
+                "TOV": 12.8,
+                "PF": 18.1,
+                "PTS": 77.0
+            },
+            "opponent_stats": {
+                "o_FG": 23.7,
+                "o_FGA": 56.2,
+                "o_FG%": 0.421,
+                "o_2P": 17.3,
+                "o_2PA": 36.4,
+                "o_2P%": 0.476,
+                "o_3P": 6.4,
+                "o_3PA": 19.8,
+                "o_3P%": 0.321,
+                "o_FT": 14.8,
+                "o_FTA": 19.6,
+                "o_FT%": 0.754,
+                "o_ORB": 7.8,
+                "o_DRB": 23.1,
+                "o_TRB": 30.9,
+                "o_AST": 9.2,
+                "o_STL": 6.5,
+                "o_BLK": 2.7,
+                "o_TOV": 12.9,
+                "o_PF": 19.9,
+                "o_PTS": 68.5
+            },
+            "team_ranks": {
+                "FG": 98,
+                "FGA": 285,
+                "FG%": 28,
+                "2P": 117,
+                "2PA": 214,
+                "2P%": 47,
+                "3P": 151,
+                "3PA": 237,
+                "3P%": 38,
+                "FT": 7,
+                "FTA": 16,
+                "FT%": 52,
+                "ORB": 273,
+                "DRB": 69,
+                "TRB": 158,
+                "AST": 166,
+                "STL": 305,
+                "BLK": 103,
+                "TOV": 161,
+                "PF": 61,
+                "PTS": 41
+            },
+            "opponent_ranks": {
+                "FG": 98,
+                "FGA": 128,
+                "FG%": 119,
+                "2P": 147,
+                "2PA": 207,
+                "2P%": 109,
+                "3P": 66,
+                "3PA": 75,
+                "3P%": 103,
+                "FT": 322,
+                "FTA": 294,
+                "FT%": 336,
+                "ORB": 31,
+                "DRB": 65,
+                "TRB": 31,
+                "AST": 193,
+                "STL": 191,
+                "BLK": 85,
+                "TOV": 190,
+                "PF": 355,
+                "PTS": 160
+            }
+        },
+        "seed": "14"
+    }
+}

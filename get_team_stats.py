@@ -32,13 +32,6 @@ def get_team_stats(team):
         for td in player[1]:
             stats[player[0]][headers[h]] = td.getText()
             h += 1
-        # tds = rows[i].findAll('td')
-        # print(tds[0])
-        # h = 0
-        # stats[name] = {}
-        # for td in tds:
-        #     stats[name][headers[h]] = td.getText()
-        #     h += 1
 
     final_stats = {}
     for player in stats:
@@ -62,7 +55,6 @@ def get_team_stats(team):
             for c in range(len(cats)):
                 final_stats[player][cats[c]] = pstats[c]
 
-
     team_stats = {}
     categories = []
     for i in range(len(rows)):
@@ -85,7 +77,7 @@ def get_team_stats(team):
     h = 0
     os = {}
     for td in tds:
-        os[categories[h]] = float(td.getText())
+        os["o_" + categories[h]] = float(td.getText())
         h += 1
 
     tds = rows[ind + 1].findAll('td')[2:]
@@ -108,14 +100,10 @@ def get_team_stats(team):
         'opponent_ranks': o
     }
 
-
-
     j = {}
     j[team] = {
         'players': final_stats,
         'team': team_stats
     }
 
-    with open(f'{team}.json', 'w+', encoding='utf8') as file:
-        file.write(json.dumps(j, ensure_ascii=False, indent =4))
-get_team_stats('gonzaga')
+    return j

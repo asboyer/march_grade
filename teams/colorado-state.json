@@ -1,0 +1,191 @@
+{
+    "colorado-state": {
+        "players": {
+            "David Roddy": {
+                "hs_rank": 101,
+                "Pts": 19.4,
+                "Reb": 7.6,
+                "Ast": 2.8
+            },
+            "Isaiah Stevens": {
+                "hs_rank": 101,
+                "Pts": 14.9,
+                "Reb": 3.1,
+                "Ast": 4.8
+            },
+            "John Tonje": {
+                "hs_rank": 101,
+                "Pts": 9.4,
+                "Reb": 3.0,
+                "Ast": 0.9
+            },
+            "Kendle Moore": {
+                "hs_rank": 101,
+                "Pts": 6.4,
+                "Reb": 2.6,
+                "Ast": 1.8
+            },
+            "Chandler Jacobs": {
+                "hs_rank": 101,
+                "Pts": 5.6,
+                "Reb": 4.1,
+                "Ast": 0.7
+            },
+            "Dischon Thomas": {
+                "hs_rank": 101,
+                "Pts": 5.4,
+                "Reb": 3.2,
+                "Ast": 1.0
+            },
+            "James Moors": {
+                "hs_rank": 101,
+                "Pts": 4.1,
+                "Reb": 2.4,
+                "Ast": 0.8
+            },
+            "Jalen Lake": {
+                "hs_rank": 101,
+                "Pts": 3.6,
+                "Reb": 1.1,
+                "Ast": 0.5
+            },
+            "Isaiah Rivera": {
+                "hs_rank": 101,
+                "Pts": 3.5,
+                "Reb": 1.6,
+                "Ast": 0.5
+            },
+            "Adam Thistlewood": {
+                "hs_rank": 101,
+                "Pts": 2.5,
+                "Reb": 1.8,
+                "Ast": 0.7
+            },
+            "Baylor Hebb": {
+                "hs_rank": 101,
+                "Pts": 0.5,
+                "Reb": 0.1,
+                "Ast": 0.2
+            },
+            "Nick Bassett": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Jacob Jennissen": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.2,
+                "Ast": 0.0
+            },
+            "Trace Young": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Jalen Scott": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 26.6,
+                "FGA": 54.8,
+                "FG%": 0.485,
+                "2P": 19.0,
+                "2PA": 33.5,
+                "2P%": 0.566,
+                "3P": 7.6,
+                "3PA": 21.3,
+                "3P%": 0.358,
+                "FT": 12.9,
+                "FTA": 16.7,
+                "FT%": 0.774,
+                "ORB": 6.6,
+                "DRB": 25.3,
+                "TRB": 31.9,
+                "AST": 14.2,
+                "STL": 6.3,
+                "BLK": 3.2,
+                "TOV": 10.1,
+                "PF": 14.9,
+                "PTS": 73.7
+            },
+            "opponent_stats": {
+                "o_FG": 23.9,
+                "o_FGA": 56.0,
+                "o_FG%": 0.427,
+                "o_2P": 15.8,
+                "o_2PA": 31.3,
+                "o_2P%": 0.504,
+                "o_3P": 8.1,
+                "o_3PA": 24.7,
+                "o_3P%": 0.328,
+                "o_FT": 9.8,
+                "o_FTA": 14.0,
+                "o_FT%": 0.704,
+                "o_ORB": 8.3,
+                "o_DRB": 23.5,
+                "o_TRB": 31.8,
+                "o_AST": 11.9,
+                "o_STL": 5.5,
+                "o_BLK": 2.9,
+                "o_TOV": 12.3,
+                "o_PF": 17.4,
+                "o_PTS": 65.7
+            },
+            "team_ranks": {
+                "FG": 94,
+                "FGA": 320,
+                "FG%": 12,
+                "2P": 111,
+                "2PA": 265,
+                "2P%": 13,
+                "3P": 154,
+                "3PA": 198,
+                "3P%": 70,
+                "FT": 146,
+                "FTA": 219,
+                "FT%": 16,
+                "ORB": 349,
+                "DRB": 182,
+                "TRB": 321,
+                "AST": 92,
+                "STL": 208,
+                "BLK": 175,
+                "TOV": 341,
+                "PF": 309,
+                "PTS": 108
+            },
+            "opponent_ranks": {
+                "FG": 117,
+                "FGA": 114,
+                "FG%": 148,
+                "2P": 58,
+                "2PA": 21,
+                "2P%": 231,
+                "3P": 289,
+                "3PA": 312,
+                "3P%": 149,
+                "FT": 37,
+                "FTA": 35,
+                "FT%": 117,
+                "ORB": 63,
+                "DRB": 81,
+                "TRB": 48,
+                "AST": 267,
+                "STL": 58,
+                "BLK": 110,
+                "TOV": 142,
+                "PF": 245,
+                "PTS": 74
+            }
+        },
+        "seed": "6"
+    }
+}

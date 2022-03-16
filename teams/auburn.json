@@ -1,0 +1,209 @@
+{
+    "auburn": {
+        "players": {
+            "Jabari Smith": {
+                "hs_rank": 4,
+                "Pts": 17.1,
+                "Reb": 7.0,
+                "Ast": 1.9
+            },
+            "K.D. Johnson": {
+                "hs_rank": 86,
+                "Pts": 12.3,
+                "Reb": 2.8,
+                "Ast": 1.4
+            },
+            "Wendell Green": {
+                "hs_rank": 101,
+                "Pts": 12.1,
+                "Reb": 3.8,
+                "Ast": 5.0
+            },
+            "Walker Kessler": {
+                "hs_rank": 18,
+                "Pts": 11.7,
+                "Reb": 8.2,
+                "Ast": 0.9
+            },
+            "Devan Cambridge": {
+                "hs_rank": 101,
+                "Pts": 5.4,
+                "Reb": 3.5,
+                "Ast": 0.7
+            },
+            "Jaylin Williams": {
+                "hs_rank": 79,
+                "Pts": 5.4,
+                "Reb": 2.7,
+                "Ast": 0.9
+            },
+            "Zep Jasper": {
+                "hs_rank": 101,
+                "Pts": 5.1,
+                "Reb": 1.3,
+                "Ast": 2.1
+            },
+            "Allen Flanigan": {
+                "hs_rank": 101,
+                "Pts": 6.2,
+                "Reb": 3.3,
+                "Ast": 1.3
+            },
+            "Dylan Cardwell": {
+                "hs_rank": 101,
+                "Pts": 3.1,
+                "Reb": 3.0,
+                "Ast": 0.6
+            },
+            "Chris Moore": {
+                "hs_rank": 101,
+                "Pts": 1.8,
+                "Reb": 1.5,
+                "Ast": 0.3
+            },
+            "Lior Berman": {
+                "hs_rank": 101,
+                "Pts": 2.2,
+                "Reb": 0.8,
+                "Ast": 0.3
+            },
+            "Preston Cook": {
+                "hs_rank": 101,
+                "Pts": 0.8,
+                "Reb": 0.2,
+                "Ast": 0.1
+            },
+            "Chandler Leopard": {
+                "hs_rank": 101,
+                "Pts": 0.7,
+                "Reb": 0.1,
+                "Ast": 0.0
+            },
+            "Carter Sobera": {
+                "hs_rank": 101,
+                "Pts": 0.8,
+                "Reb": 1.0,
+                "Ast": 0.0
+            },
+            "Babatunde Akingbola": {
+                "hs_rank": 101,
+                "Pts": 0.4,
+                "Reb": 1.0,
+                "Ast": 0.2
+            },
+            "Ty Cressman": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Chase Maasdorp": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.1
+            },
+            "Michael Whitmore": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 27.9,
+                "FGA": 63.6,
+                "FG%": 0.44,
+                "2P": 19.8,
+                "2PA": 38.2,
+                "2P%": 0.519,
+                "3P": 8.1,
+                "3PA": 25.4,
+                "3P%": 0.32,
+                "FT": 14.7,
+                "FTA": 20.1,
+                "FT%": 0.733,
+                "ORB": 12.5,
+                "DRB": 27.5,
+                "TRB": 39.9,
+                "AST": 14.6,
+                "STL": 8.8,
+                "BLK": 7.9,
+                "TOV": 12.1,
+                "PF": 18.5,
+                "PTS": 78.7
+            },
+            "opponent_stats": {
+                "o_FG": 22.7,
+                "o_FGA": 59.0,
+                "o_FG%": 0.385,
+                "o_2P": 16.0,
+                "o_2PA": 37.6,
+                "o_2P%": 0.426,
+                "o_3P": 6.7,
+                "o_3PA": 21.4,
+                "o_3P%": 0.312,
+                "o_FT": 15.0,
+                "o_FTA": 20.5,
+                "o_FT%": 0.729,
+                "o_ORB": 11.4,
+                "o_DRB": 25.2,
+                "o_TRB": 36.6,
+                "o_AST": 11.1,
+                "o_STL": 7.4,
+                "o_BLK": 3.9,
+                "o_TOV": 15.0,
+                "o_PF": 17.6,
+                "o_PTS": 67.0
+            },
+            "team_ranks": {
+                "FG": 32,
+                "FGA": 12,
+                "FG%": 190,
+                "2P": 58,
+                "2PA": 100,
+                "2P%": 110,
+                "3P": 107,
+                "3PA": 48,
+                "3P%": 264,
+                "FT": 47,
+                "FTA": 56,
+                "FT%": 120,
+                "ORB": 21,
+                "DRB": 39,
+                "TRB": 15,
+                "AST": 72,
+                "STL": 20,
+                "BLK": 1,
+                "TOV": 237,
+                "PF": 42,
+                "PTS": 23
+            },
+            "opponent_ranks": {
+                "FG": 42,
+                "FGA": 238,
+                "FG%": 7,
+                "2P": 68,
+                "2PA": 253,
+                "2P%": 4,
+                "3P": 104,
+                "3PA": 173,
+                "3P%": 61,
+                "FT": 329,
+                "FTA": 320,
+                "FT%": 260,
+                "ORB": 321,
+                "DRB": 200,
+                "TRB": 293,
+                "AST": 286,
+                "STL": 316,
+                "BLK": 319,
+                "TOV": 319,
+                "PF": 256,
+                "PTS": 114
+            }
+        },
+        "seed": "2"
+    }
+}

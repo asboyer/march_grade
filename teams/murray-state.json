@@ -1,0 +1,185 @@
+{
+    "murray-state": {
+        "players": {
+            "K.J. Williams": {
+                "hs_rank": 101,
+                "Pts": 18.2,
+                "Reb": 8.6,
+                "Ast": 0.7
+            },
+            "Tevin Brown": {
+                "hs_rank": 101,
+                "Pts": 16.9,
+                "Reb": 5.5,
+                "Ast": 3.0
+            },
+            "Justice Hill": {
+                "hs_rank": 101,
+                "Pts": 13.2,
+                "Reb": 2.2,
+                "Ast": 5.0
+            },
+            "Trae Hannibal": {
+                "hs_rank": 101,
+                "Pts": 8.9,
+                "Reb": 5.0,
+                "Ast": 2.6
+            },
+            "DJ Burns": {
+                "hs_rank": 101,
+                "Pts": 5.9,
+                "Reb": 6.5,
+                "Ast": 0.9
+            },
+            "Carter Collins": {
+                "hs_rank": 101,
+                "Pts": 4.4,
+                "Reb": 1.8,
+                "Ast": 1.3
+            },
+            "DaQuan Smith": {
+                "hs_rank": 101,
+                "Pts": 3.5,
+                "Reb": 1.3,
+                "Ast": 0.2
+            },
+            "Nicholas McMullen": {
+                "hs_rank": 101,
+                "Pts": 3.3,
+                "Reb": 3.1,
+                "Ast": 0.3
+            },
+            "Jordan Skipper-Brown": {
+                "hs_rank": 101,
+                "Pts": 3.9,
+                "Reb": 2.3,
+                "Ast": 0.5
+            },
+            "Dionte Bostick": {
+                "hs_rank": 101,
+                "Pts": 2.0,
+                "Reb": 0.4,
+                "Ast": 0.5
+            },
+            "Jackson Sivills": {
+                "hs_rank": 101,
+                "Pts": 1.7,
+                "Reb": 0.6,
+                "Ast": 0.1
+            },
+            "Rod Thomas": {
+                "hs_rank": 101,
+                "Pts": 0.9,
+                "Reb": 0.7,
+                "Ast": 0.1
+            },
+            "Elijah Farr": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Matt Smith": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 29.0,
+                "FGA": 60.6,
+                "FG%": 0.479,
+                "2P": 21.0,
+                "2PA": 37.8,
+                "2P%": 0.555,
+                "3P": 8.1,
+                "3PA": 22.8,
+                "3P%": 0.353,
+                "FT": 13.2,
+                "FTA": 19.0,
+                "FT%": 0.694,
+                "ORB": 12.5,
+                "DRB": 26.7,
+                "TRB": 39.2,
+                "AST": 14.7,
+                "STL": 7.9,
+                "BLK": 3.1,
+                "TOV": 11.4,
+                "PF": 15.0,
+                "PTS": 79.3
+            },
+            "opponent_stats": {
+                "o_FG": 22.9,
+                "o_FGA": 56.0,
+                "o_FG%": 0.41,
+                "o_2P": 16.1,
+                "o_2PA": 33.3,
+                "o_2P%": 0.483,
+                "o_3P": 6.9,
+                "o_3PA": 22.7,
+                "o_3P%": 0.303,
+                "o_FT": 9.5,
+                "o_FTA": 14.1,
+                "o_FT%": 0.676,
+                "o_ORB": 8.8,
+                "o_DRB": 22.2,
+                "o_TRB": 30.9,
+                "o_AST": 10.2,
+                "o_STL": 5.3,
+                "o_BLK": 3.8,
+                "o_TOV": 14.1,
+                "o_PF": 16.4,
+                "o_PTS": 62.3
+            },
+            "team_ranks": {
+                "FG": 14,
+                "FGA": 55,
+                "FG%": 20,
+                "2P": 24,
+                "2PA": 125,
+                "2P%": 26,
+                "3P": 118,
+                "3PA": 132,
+                "3P%": 92,
+                "FT": 130,
+                "FTA": 102,
+                "FT%": 260,
+                "ORB": 19,
+                "DRB": 75,
+                "TRB": 23,
+                "AST": 64,
+                "STL": 50,
+                "BLK": 182,
+                "TOV": 295,
+                "PF": 304,
+                "PTS": 17
+            },
+            "opponent_ranks": {
+                "FG": 52,
+                "FGA": 112,
+                "FG%": 49,
+                "2P": 71,
+                "2PA": 74,
+                "2P%": 144,
+                "3P": 134,
+                "3PA": 240,
+                "3P%": 32,
+                "FT": 20,
+                "FTA": 39,
+                "FT%": 25,
+                "ORB": 87,
+                "DRB": 27,
+                "TRB": 30,
+                "AST": 293,
+                "STL": 39,
+                "BLK": 302,
+                "TOV": 280,
+                "PF": 150,
+                "PTS": 21
+            }
+        },
+        "seed": "7"
+    }
+}

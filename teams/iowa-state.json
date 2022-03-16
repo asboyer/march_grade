@@ -1,0 +1,173 @@
+{
+    "iowa-state": {
+        "players": {
+            "Izaiah Brockington": {
+                "hs_rank": 101,
+                "Pts": 17.2,
+                "Reb": 7.1,
+                "Ast": 1.7
+            },
+            "Tyrese Hunter": {
+                "hs_rank": 34,
+                "Pts": 10.8,
+                "Reb": 3.4,
+                "Ast": 4.9
+            },
+            "Gabe Kalscheur": {
+                "hs_rank": 101,
+                "Pts": 9.3,
+                "Reb": 2.2,
+                "Ast": 1.8
+            },
+            "Caleb Grill": {
+                "hs_rank": 101,
+                "Pts": 6.5,
+                "Reb": 2.6,
+                "Ast": 1.5
+            },
+            "Aljaz Kunc": {
+                "hs_rank": 101,
+                "Pts": 6.2,
+                "Reb": 3.9,
+                "Ast": 1.0
+            },
+            "George Conditt IV": {
+                "hs_rank": 101,
+                "Pts": 5.0,
+                "Reb": 3.5,
+                "Ast": 1.9
+            },
+            "Tristan Enaruna": {
+                "hs_rank": 74,
+                "Pts": 4.7,
+                "Reb": 3.0,
+                "Ast": 0.3
+            },
+            "Tre Jackson": {
+                "hs_rank": 101,
+                "Pts": 4.1,
+                "Reb": 1.0,
+                "Ast": 0.8
+            },
+            "Robert Jones": {
+                "hs_rank": 101,
+                "Pts": 2.9,
+                "Reb": 2.3,
+                "Ast": 0.8
+            },
+            "Jaden Walker": {
+                "hs_rank": 101,
+                "Pts": 2.3,
+                "Reb": 1.0,
+                "Ast": 0.6
+            },
+            "Carter Boothe": {
+                "hs_rank": 101,
+                "Pts": 0.3,
+                "Reb": 0.0,
+                "Ast": 0.2
+            },
+            "Blake Hinson": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 24.5,
+                "FGA": 55.8,
+                "FG%": 0.439,
+                "2P": 17.8,
+                "2PA": 34.9,
+                "2P%": 0.509,
+                "3P": 6.7,
+                "3PA": 20.9,
+                "3P%": 0.321,
+                "FT": 10.8,
+                "FTA": 15.7,
+                "FT%": 0.684,
+                "ORB": 9.4,
+                "DRB": 22.6,
+                "TRB": 32.0,
+                "AST": 14.7,
+                "STL": 8.4,
+                "BLK": 3.1,
+                "TOV": 13.8,
+                "PF": 18.0,
+                "PTS": 66.5
+            },
+            "opponent_stats": {
+                "o_FG": 22.0,
+                "o_FGA": 51.3,
+                "o_FG%": 0.428,
+                "o_2P": 16.3,
+                "o_2PA": 32.1,
+                "o_2P%": 0.507,
+                "o_3P": 5.7,
+                "o_3PA": 19.2,
+                "o_3P%": 0.296,
+                "o_FT": 13.4,
+                "o_FTA": 18.6,
+                "o_FT%": 0.719,
+                "o_ORB": 9.0,
+                "o_DRB": 24.0,
+                "o_TRB": 33.0,
+                "o_AST": 11.5,
+                "o_STL": 7.2,
+                "o_BLK": 3.9,
+                "o_TOV": 16.6,
+                "o_PF": 17.3,
+                "o_PTS": 63.0
+            },
+            "team_ranks": {
+                "FG": 260,
+                "FGA": 284,
+                "FG%": 199,
+                "2P": 202,
+                "2PA": 219,
+                "2P%": 152,
+                "3P": 253,
+                "3PA": 228,
+                "3P%": 261,
+                "FT": 289,
+                "FTA": 268,
+                "FT%": 285,
+                "ORB": 214,
+                "DRB": 337,
+                "TRB": 316,
+                "AST": 64,
+                "STL": 32,
+                "BLK": 188,
+                "TOV": 72,
+                "PF": 72,
+                "PTS": 294
+            },
+            "opponent_ranks": {
+                "FG": 21,
+                "FGA": 7,
+                "FG%": 161,
+                "2P": 82,
+                "2PA": 32,
+                "2P%": 243,
+                "3P": 22,
+                "3PA": 52,
+                "3P%": 21,
+                "FT": 261,
+                "FTA": 255,
+                "FT%": 199,
+                "ORB": 107,
+                "DRB": 112,
+                "TRB": 97,
+                "AST": 293,
+                "STL": 298,
+                "BLK": 321,
+                "TOV": 346,
+                "PF": 237,
+                "PTS": 25
+            }
+        },
+        "seed": "11"
+    }
+}

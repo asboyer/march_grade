@@ -1,0 +1,179 @@
+{
+    "south-dakota-state": {
+        "players": {
+            "Baylor Scheierman": {
+                "hs_rank": 101,
+                "Pts": 16.2,
+                "Reb": 7.8,
+                "Ast": 4.6
+            },
+            "Douglas Wilson": {
+                "hs_rank": 101,
+                "Pts": 16.5,
+                "Reb": 5.5,
+                "Ast": 1.5
+            },
+            "Zeke Mayo": {
+                "hs_rank": 101,
+                "Pts": 9.6,
+                "Reb": 2.9,
+                "Ast": 2.1
+            },
+            "Luke Appel": {
+                "hs_rank": 101,
+                "Pts": 9.2,
+                "Reb": 3.7,
+                "Ast": 1.3
+            },
+            "Charlie Easley": {
+                "hs_rank": 101,
+                "Pts": 8.0,
+                "Reb": 3.4,
+                "Ast": 1.3
+            },
+            "Alex Arians": {
+                "hs_rank": 101,
+                "Pts": 7.9,
+                "Reb": 3.9,
+                "Ast": 2.1
+            },
+            "Noah Freidel": {
+                "hs_rank": 101,
+                "Pts": 14.2,
+                "Reb": 2.4,
+                "Ast": 1.1
+            },
+            "Matt Dentlinger": {
+                "hs_rank": 101,
+                "Pts": 5.7,
+                "Reb": 2.8,
+                "Ast": 0.7
+            },
+            "Matthew Mims": {
+                "hs_rank": 101,
+                "Pts": 4.6,
+                "Reb": 1.2,
+                "Ast": 0.7
+            },
+            "David Wingett": {
+                "hs_rank": 101,
+                "Pts": 2.9,
+                "Reb": 1.5,
+                "Ast": 0.7
+            },
+            "Jaylon Gentry": {
+                "hs_rank": 101,
+                "Pts": 1.9,
+                "Reb": 0.2,
+                "Ast": 0.3
+            },
+            "Aaron Fiegen": {
+                "hs_rank": 101,
+                "Pts": 1.3,
+                "Reb": 0.8,
+                "Ast": 0.2
+            },
+            "Broden Lien": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 31.1,
+                "FGA": 59.2,
+                "FG%": 0.525,
+                "2P": 21.7,
+                "2PA": 38.3,
+                "2P%": 0.566,
+                "3P": 9.4,
+                "3PA": 20.9,
+                "3P%": 0.449,
+                "FT": 15.2,
+                "FTA": 20.0,
+                "FT%": 0.759,
+                "ORB": 7.4,
+                "DRB": 28.1,
+                "TRB": 35.6,
+                "AST": 15.2,
+                "STL": 6.1,
+                "BLK": 2.5,
+                "TOV": 11.0,
+                "PF": 15.4,
+                "PTS": 86.7
+            },
+            "opponent_stats": {
+                "o_FG": 27.4,
+                "o_FGA": 62.4,
+                "o_FG%": 0.438,
+                "o_2P": 18.3,
+                "o_2PA": 36.7,
+                "o_2P%": 0.498,
+                "o_3P": 9.1,
+                "o_3PA": 25.7,
+                "o_3P%": 0.353,
+                "o_FT": 9.6,
+                "o_FTA": 13.0,
+                "o_FT%": 0.738,
+                "o_ORB": 8.4,
+                "o_DRB": 23.1,
+                "o_TRB": 31.5,
+                "o_AST": 12.1,
+                "o_STL": 4.9,
+                "o_BLK": 2.6,
+                "o_TOV": 11.8,
+                "o_PF": 18.0,
+                "o_PTS": 73.4
+            },
+            "team_ranks": {
+                "FG": 3,
+                "FGA": 107,
+                "FG%": 2,
+                "2P": 11,
+                "2PA": 95,
+                "2P%": 14,
+                "3P": 23,
+                "3PA": 232,
+                "3P%": 1,
+                "FT": 26,
+                "FTA": 58,
+                "FT%": 35,
+                "ORB": 329,
+                "DRB": 16,
+                "TRB": 146,
+                "AST": 44,
+                "STL": 235,
+                "BLK": 277,
+                "TOV": 314,
+                "PF": 267,
+                "PTS": 2
+            },
+            "opponent_ranks": {
+                "FG": 316,
+                "FGA": 332,
+                "FG%": 209,
+                "2P": 238,
+                "2PA": 216,
+                "2P%": 200,
+                "3P": 336,
+                "3PA": 335,
+                "3P%": 287,
+                "FT": 26,
+                "FTA": 13,
+                "FT%": 291,
+                "ORB": 70,
+                "DRB": 62,
+                "TRB": 43,
+                "AST": 315,
+                "STL": 10,
+                "BLK": 59,
+                "TOV": 102,
+                "PF": 288,
+                "PTS": 287
+            }
+        },
+        "seed": "13"
+    }
+}

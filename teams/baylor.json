@@ -1,0 +1,197 @@
+{
+    "baylor": {
+        "players": {
+            "James Akinjo": {
+                "hs_rank": 89,
+                "Pts": 13.4,
+                "Reb": 2.8,
+                "Ast": 5.7
+            },
+            "Adam Flagler": {
+                "hs_rank": 101,
+                "Pts": 13.4,
+                "Reb": 2.2,
+                "Ast": 3.1
+            },
+            "Kendall Brown": {
+                "hs_rank": 10,
+                "Pts": 10.0,
+                "Reb": 4.9,
+                "Ast": 1.9
+            },
+            "Matthew Mayer": {
+                "hs_rank": 86,
+                "Pts": 9.4,
+                "Reb": 5.0,
+                "Ast": 1.1
+            },
+            "LJ Cryer": {
+                "hs_rank": 83,
+                "Pts": 13.5,
+                "Reb": 1.5,
+                "Ast": 1.7
+            },
+            "Jeremy Sochan": {
+                "hs_rank": 90,
+                "Pts": 8.8,
+                "Reb": 6.2,
+                "Ast": 1.7
+            },
+            "Jonathan Tchamwa Tchatchoua": {
+                "hs_rank": 101,
+                "Pts": 8.4,
+                "Reb": 6.8,
+                "Ast": 0.7
+            },
+            "Flo Thamba": {
+                "hs_rank": 101,
+                "Pts": 6.2,
+                "Reb": 5.6,
+                "Ast": 0.3
+            },
+            "Dale Bonner": {
+                "hs_rank": 101,
+                "Pts": 3.0,
+                "Reb": 1.1,
+                "Ast": 1.4
+            },
+            "Jordan Turner": {
+                "hs_rank": 101,
+                "Pts": 1.8,
+                "Reb": 1.2,
+                "Ast": 0.5
+            },
+            "Zach Loveday": {
+                "hs_rank": 101,
+                "Pts": 1.0,
+                "Reb": 1.2,
+                "Ast": 0.1
+            },
+            "Mitchell Paul": {
+                "hs_rank": 101,
+                "Pts": 1.1,
+                "Reb": 0.6,
+                "Ast": 0.0
+            },
+            "Dain Dainja": {
+                "hs_rank": 101,
+                "Pts": 2.0,
+                "Reb": 1.0,
+                "Ast": 0.0
+            },
+            "Kijana Love": {
+                "hs_rank": 101,
+                "Pts": 0.5,
+                "Reb": 0.3,
+                "Ast": 0.2
+            },
+            "Austin Sacks": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Langston Love": {
+                "hs_rank": 35,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 28.2,
+                "FGA": 60.9,
+                "FG%": 0.464,
+                "2P": 20.3,
+                "2PA": 37.9,
+                "2P%": 0.535,
+                "3P": 7.9,
+                "3PA": 23.0,
+                "3P%": 0.346,
+                "FT": 12.1,
+                "FTA": 17.4,
+                "FT%": 0.698,
+                "ORB": 12.8,
+                "DRB": 24.4,
+                "TRB": 37.1,
+                "AST": 15.8,
+                "STL": 8.8,
+                "BLK": 3.4,
+                "TOV": 12.5,
+                "PF": 15.8,
+                "PTS": 76.5
+            },
+            "opponent_stats": {
+                "o_FG": 23.6,
+                "o_FGA": 55.6,
+                "o_FG%": 0.425,
+                "o_2P": 17.6,
+                "o_2PA": 35.6,
+                "o_2P%": 0.495,
+                "o_3P": 6.0,
+                "o_3PA": 19.9,
+                "o_3P%": 0.299,
+                "o_FT": 10.5,
+                "o_FTA": 14.9,
+                "o_FT%": 0.701,
+                "o_ORB": 9.7,
+                "o_DRB": 22.3,
+                "o_TRB": 32.0,
+                "o_AST": 13.1,
+                "o_STL": 6.4,
+                "o_BLK": 2.8,
+                "o_TOV": 15.7,
+                "o_PF": 16.4,
+                "o_PTS": 63.6
+            },
+            "team_ranks": {
+                "FG": 25,
+                "FGA": 48,
+                "FG%": 54,
+                "2P": 39,
+                "2PA": 116,
+                "2P%": 63,
+                "3P": 127,
+                "3PA": 124,
+                "3P%": 132,
+                "FT": 204,
+                "FTA": 182,
+                "FT%": 240,
+                "ORB": 14,
+                "DRB": 252,
+                "TRB": 77,
+                "AST": 27,
+                "STL": 19,
+                "BLK": 141,
+                "TOV": 186,
+                "PF": 235,
+                "PTS": 46
+            },
+            "opponent_ranks": {
+                "FG": 93,
+                "FGA": 89,
+                "FG%": 137,
+                "2P": 179,
+                "2PA": 177,
+                "2P%": 188,
+                "3P": 34,
+                "3PA": 86,
+                "3P%": 23,
+                "FT": 57,
+                "FTA": 70,
+                "FT%": 94,
+                "ORB": 173,
+                "DRB": 30,
+                "TRB": 54,
+                "AST": 332,
+                "STL": 183,
+                "BLK": 87,
+                "TOV": 334,
+                "PF": 150,
+                "PTS": 34
+            }
+        },
+        "seed": "1"
+    }
+}

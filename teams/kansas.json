@@ -1,0 +1,209 @@
+{
+    "kansas": {
+        "players": {
+            "Ochai Agbaji": {
+                "hs_rank": 101,
+                "Pts": 19.7,
+                "Reb": 5.1,
+                "Ast": 1.6
+            },
+            "Christian Braun": {
+                "hs_rank": 101,
+                "Pts": 14.6,
+                "Reb": 6.4,
+                "Ast": 2.6
+            },
+            "David McCormack": {
+                "hs_rank": 30,
+                "Pts": 10.1,
+                "Reb": 7.1,
+                "Ast": 1.0
+            },
+            "Jalen Wilson": {
+                "hs_rank": 51,
+                "Pts": 10.9,
+                "Reb": 7.0,
+                "Ast": 1.7
+            },
+            "Dajuan Harris": {
+                "hs_rank": 101,
+                "Pts": 5.2,
+                "Reb": 1.4,
+                "Ast": 4.4
+            },
+            "Remy Martin": {
+                "hs_rank": 101,
+                "Pts": 7.3,
+                "Reb": 2.6,
+                "Ast": 2.5
+            },
+            "Mitch Lightfoot": {
+                "hs_rank": 101,
+                "Pts": 4.9,
+                "Reb": 2.9,
+                "Ast": 0.4
+            },
+            "Jalen Coleman-Lands": {
+                "hs_rank": 38,
+                "Pts": 3.9,
+                "Reb": 0.8,
+                "Ast": 0.4
+            },
+            "Joseph Yesufu": {
+                "hs_rank": 101,
+                "Pts": 2.4,
+                "Reb": 0.9,
+                "Ast": 1.1
+            },
+            "Zach Clemence": {
+                "hs_rank": 43,
+                "Pts": 2.3,
+                "Reb": 1.9,
+                "Ast": 0.3
+            },
+            "KJ Adams Jr": {
+                "hs_rank": 66,
+                "Pts": 1.2,
+                "Reb": 0.9,
+                "Ast": 0.3
+            },
+            "Bobby Pettiford": {
+                "hs_rank": 98,
+                "Pts": 1.4,
+                "Reb": 0.9,
+                "Ast": 0.9
+            },
+            "Chris Teahan": {
+                "hs_rank": 101,
+                "Pts": 0.8,
+                "Reb": 0.2,
+                "Ast": 0.1
+            },
+            "Michael Jankovich": {
+                "hs_rank": 101,
+                "Pts": 0.6,
+                "Reb": 0.2,
+                "Ast": 0.0
+            },
+            "Kyle Cuffe Jr": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Cam Martin": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Charlie McCarthy": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Dillon Wilhite": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 28.6,
+                "FGA": 59.6,
+                "FG%": 0.481,
+                "2P": 21.5,
+                "2PA": 39.4,
+                "2P%": 0.545,
+                "3P": 7.1,
+                "3PA": 20.1,
+                "3P%": 0.355,
+                "FT": 14.1,
+                "FTA": 19.5,
+                "FT%": 0.724,
+                "ORB": 11.1,
+                "DRB": 26.3,
+                "TRB": 37.4,
+                "AST": 15.4,
+                "STL": 6.4,
+                "BLK": 4.1,
+                "TOV": 12.5,
+                "PF": 15.9,
+                "PTS": 78.6
+            },
+            "opponent_stats": {
+                "o_FG": 25.1,
+                "o_FGA": 60.0,
+                "o_FG%": 0.418,
+                "o_2P": 18.9,
+                "o_2PA": 39.5,
+                "o_2P%": 0.479,
+                "o_3P": 6.2,
+                "o_3PA": 20.5,
+                "o_3P%": 0.301,
+                "o_FT": 11.8,
+                "o_FTA": 16.7,
+                "o_FT%": 0.707,
+                "o_ORB": 10.6,
+                "o_DRB": 22.1,
+                "o_TRB": 32.7,
+                "o_AST": 11.9,
+                "o_STL": 6.9,
+                "o_BLK": 3.1,
+                "o_TOV": 12.9,
+                "o_PF": 17.6,
+                "o_PTS": 68.1
+            },
+            "team_ranks": {
+                "FG": 18,
+                "FGA": 93,
+                "FG%": 19,
+                "2P": 14,
+                "2PA": 59,
+                "2P%": 36,
+                "3P": 203,
+                "3PA": 257,
+                "3P%": 81,
+                "FT": 73,
+                "FTA": 76,
+                "FT%": 159,
+                "ORB": 89,
+                "DRB": 103,
+                "TRB": 61,
+                "AST": 38,
+                "STL": 188,
+                "BLK": 74,
+                "TOV": 186,
+                "PF": 232,
+                "PTS": 25
+            },
+            "opponent_ranks": {
+                "FG": 197,
+                "FGA": 287,
+                "FG%": 99,
+                "2P": 273,
+                "2PA": 319,
+                "2P%": 126,
+                "3P": 44,
+                "3PA": 112,
+                "3P%": 26,
+                "FT": 147,
+                "FTA": 149,
+                "FT%": 136,
+                "ORB": 276,
+                "DRB": 23,
+                "TRB": 80,
+                "AST": 321,
+                "STL": 246,
+                "BLK": 167,
+                "TOV": 197,
+                "PF": 259,
+                "PTS": 147
+            }
+        },
+        "seed": "1"
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "loyola-il": {
+        "players": {
+            "Lucas Williamson": {
+                "hs_rank": 101,
+                "Pts": 14.0,
+                "Reb": 5.0,
+                "Ast": 3.0
+            },
+            "Braden Norris": {
+                "hs_rank": 101,
+                "Pts": 10.3,
+                "Reb": 2.8,
+                "Ast": 3.9
+            },
+            "Ryan Schwieger": {
+                "hs_rank": 101,
+                "Pts": 9.2,
+                "Reb": 2.7,
+                "Ast": 1.1
+            },
+            "Aher Uguak": {
+                "hs_rank": 101,
+                "Pts": 9.1,
+                "Reb": 4.5,
+                "Ast": 1.7
+            },
+            "Chris Knight": {
+                "hs_rank": 101,
+                "Pts": 7.7,
+                "Reb": 4.1,
+                "Ast": 0.8
+            },
+            "Marquise Kennedy": {
+                "hs_rank": 101,
+                "Pts": 8.1,
+                "Reb": 4.1,
+                "Ast": 2.0
+            },
+            "Tate Hall": {
+                "hs_rank": 101,
+                "Pts": 5.7,
+                "Reb": 4.4,
+                "Ast": 1.3
+            },
+            "Jacob Hutson": {
+                "hs_rank": 101,
+                "Pts": 5.1,
+                "Reb": 2.1,
+                "Ast": 0.7
+            },
+            "Tom Welch": {
+                "hs_rank": 101,
+                "Pts": 3.6,
+                "Reb": 1.7,
+                "Ast": 0.4
+            },
+            "Keith Clemons": {
+                "hs_rank": 101,
+                "Pts": 2.5,
+                "Reb": 0.5,
+                "Ast": 0.6
+            },
+            "Saint Thomas": {
+                "hs_rank": 101,
+                "Pts": 1.8,
+                "Reb": 1.0,
+                "Ast": 0.5
+            },
+            "Will Alcock": {
+                "hs_rank": 101,
+                "Pts": 1.5,
+                "Reb": 0.6,
+                "Ast": 0.1
+            },
+            "Ty Johnson": {
+                "hs_rank": 101,
+                "Pts": 0.8,
+                "Reb": 0.5,
+                "Ast": 0.3
+            },
+            "Damezi Anderson": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Ben Schwieger": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Will Smythe": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 26.3,
+                "FGA": 54.3,
+                "FG%": 0.483,
+                "2P": 17.3,
+                "2PA": 31.1,
+                "2P%": 0.558,
+                "3P": 8.9,
+                "3PA": 23.3,
+                "3P%": 0.383,
+                "FT": 12.4,
+                "FTA": 17.3,
+                "FT%": 0.719,
+                "ORB": 7.7,
+                "DRB": 26.3,
+                "TRB": 34.0,
+                "AST": 15.0,
+                "STL": 6.9,
+                "BLK": 2.4,
+                "TOV": 12.2,
+                "PF": 17.2,
+                "PTS": 73.8
+            },
+            "opponent_stats": {
+                "o_FG": 22.1,
+                "o_FGA": 54.0,
+                "o_FG%": 0.409,
+                "o_2P": 15.6,
+                "o_2PA": 33.2,
+                "o_2P%": 0.469,
+                "o_3P": 6.5,
+                "o_3PA": 20.8,
+                "o_3P%": 0.314,
+                "o_FT": 11.0,
+                "o_FTA": 15.1,
+                "o_FT%": 0.729,
+                "o_ORB": 7.9,
+                "o_DRB": 23.0,
+                "o_TRB": 30.9,
+                "o_AST": 9.3,
+                "o_STL": 5.7,
+                "o_BLK": 3.5,
+                "o_TOV": 13.4,
+                "o_PF": 17.1,
+                "o_PTS": 61.7
+            },
+            "team_ranks": {
+                "FG": 111,
+                "FGA": 333,
+                "FG%": 16,
+                "2P": 235,
+                "2PA": 331,
+                "2P%": 22,
+                "3P": 44,
+                "3PA": 116,
+                "3P%": 10,
+                "FT": 174,
+                "FTA": 191,
+                "FT%": 170,
+                "ORB": 317,
+                "DRB": 101,
+                "TRB": 248,
+                "AST": 52,
+                "STL": 133,
+                "BLK": 286,
+                "TOV": 231,
+                "PF": 142,
+                "PTS": 104
+            },
+            "opponent_ranks": {
+                "FG": 24,
+                "FGA": 43,
+                "FG%": 47,
+                "2P": 45,
+                "2PA": 68,
+                "2P%": 80,
+                "3P": 82,
+                "3PA": 133,
+                "3P%": 70,
+                "FT": 87,
+                "FTA": 75,
+                "FT%": 259,
+                "ORB": 37,
+                "DRB": 56,
+                "TRB": 29,
+                "AST": 307,
+                "STL": 78,
+                "BLK": 272,
+                "TOV": 232,
+                "PF": 219,
+                "PTS": 17
+            }
+        },
+        "seed": "10"
+    }
+}

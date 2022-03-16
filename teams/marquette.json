@@ -1,0 +1,191 @@
+{
+    "marquette": {
+        "players": {
+            "Justin Lewis": {
+                "hs_rank": 87,
+                "Pts": 17.1,
+                "Reb": 7.9,
+                "Ast": 1.7
+            },
+            "Darryl Morsell": {
+                "hs_rank": 89,
+                "Pts": 13.5,
+                "Reb": 3.5,
+                "Ast": 2.5
+            },
+            "Kameron Jones": {
+                "hs_rank": 101,
+                "Pts": 7.5,
+                "Reb": 1.5,
+                "Ast": 1.2
+            },
+            "Tyler Kolek": {
+                "hs_rank": 101,
+                "Pts": 6.8,
+                "Reb": 3.8,
+                "Ast": 5.7
+            },
+            "Greg Elliott": {
+                "hs_rank": 101,
+                "Pts": 7.3,
+                "Reb": 2.0,
+                "Ast": 1.4
+            },
+            "Olivier-Maxence Prosper": {
+                "hs_rank": 101,
+                "Pts": 6.3,
+                "Reb": 3.3,
+                "Ast": 0.9
+            },
+            "Kur Kuath": {
+                "hs_rank": 101,
+                "Pts": 5.6,
+                "Reb": 3.9,
+                "Ast": 0.6
+            },
+            "Oso Ighodaro": {
+                "hs_rank": 99,
+                "Pts": 5.5,
+                "Reb": 3.4,
+                "Ast": 0.9
+            },
+            "David Joplin": {
+                "hs_rank": 101,
+                "Pts": 2.8,
+                "Reb": 0.8,
+                "Ast": 0.2
+            },
+            "Stevie Mitchell": {
+                "hs_rank": 91,
+                "Pts": 2.7,
+                "Reb": 1.4,
+                "Ast": 0.9
+            },
+            "Emarion Ellis": {
+                "hs_rank": 101,
+                "Pts": 2.2,
+                "Reb": 0.8,
+                "Ast": 0.5
+            },
+            "Cameron Brown": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.3,
+                "Ast": 0.0
+            },
+            "Brendan Carney": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Michael Kennedy": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.3,
+                "Ast": 0.0
+            },
+            "Keeyan Itejere": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 26.9,
+                "FGA": 59.4,
+                "FG%": 0.453,
+                "2P": 18.3,
+                "2PA": 34.6,
+                "2P%": 0.529,
+                "3P": 8.6,
+                "3PA": 24.8,
+                "3P%": 0.347,
+                "FT": 11.9,
+                "FTA": 15.9,
+                "FT%": 0.747,
+                "ORB": 7.7,
+                "DRB": 27.0,
+                "TRB": 34.7,
+                "AST": 16.0,
+                "STL": 7.9,
+                "BLK": 5.1,
+                "TOV": 12.5,
+                "PF": 17.5,
+                "PTS": 74.4
+            },
+            "opponent_stats": {
+                "o_FG": 25.5,
+                "o_FGA": 62.1,
+                "o_FG%": 0.41,
+                "o_2P": 18.5,
+                "o_2PA": 40.0,
+                "o_2P%": 0.462,
+                "o_3P": 7.0,
+                "o_3PA": 22.1,
+                "o_3P%": 0.317,
+                "o_FT": 12.9,
+                "o_FTA": 18.5,
+                "o_FT%": 0.699,
+                "o_ORB": 12.4,
+                "o_DRB": 26.6,
+                "o_TRB": 39.0,
+                "o_AST": 14.0,
+                "o_STL": 7.1,
+                "o_BLK": 3.2,
+                "o_TOV": 13.8,
+                "o_PF": 15.3,
+                "o_PTS": 70.9
+            },
+            "team_ranks": {
+                "FG": 71,
+                "FGA": 95,
+                "FG%": 105,
+                "2P": 158,
+                "2PA": 231,
+                "2P%": 80,
+                "3P": 69,
+                "3PA": 70,
+                "3P%": 122,
+                "FT": 217,
+                "FTA": 255,
+                "FT%": 78,
+                "ORB": 318,
+                "DRB": 55,
+                "TRB": 216,
+                "AST": 23,
+                "STL": 54,
+                "BLK": 17,
+                "TOV": 195,
+                "PF": 115,
+                "PTS": 89
+            },
+            "opponent_ranks": {
+                "FG": 221,
+                "FGA": 324,
+                "FG%": 53,
+                "2P": 247,
+                "2PA": 329,
+                "2P%": 48,
+                "3P": 142,
+                "3PA": 205,
+                "3P%": 84,
+                "FT": 231,
+                "FTA": 247,
+                "FT%": 88,
+                "ORB": 352,
+                "DRB": 303,
+                "TRB": 349,
+                "AST": 334,
+                "STL": 286,
+                "BLK": 186,
+                "TOV": 263,
+                "PF": 68,
+                "PTS": 227
+            }
+        },
+        "seed": "9"
+    }
+}

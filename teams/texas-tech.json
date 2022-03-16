@@ -1,0 +1,191 @@
+{
+    "texas-tech": {
+        "players": {
+            "Bryson Williams": {
+                "hs_rank": 101,
+                "Pts": 13.7,
+                "Reb": 4.3,
+                "Ast": 1.0
+            },
+            "Davion Warren": {
+                "hs_rank": 101,
+                "Pts": 9.9,
+                "Reb": 3.1,
+                "Ast": 1.6
+            },
+            "Kevin Obanor": {
+                "hs_rank": 101,
+                "Pts": 9.9,
+                "Reb": 5.0,
+                "Ast": 0.5
+            },
+            "Adonis Arms": {
+                "hs_rank": 101,
+                "Pts": 8.4,
+                "Reb": 4.2,
+                "Ast": 2.6
+            },
+            "Kevin McCullar": {
+                "hs_rank": 101,
+                "Pts": 9.7,
+                "Reb": 4.9,
+                "Ast": 3.2
+            },
+            "Terrence Shannon": {
+                "hs_rank": 81,
+                "Pts": 10.4,
+                "Reb": 2.8,
+                "Ast": 2.0
+            },
+            "Marcus Santos-Silva": {
+                "hs_rank": 101,
+                "Pts": 4.9,
+                "Reb": 4.3,
+                "Ast": 0.9
+            },
+            "Clarence Nadolny": {
+                "hs_rank": 101,
+                "Pts": 3.7,
+                "Reb": 1.3,
+                "Ast": 1.0
+            },
+            "Mylik Wilson": {
+                "hs_rank": 101,
+                "Pts": 2.7,
+                "Reb": 1.9,
+                "Ast": 1.8
+            },
+            "Daniel Batcho": {
+                "hs_rank": 101,
+                "Pts": 2.4,
+                "Reb": 2.8,
+                "Ast": 0.4
+            },
+            "KJ Allen": {
+                "hs_rank": 101,
+                "Pts": 2.1,
+                "Reb": 1.9,
+                "Ast": 0.4
+            },
+            "Sardaar Calhoun": {
+                "hs_rank": 101,
+                "Pts": 3.5,
+                "Reb": 0.9,
+                "Ast": 0.5
+            },
+            "Chibuzo Agbo": {
+                "hs_rank": 92,
+                "Pts": 1.2,
+                "Reb": 1.0,
+                "Ast": 0.0
+            },
+            "Austin Timperman": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Ethan Duncan": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 25.9,
+                "FGA": 55.2,
+                "FG%": 0.47,
+                "2P": 19.9,
+                "2PA": 36.2,
+                "2P%": 0.551,
+                "3P": 6.0,
+                "3PA": 19.0,
+                "3P%": 0.314,
+                "FT": 13.9,
+                "FTA": 19.9,
+                "FT%": 0.699,
+                "ORB": 10.6,
+                "DRB": 25.9,
+                "TRB": 36.5,
+                "AST": 13.6,
+                "STL": 8.2,
+                "BLK": 3.5,
+                "TOV": 13.9,
+                "PF": 16.2,
+                "PTS": 71.7
+            },
+            "opponent_stats": {
+                "o_FG": 20.5,
+                "o_FGA": 53.4,
+                "o_FG%": 0.384,
+                "o_2P": 12.9,
+                "o_2PA": 29.1,
+                "o_2P%": 0.443,
+                "o_3P": 7.6,
+                "o_3PA": 24.3,
+                "o_3P%": 0.313,
+                "o_FT": 11.7,
+                "o_FTA": 17.1,
+                "o_FT%": 0.683,
+                "o_ORB": 9.1,
+                "o_DRB": 21.2,
+                "o_TRB": 30.4,
+                "o_AST": 11.0,
+                "o_STL": 7.0,
+                "o_BLK": 2.6,
+                "o_TOV": 16.1,
+                "o_PF": 18.4,
+                "o_PTS": 60.3
+            },
+            "team_ranks": {
+                "FG": 133,
+                "FGA": 306,
+                "FG%": 40,
+                "2P": 52,
+                "2PA": 172,
+                "2P%": 29,
+                "3P": 305,
+                "3PA": 287,
+                "3P%": 289,
+                "FT": 95,
+                "FTA": 62,
+                "FT%": 237,
+                "ORB": 122,
+                "DRB": 125,
+                "TRB": 103,
+                "AST": 134,
+                "STL": 39,
+                "BLK": 134,
+                "TOV": 69,
+                "PF": 209,
+                "PTS": 158
+            },
+            "opponent_ranks": {
+                "FG": 5,
+                "FGA": 34,
+                "FG%": 6,
+                "2P": 1,
+                "2PA": 7,
+                "2P%": 15,
+                "3P": 240,
+                "3PA": 306,
+                "3P%": 64,
+                "FT": 140,
+                "FTA": 182,
+                "FT%": 37,
+                "ORB": 125,
+                "DRB": 3,
+                "TRB": 18,
+                "AST": 225,
+                "STL": 269,
+                "BLK": 66,
+                "TOV": 342,
+                "PF": 306,
+                "PTS": 11
+            }
+        },
+        "seed": "3"
+    }
+}

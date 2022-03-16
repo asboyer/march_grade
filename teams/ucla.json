@@ -1,0 +1,191 @@
+{
+    "ucla": {
+        "players": {
+            "Jaime Jaquez": {
+                "hs_rank": 96,
+                "Pts": 14.0,
+                "Reb": 5.8,
+                "Ast": 2.2
+            },
+            "Johnny Juzang": {
+                "hs_rank": 34,
+                "Pts": 16.0,
+                "Reb": 4.6,
+                "Ast": 1.8
+            },
+            "Jules Bernard": {
+                "hs_rank": 45,
+                "Pts": 12.8,
+                "Reb": 4.7,
+                "Ast": 1.7
+            },
+            "Tyger Campbell": {
+                "hs_rank": 101,
+                "Pts": 11.5,
+                "Reb": 2.5,
+                "Ast": 4.2
+            },
+            "Jaylen Clark": {
+                "hs_rank": 84,
+                "Pts": 7.3,
+                "Reb": 4.1,
+                "Ast": 1.2
+            },
+            "Cody Riley": {
+                "hs_rank": 44,
+                "Pts": 7.6,
+                "Reb": 3.7,
+                "Ast": 1.0
+            },
+            "David Singleton": {
+                "hs_rank": 83,
+                "Pts": 5.1,
+                "Reb": 1.5,
+                "Ast": 0.9
+            },
+            "Myles Johnson": {
+                "hs_rank": 101,
+                "Pts": 3.8,
+                "Reb": 5.7,
+                "Ast": 0.8
+            },
+            "Peyton Watson": {
+                "hs_rank": 8,
+                "Pts": 3.4,
+                "Reb": 3.1,
+                "Ast": 0.9
+            },
+            "Jake Kyman": {
+                "hs_rank": 101,
+                "Pts": 2.5,
+                "Reb": 1.1,
+                "Ast": 0.5
+            },
+            "Kenneth Nwuba": {
+                "hs_rank": 101,
+                "Pts": 1.2,
+                "Reb": 0.9,
+                "Ast": 0.2
+            },
+            "Russell Stong": {
+                "hs_rank": 101,
+                "Pts": 0.3,
+                "Reb": 0.4,
+                "Ast": 0.1
+            },
+            "Logan Cremonesi": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Mac Etienne": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Will McClendon": {
+                "hs_rank": 51,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 27.9,
+                "FGA": 62.1,
+                "FG%": 0.45,
+                "2P": 21.1,
+                "2PA": 42.5,
+                "2P%": 0.496,
+                "3P": 6.9,
+                "3PA": 19.6,
+                "3P%": 0.351,
+                "FT": 13.6,
+                "FTA": 18.5,
+                "FT%": 0.736,
+                "ORB": 11.6,
+                "DRB": 25.5,
+                "TRB": 37.1,
+                "AST": 14.0,
+                "STL": 7.0,
+                "BLK": 3.3,
+                "TOV": 9.2,
+                "PF": 16.3,
+                "PTS": 76.4
+            },
+            "opponent_stats": {
+                "o_FG": 23.2,
+                "o_FGA": 55.6,
+                "o_FG%": 0.416,
+                "o_2P": 16.4,
+                "o_2PA": 34.6,
+                "o_2P%": 0.473,
+                "o_3P": 6.8,
+                "o_3PA": 21.0,
+                "o_3P%": 0.322,
+                "o_FT": 11.7,
+                "o_FTA": 16.2,
+                "o_FT%": 0.723,
+                "o_ORB": 8.4,
+                "o_DRB": 24.7,
+                "o_TRB": 33.1,
+                "o_AST": 11.8,
+                "o_STL": 4.5,
+                "o_BLK": 3.3,
+                "o_TOV": 13.5,
+                "o_PF": 17.3,
+                "o_PTS": 64.8
+            },
+            "team_ranks": {
+                "FG": 32,
+                "FGA": 33,
+                "FG%": 121,
+                "2P": 22,
+                "2PA": 11,
+                "2P%": 212,
+                "3P": 235,
+                "3PA": 272,
+                "3P%": 102,
+                "FT": 111,
+                "FTA": 123,
+                "FT%": 105,
+                "ORB": 56,
+                "DRB": 164,
+                "TRB": 82,
+                "AST": 108,
+                "STL": 122,
+                "BLK": 158,
+                "TOV": 355,
+                "PF": 205,
+                "PTS": 49
+            },
+            "opponent_ranks": {
+                "FG": 68,
+                "FGA": 95,
+                "FG%": 87,
+                "2P": 85,
+                "2PA": 122,
+                "2P%": 95,
+                "3P": 118,
+                "3PA": 151,
+                "3P%": 111,
+                "FT": 141,
+                "FTA": 129,
+                "FT%": 225,
+                "ORB": 69,
+                "DRB": 162,
+                "TRB": 100,
+                "AST": 250,
+                "STL": 3,
+                "BLK": 232,
+                "TOV": 243,
+                "PF": 237,
+                "PTS": 46
+            }
+        },
+        "seed": "4"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "providence": {
+        "players": {
+            "Nate Watson": {
+                "hs_rank": 101,
+                "Pts": 13.8,
+                "Reb": 5.4,
+                "Ast": 0.5
+            },
+            "Aljami Durham": {
+                "hs_rank": 101,
+                "Pts": 13.4,
+                "Reb": 3.1,
+                "Ast": 3.3
+            },
+            "Jared Bynum": {
+                "hs_rank": 101,
+                "Pts": 12.7,
+                "Reb": 3.1,
+                "Ast": 4.2
+            },
+            "Noah Horchler": {
+                "hs_rank": 101,
+                "Pts": 9.6,
+                "Reb": 8.3,
+                "Ast": 1.7
+            },
+            "A.J. Reeves": {
+                "hs_rank": 48,
+                "Pts": 10.0,
+                "Reb": 2.8,
+                "Ast": 1.8
+            },
+            "Justin Minaya": {
+                "hs_rank": 101,
+                "Pts": 6.4,
+                "Reb": 5.8,
+                "Ast": 1.4
+            },
+            "Ed Croswell": {
+                "hs_rank": 101,
+                "Pts": 5.2,
+                "Reb": 4.5,
+                "Ast": 0.3
+            },
+            "Alyn Breed": {
+                "hs_rank": 101,
+                "Pts": 3.3,
+                "Reb": 1.3,
+                "Ast": 0.9
+            },
+            "Brycen Goodine": {
+                "hs_rank": 91,
+                "Pts": 2.1,
+                "Reb": 0.7,
+                "Ast": 0.1
+            },
+            "Andrew Fonts": {
+                "hs_rank": 101,
+                "Pts": 0.9,
+                "Reb": 0.3,
+                "Ast": 0.1
+            },
+            "Matteus Case": {
+                "hs_rank": 101,
+                "Pts": 1.3,
+                "Reb": 0.3,
+                "Ast": 0.0
+            },
+            "Luke Fonts": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Rafael Castro": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Legend Geeter": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Kieran O'Haire": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 24.4,
+                "FGA": 55.9,
+                "FG%": 0.437,
+                "2P": 17.1,
+                "2PA": 34.6,
+                "2P%": 0.496,
+                "3P": 7.3,
+                "3PA": 21.3,
+                "3P%": 0.343,
+                "FT": 15.6,
+                "FTA": 21.5,
+                "FT%": 0.726,
+                "ORB": 10.5,
+                "DRB": 26.9,
+                "TRB": 37.5,
+                "AST": 13.2,
+                "STL": 5.0,
+                "BLK": 3.8,
+                "TOV": 11.7,
+                "PF": 16.0,
+                "PTS": 71.8
+            },
+            "opponent_stats": {
+                "o_FG": 24.6,
+                "o_FGA": 59.8,
+                "o_FG%": 0.411,
+                "o_2P": 17.8,
+                "o_2PA": 38.2,
+                "o_2P%": 0.466,
+                "o_3P": 6.7,
+                "o_3PA": 21.6,
+                "o_3P%": 0.312,
+                "o_FT": 11.1,
+                "o_FTA": 15.7,
+                "o_FT%": 0.709,
+                "o_ORB": 10.5,
+                "o_DRB": 24.0,
+                "o_TRB": 34.5,
+                "o_AST": 11.4,
+                "o_STL": 6.0,
+                "o_BLK": 3.4,
+                "o_TOV": 10.6,
+                "o_PF": 18.8,
+                "o_PTS": 67.0
+            },
+            "team_ranks": {
+                "FG": 265,
+                "FGA": 283,
+                "FG%": 204,
+                "2P": 254,
+                "2PA": 232,
+                "2P%": 211,
+                "3P": 185,
+                "3PA": 200,
+                "3P%": 151,
+                "FT": 16,
+                "FTA": 18,
+                "FT%": 147,
+                "ORB": 125,
+                "DRB": 61,
+                "TRB": 57,
+                "AST": 162,
+                "STL": 323,
+                "BLK": 99,
+                "TOV": 269,
+                "PF": 227,
+                "PTS": 155
+            },
+            "opponent_ranks": {
+                "FG": 163,
+                "FGA": 279,
+                "FG%": 56,
+                "2P": 199,
+                "2PA": 278,
+                "2P%": 67,
+                "3P": 110,
+                "3PA": 181,
+                "3P%": 59,
+                "FT": 93,
+                "FTA": 104,
+                "FT%": 146,
+                "ORB": 260,
+                "DRB": 112,
+                "TRB": 166,
+                "AST": 197,
+                "STL": 121,
+                "BLK": 257,
+                "TOV": 33,
+                "PF": 317,
+                "PTS": 111
+            }
+        },
+        "seed": "4"
+    }
+}

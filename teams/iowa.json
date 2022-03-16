@@ -1,0 +1,191 @@
+{
+    "iowa": {
+        "players": {
+            "Keegan Murray": {
+                "hs_rank": 101,
+                "Pts": 23.6,
+                "Reb": 8.6,
+                "Ast": 1.5
+            },
+            "Jordan Bohannon": {
+                "hs_rank": 101,
+                "Pts": 11.1,
+                "Reb": 1.3,
+                "Ast": 1.8
+            },
+            "Kris Murray": {
+                "hs_rank": 101,
+                "Pts": 9.9,
+                "Reb": 4.2,
+                "Ast": 1.0
+            },
+            "Patrick McCaffery": {
+                "hs_rank": 69,
+                "Pts": 10.3,
+                "Reb": 3.6,
+                "Ast": 1.6
+            },
+            "Tony Perkins": {
+                "hs_rank": 101,
+                "Pts": 7.5,
+                "Reb": 2.5,
+                "Ast": 1.7
+            },
+            "Filip Rebraca": {
+                "hs_rank": 101,
+                "Pts": 5.8,
+                "Reb": 5.5,
+                "Ast": 0.7
+            },
+            "Payton Sandfort": {
+                "hs_rank": 101,
+                "Pts": 5.1,
+                "Reb": 1.9,
+                "Ast": 0.7
+            },
+            "Joe Toussaint": {
+                "hs_rank": 101,
+                "Pts": 4.4,
+                "Reb": 1.7,
+                "Ast": 3.2
+            },
+            "Ahron Ulis": {
+                "hs_rank": 101,
+                "Pts": 3.2,
+                "Reb": 2.0,
+                "Ast": 2.1
+            },
+            "Connor McCaffery": {
+                "hs_rank": 101,
+                "Pts": 2.6,
+                "Reb": 2.5,
+                "Ast": 1.9
+            },
+            "Austin Ash": {
+                "hs_rank": 101,
+                "Pts": 2.9,
+                "Reb": 0.6,
+                "Ast": 0.6
+            },
+            "Josh Ogundele": {
+                "hs_rank": 101,
+                "Pts": 1.5,
+                "Reb": 1.3,
+                "Ast": 0.0
+            },
+            "Riley Mulvey": {
+                "hs_rank": 101,
+                "Pts": 0.9,
+                "Reb": 0.9,
+                "Ast": 0.1
+            },
+            "Luc Laketa": {
+                "hs_rank": 101,
+                "Pts": 0.8,
+                "Reb": 0.2,
+                "Ast": 0.1
+            },
+            "Carter Kingsbury": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 29.9,
+                "FGA": 64.5,
+                "FG%": 0.464,
+                "2P": 20.6,
+                "2PA": 39.2,
+                "2P%": 0.526,
+                "3P": 9.3,
+                "3PA": 25.2,
+                "3P%": 0.368,
+                "FT": 14.7,
+                "FTA": 19.6,
+                "FT%": 0.749,
+                "ORB": 11.8,
+                "DRB": 25.4,
+                "TRB": 37.3,
+                "AST": 16.1,
+                "STL": 7.4,
+                "BLK": 4.4,
+                "TOV": 9.2,
+                "PF": 16.1,
+                "PTS": 83.8
+            },
+            "opponent_stats": {
+                "o_FG": 26.4,
+                "o_FGA": 60.4,
+                "o_FG%": 0.438,
+                "o_2P": 19.2,
+                "o_2PA": 38.3,
+                "o_2P%": 0.5,
+                "o_3P": 7.3,
+                "o_3PA": 22.0,
+                "o_3P%": 0.329,
+                "o_FT": 11.2,
+                "o_FTA": 15.8,
+                "o_FT%": 0.706,
+                "o_ORB": 10.9,
+                "o_DRB": 25.0,
+                "o_TRB": 35.9,
+                "o_AST": 14.4,
+                "o_STL": 5.3,
+                "o_BLK": 2.9,
+                "o_TOV": 13.7,
+                "o_PF": 17.9,
+                "o_PTS": 71.3
+            },
+            "team_ranks": {
+                "FG": 10,
+                "FGA": 8,
+                "FG%": 52,
+                "2P": 30,
+                "2PA": 63,
+                "2P%": 85,
+                "3P": 27,
+                "3PA": 53,
+                "3P%": 40,
+                "FT": 52,
+                "FTA": 74,
+                "FT%": 70,
+                "ORB": 46,
+                "DRB": 168,
+                "TRB": 69,
+                "AST": 20,
+                "STL": 87,
+                "BLK": 53,
+                "TOV": 354,
+                "PF": 210,
+                "PTS": 4
+            },
+            "opponent_ranks": {
+                "FG": 275,
+                "FGA": 298,
+                "FG%": 208,
+                "2P": 286,
+                "2PA": 281,
+                "2P%": 211,
+                "3P": 182,
+                "3PA": 203,
+                "3P%": 155,
+                "FT": 96,
+                "FTA": 109,
+                "FT%": 129,
+                "ORB": 299,
+                "DRB": 183,
+                "TRB": 253,
+                "AST": 339,
+                "STL": 31,
+                "BLK": 118,
+                "TOV": 256,
+                "PF": 278,
+                "PTS": 243
+            }
+        },
+        "seed": "5"
+    }
+}

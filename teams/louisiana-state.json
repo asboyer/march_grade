@@ -1,0 +1,203 @@
+{
+    "louisiana-state": {
+        "players": {
+            "Tari Eason": {
+                "hs_rank": 93,
+                "Pts": 16.9,
+                "Reb": 6.7,
+                "Ast": 1.0
+            },
+            "Darius Days": {
+                "hs_rank": 59,
+                "Pts": 13.7,
+                "Reb": 7.7,
+                "Ast": 0.9
+            },
+            "Brandon Murray": {
+                "hs_rank": 89,
+                "Pts": 10.1,
+                "Reb": 3.0,
+                "Ast": 2.0
+            },
+            "Eric Gaines": {
+                "hs_rank": 101,
+                "Pts": 9.3,
+                "Reb": 3.4,
+                "Ast": 3.0
+            },
+            "Xavier Pinson": {
+                "hs_rank": 101,
+                "Pts": 10.1,
+                "Reb": 2.4,
+                "Ast": 4.7
+            },
+            "Efton Reid": {
+                "hs_rank": 24,
+                "Pts": 6.3,
+                "Reb": 4.3,
+                "Ast": 0.5
+            },
+            "Mwani Wilkinson": {
+                "hs_rank": 68,
+                "Pts": 3.9,
+                "Reb": 3.0,
+                "Ast": 0.9
+            },
+            "Alex Fudge": {
+                "hs_rank": 101,
+                "Pts": 3.5,
+                "Reb": 3.3,
+                "Ast": 0.3
+            },
+            "Shareef O'Neal": {
+                "hs_rank": 38,
+                "Pts": 3.1,
+                "Reb": 2.2,
+                "Ast": 0.1
+            },
+            "Justice Williams": {
+                "hs_rank": 101,
+                "Pts": 1.8,
+                "Reb": 0.8,
+                "Ast": 0.7
+            },
+            "Parker Edwards": {
+                "hs_rank": 101,
+                "Pts": 1.6,
+                "Reb": 0.1,
+                "Ast": 0.1
+            },
+            "Bradley Ezewiro": {
+                "hs_rank": 101,
+                "Pts": 1.6,
+                "Reb": 0.9,
+                "Ast": 0.0
+            },
+            "Jerrell Colbert": {
+                "hs_rank": 82,
+                "Pts": 0.5,
+                "Reb": 1.3,
+                "Ast": 0.5
+            },
+            "Adam Benhayoune": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Brandon Egemo": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Spencer Mays": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Adam Miller": {
+                "hs_rank": 29,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 26.1,
+                "FGA": 59.4,
+                "FG%": 0.44,
+                "2P": 19.6,
+                "2PA": 38.8,
+                "2P%": 0.504,
+                "3P": 6.5,
+                "3PA": 20.5,
+                "3P%": 0.319,
+                "FT": 14.3,
+                "FTA": 19.6,
+                "FT%": 0.732,
+                "ORB": 12.1,
+                "DRB": 24.8,
+                "TRB": 36.9,
+                "AST": 12.7,
+                "STL": 11.1,
+                "BLK": 4.4,
+                "TOV": 14.5,
+                "PF": 19.3,
+                "PTS": 73.1
+            },
+            "opponent_stats": {
+                "o_FG": 21.1,
+                "o_FGA": 54.5,
+                "o_FG%": 0.387,
+                "o_2P": 14.1,
+                "o_2PA": 29.5,
+                "o_2P%": 0.477,
+                "o_3P": 7.0,
+                "o_3PA": 25.0,
+                "o_3P%": 0.28,
+                "o_FT": 14.4,
+                "o_FTA": 20.9,
+                "o_FT%": 0.69,
+                "o_ORB": 11.2,
+                "o_DRB": 23.7,
+                "o_TRB": 34.9,
+                "o_AST": 11.4,
+                "o_STL": 6.9,
+                "o_BLK": 3.4,
+                "o_TOV": 18.0,
+                "o_PF": 16.6,
+                "o_PTS": 63.5
+            },
+            "team_ranks": {
+                "FG": 119,
+                "FGA": 99,
+                "FG%": 184,
+                "2P": 69,
+                "2PA": 74,
+                "2P%": 171,
+                "3P": 265,
+                "3PA": 242,
+                "3P%": 274,
+                "FT": 66,
+                "FTA": 73,
+                "FT%": 123,
+                "ORB": 32,
+                "DRB": 214,
+                "TRB": 86,
+                "AST": 189,
+                "STL": 1,
+                "BLK": 56,
+                "TOV": 38,
+                "PF": 26,
+                "PTS": 123
+            },
+            "opponent_ranks": {
+                "FG": 9,
+                "FGA": 52,
+                "FG%": 9,
+                "2P": 6,
+                "2PA": 8,
+                "2P%": 118,
+                "3P": 142,
+                "3PA": 317,
+                "3P%": 6,
+                "FT": 313,
+                "FTA": 325,
+                "FT%": 55,
+                "ORB": 315,
+                "DRB": 90,
+                "TRB": 198,
+                "AST": 169,
+                "STL": 261,
+                "BLK": 256,
+                "TOV": 355,
+                "PF": 164,
+                "PTS": 33
+            }
+        },
+        "seed": "6"
+    }
+}

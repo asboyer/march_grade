@@ -1,0 +1,197 @@
+{
+    "akron": {
+        "players": {
+            "Ali Ali": {
+                "hs_rank": 101,
+                "Pts": 14.2,
+                "Reb": 3.0,
+                "Ast": 2.6
+            },
+            "Xavier Castaneda": {
+                "hs_rank": 101,
+                "Pts": 13.5,
+                "Reb": 3.6,
+                "Ast": 2.3
+            },
+            "Enrique Freeman": {
+                "hs_rank": 101,
+                "Pts": 13.2,
+                "Reb": 10.8,
+                "Ast": 1.4
+            },
+            "Bryan Trimble": {
+                "hs_rank": 101,
+                "Pts": 10.4,
+                "Reb": 2.1,
+                "Ast": 0.7
+            },
+            "Greg Tribble": {
+                "hs_rank": 101,
+                "Pts": 7.3,
+                "Reb": 2.7,
+                "Ast": 2.3
+            },
+            "Mikal Dawson": {
+                "hs_rank": 101,
+                "Pts": 6.0,
+                "Reb": 3.3,
+                "Ast": 0.8
+            },
+            "Garvin Clarke": {
+                "hs_rank": 101,
+                "Pts": 3.2,
+                "Reb": 2.4,
+                "Ast": 1.1
+            },
+            "Aziz Bandaogo": {
+                "hs_rank": 101,
+                "Pts": 3.3,
+                "Reb": 3.3,
+                "Ast": 0.3
+            },
+            "Michael Wynn": {
+                "hs_rank": 101,
+                "Pts": 2.5,
+                "Reb": 1.8,
+                "Ast": 0.5
+            },
+            "K.J. Walton": {
+                "hs_rank": 101,
+                "Pts": 7.3,
+                "Reb": 3.2,
+                "Ast": 1.3
+            },
+            "Sekou Kalle": {
+                "hs_rank": 101,
+                "Pts": 2.0,
+                "Reb": 1.0,
+                "Ast": 0.2
+            },
+            "Brandon Ford": {
+                "hs_rank": 101,
+                "Pts": 2.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Evan Wilson": {
+                "hs_rank": 101,
+                "Pts": 0.3,
+                "Reb": 0.0,
+                "Ast": 0.3
+            },
+            "Nate Johnson": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Pat Mayfield": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Kobe Mitchell": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 24.4,
+                "FGA": 52.9,
+                "FG%": 0.462,
+                "2P": 16.5,
+                "2PA": 30.8,
+                "2P%": 0.537,
+                "3P": 7.9,
+                "3PA": 22.2,
+                "3P%": 0.357,
+                "FT": 14.4,
+                "FTA": 21.0,
+                "FT%": 0.687,
+                "ORB": 9.9,
+                "DRB": 25.1,
+                "TRB": 35.0,
+                "AST": 11.9,
+                "STL": 5.8,
+                "BLK": 3.3,
+                "TOV": 11.5,
+                "PF": 15.8,
+                "PTS": 71.2
+            },
+            "opponent_stats": {
+                "o_FG": 23.2,
+                "o_FGA": 54.6,
+                "o_FG%": 0.424,
+                "o_2P": 16.6,
+                "o_2PA": 35.4,
+                "o_2P%": 0.469,
+                "o_3P": 6.6,
+                "o_3PA": 19.3,
+                "o_3P%": 0.341,
+                "o_FT": 9.9,
+                "o_FTA": 14.2,
+                "o_FT%": 0.702,
+                "o_ORB": 8.6,
+                "o_DRB": 22.3,
+                "o_TRB": 30.9,
+                "o_AST": 9.3,
+                "o_STL": 5.4,
+                "o_BLK": 2.2,
+                "o_TOV": 11.9,
+                "o_PF": 19.2,
+                "o_PTS": 62.8
+            },
+            "team_ranks": {
+                "FG": 266,
+                "FGA": 347,
+                "FG%": 66,
+                "2P": 289,
+                "2PA": 334,
+                "2P%": 56,
+                "3P": 129,
+                "3PA": 156,
+                "3P%": 77,
+                "FT": 61,
+                "FTA": 30,
+                "FT%": 281,
+                "ORB": 183,
+                "DRB": 198,
+                "TRB": 198,
+                "AST": 264,
+                "STL": 255,
+                "BLK": 163,
+                "TOV": 291,
+                "PF": 239,
+                "PTS": 168
+            },
+            "opponent_ranks": {
+                "FG": 65,
+                "FGA": 55,
+                "FG%": 132,
+                "2P": 98,
+                "2PA": 166,
+                "2P%": 77,
+                "3P": 87,
+                "3PA": 56,
+                "3P%": 222,
+                "FT": 41,
+                "FTA": 44,
+                "FT%": 104,
+                "ORB": 82,
+                "DRB": 28,
+                "TRB": 27,
+                "AST": 95,
+                "STL": 45,
+                "BLK": 6,
+                "TOV": 107,
+                "PF": 332,
+                "PTS": 24
+            }
+        },
+        "seed": "13"
+    }
+}

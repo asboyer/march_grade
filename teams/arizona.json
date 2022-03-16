@@ -1,0 +1,209 @@
+{
+    "arizona": {
+        "players": {
+            "Bennedict Mathurin": {
+                "hs_rank": 91,
+                "Pts": 17.4,
+                "Reb": 5.6,
+                "Ast": 2.6
+            },
+            "Azuolas Tubelis": {
+                "hs_rank": 101,
+                "Pts": 14.5,
+                "Reb": 6.4,
+                "Ast": 2.4
+            },
+            "Christian Koloko": {
+                "hs_rank": 101,
+                "Pts": 12.1,
+                "Reb": 7.1,
+                "Ast": 1.2
+            },
+            "Kerr Kriisa": {
+                "hs_rank": 96,
+                "Pts": 10.1,
+                "Reb": 2.5,
+                "Ast": 4.9
+            },
+            "Dalen Terry": {
+                "hs_rank": 48,
+                "Pts": 7.6,
+                "Reb": 4.8,
+                "Ast": 3.9
+            },
+            "Oumar Ballo": {
+                "hs_rank": 95,
+                "Pts": 7.3,
+                "Reb": 4.6,
+                "Ast": 0.5
+            },
+            "Pelle Larsson": {
+                "hs_rank": 101,
+                "Pts": 7.1,
+                "Reb": 3.2,
+                "Ast": 1.8
+            },
+            "Justin Kier": {
+                "hs_rank": 101,
+                "Pts": 6.9,
+                "Reb": 3.1,
+                "Ast": 2.2
+            },
+            "Kim Aiken": {
+                "hs_rank": 101,
+                "Pts": 5.0,
+                "Reb": 3.4,
+                "Ast": 2.0
+            },
+            "Adama Bal": {
+                "hs_rank": 101,
+                "Pts": 1.4,
+                "Reb": 0.5,
+                "Ast": 0.5
+            },
+            "Shane Nowell": {
+                "hs_rank": 78,
+                "Pts": 0.8,
+                "Reb": 0.8,
+                "Ast": 0.3
+            },
+            "Jordan Mains": {
+                "hs_rank": 101,
+                "Pts": 0.7,
+                "Reb": 0.9,
+                "Ast": 0.0
+            },
+            "Tautvilas Tubelis": {
+                "hs_rank": 101,
+                "Pts": 0.3,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Grant Weitman": {
+                "hs_rank": 101,
+                "Pts": 0.1,
+                "Reb": 0.2,
+                "Ast": 0.0
+            },
+            "Ben Ackerley": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Addison Arnold": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Will Menaugh": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Will Reeves": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 30.4,
+                "FGA": 61.4,
+                "FG%": 0.496,
+                "2P": 22.7,
+                "2PA": 39.4,
+                "2P%": 0.575,
+                "3P": 7.8,
+                "3PA": 21.9,
+                "3P%": 0.354,
+                "FT": 15.9,
+                "FTA": 21.6,
+                "FT%": 0.738,
+                "ORB": 11.4,
+                "DRB": 29.9,
+                "TRB": 41.4,
+                "AST": 19.9,
+                "STL": 6.7,
+                "BLK": 5.7,
+                "TOV": 13.2,
+                "PF": 16.5,
+                "PTS": 84.6
+            },
+            "opponent_stats": {
+                "o_FG": 25.1,
+                "o_FGA": 64.9,
+                "o_FG%": 0.387,
+                "o_2P": 17.8,
+                "o_2PA": 42.5,
+                "o_2P%": 0.419,
+                "o_3P": 7.3,
+                "o_3PA": 22.4,
+                "o_3P%": 0.327,
+                "o_FT": 9.9,
+                "o_FTA": 14.8,
+                "o_FT%": 0.67,
+                "o_ORB": 11.8,
+                "o_DRB": 21.7,
+                "o_TRB": 33.6,
+                "o_AST": 11.8,
+                "o_STL": 6.8,
+                "o_BLK": 2.8,
+                "o_TOV": 12.9,
+                "o_PF": 18.9,
+                "o_PTS": 67.5
+            },
+            "team_ranks": {
+                "FG": 4,
+                "FGA": 41,
+                "FG%": 3,
+                "2P": 7,
+                "2PA": 59,
+                "2P%": 5,
+                "3P": 142,
+                "3PA": 163,
+                "3P%": 89,
+                "FT": 12,
+                "FTA": 17,
+                "FT%": 101,
+                "ORB": 66,
+                "DRB": 2,
+                "TRB": 5,
+                "AST": 1,
+                "STL": 151,
+                "BLK": 8,
+                "TOV": 123,
+                "PF": 194,
+                "PTS": 3
+            },
+            "opponent_ranks": {
+                "FG": 201,
+                "FGA": 355,
+                "FG%": 11,
+                "2P": 197,
+                "2PA": 353,
+                "2P%": 3,
+                "3P": 190,
+                "3PA": 220,
+                "3P%": 136,
+                "FT": 40,
+                "FTA": 65,
+                "FT%": 16,
+                "ORB": 341,
+                "DRB": 11,
+                "TRB": 125,
+                "AST": 358,
+                "STL": 234,
+                "BLK": 95,
+                "TOV": 197,
+                "PF": 320,
+                "PTS": 133
+            }
+        },
+        "seed": "1"
+    }
+}

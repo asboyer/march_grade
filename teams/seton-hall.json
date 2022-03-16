@@ -1,0 +1,191 @@
+{
+    "seton-hall": {
+        "players": {
+            "Jared Rhoden": {
+                "hs_rank": 101,
+                "Pts": 15.9,
+                "Reb": 6.8,
+                "Ast": 1.2
+            },
+            "Kadary Richmond": {
+                "hs_rank": 89,
+                "Pts": 9.0,
+                "Reb": 3.6,
+                "Ast": 4.1
+            },
+            "Myles Cale": {
+                "hs_rank": 79,
+                "Pts": 9.8,
+                "Reb": 4.0,
+                "Ast": 1.0
+            },
+            "Alexis Yetna": {
+                "hs_rank": 101,
+                "Pts": 8.4,
+                "Reb": 7.8,
+                "Ast": 0.8
+            },
+            "Jamir Harris": {
+                "hs_rank": 101,
+                "Pts": 7.8,
+                "Reb": 1.2,
+                "Ast": 0.9
+            },
+            "Bryce Aiken": {
+                "hs_rank": 101,
+                "Pts": 14.5,
+                "Reb": 2.1,
+                "Ast": 2.7
+            },
+            "Tray Jackson": {
+                "hs_rank": 77,
+                "Pts": 7.0,
+                "Reb": 3.5,
+                "Ast": 0.4
+            },
+            "Tyrese Samuel": {
+                "hs_rank": 101,
+                "Pts": 7.4,
+                "Reb": 5.3,
+                "Ast": 0.1
+            },
+            "Ike Obiagu": {
+                "hs_rank": 63,
+                "Pts": 2.6,
+                "Reb": 4.0,
+                "Ast": 0.2
+            },
+            "Jo Smith": {
+                "hs_rank": 101,
+                "Pts": 1.0,
+                "Reb": 0.6,
+                "Ast": 0.0
+            },
+            "Tyler Powell": {
+                "hs_rank": 101,
+                "Pts": 0.5,
+                "Reb": 0.6,
+                "Ast": 0.1
+            },
+            "Sylwester Granda": {
+                "hs_rank": 101,
+                "Pts": 1.0,
+                "Reb": 0.2,
+                "Ast": 0.2
+            },
+            "Jahari Long": {
+                "hs_rank": 101,
+                "Pts": 0.8,
+                "Reb": 1.0,
+                "Ast": 2.2
+            },
+            "Brandon Weston": {
+                "hs_rank": 80,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Ryan Conway": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 25.6,
+                "FGA": 60.4,
+                "FG%": 0.423,
+                "2P": 18.2,
+                "2PA": 38.8,
+                "2P%": 0.47,
+                "3P": 7.4,
+                "3PA": 21.6,
+                "3P%": 0.34,
+                "FT": 14.4,
+                "FTA": 19.0,
+                "FT%": 0.757,
+                "ORB": 12.2,
+                "DRB": 26.7,
+                "TRB": 38.9,
+                "AST": 10.4,
+                "STL": 7.0,
+                "BLK": 5.5,
+                "TOV": 12.0,
+                "PF": 15.6,
+                "PTS": 72.9
+            },
+            "opponent_stats": {
+                "o_FG": 23.8,
+                "o_FGA": 59.5,
+                "o_FG%": 0.399,
+                "o_2P": 17.5,
+                "o_2PA": 39.1,
+                "o_2P%": 0.447,
+                "o_3P": 6.3,
+                "o_3PA": 20.5,
+                "o_3P%": 0.309,
+                "o_FT": 12.5,
+                "o_FTA": 16.1,
+                "o_FT%": 0.775,
+                "o_ORB": 10.9,
+                "o_DRB": 24.8,
+                "o_TRB": 35.7,
+                "o_AST": 11.4,
+                "o_STL": 6.4,
+                "o_BLK": 4.2,
+                "o_TOV": 12.6,
+                "o_PF": 16.4,
+                "o_PTS": 66.3
+            },
+            "team_ranks": {
+                "FG": 165,
+                "FGA": 63,
+                "FG%": 273,
+                "2P": 166,
+                "2PA": 76,
+                "2P%": 303,
+                "3P": 179,
+                "3PA": 177,
+                "3P%": 173,
+                "FT": 64,
+                "FTA": 102,
+                "FT%": 44,
+                "ORB": 27,
+                "DRB": 74,
+                "TRB": 25,
+                "AST": 341,
+                "STL": 121,
+                "BLK": 12,
+                "TOV": 239,
+                "PF": 257,
+                "PTS": 129
+            },
+            "opponent_ranks": {
+                "FG": 112,
+                "FGA": 269,
+                "FG%": 26,
+                "2P": 160,
+                "2PA": 304,
+                "2P%": 21,
+                "3P": 61,
+                "3PA": 110,
+                "3P%": 45,
+                "FT": 195,
+                "FTA": 121,
+                "FT%": 355,
+                "ORB": 298,
+                "DRB": 165,
+                "TRB": 243,
+                "AST": 18,
+                "STL": 167,
+                "BLK": 338,
+                "TOV": 169,
+                "PF": 148,
+                "PTS": 93
+            }
+        },
+        "seed": "8"
+    }
+}

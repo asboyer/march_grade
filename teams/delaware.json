@@ -1,0 +1,203 @@
+{
+    "delaware": {
+        "players": {
+            "Jameer Nelson": {
+                "hs_rank": 101,
+                "Pts": 13.7,
+                "Reb": 5.0,
+                "Ast": 2.2
+            },
+            "Ryan Allen": {
+                "hs_rank": 101,
+                "Pts": 11.8,
+                "Reb": 2.1,
+                "Ast": 1.9
+            },
+            "Kevin Anderson": {
+                "hs_rank": 101,
+                "Pts": 10.8,
+                "Reb": 3.2,
+                "Ast": 3.6
+            },
+            "Dylan Painter": {
+                "hs_rank": 101,
+                "Pts": 11.9,
+                "Reb": 6.6,
+                "Ast": 1.8
+            },
+            "Andrew Carr": {
+                "hs_rank": 101,
+                "Pts": 9.9,
+                "Reb": 5.2,
+                "Ast": 1.3
+            },
+            "Jyare Davis": {
+                "hs_rank": 101,
+                "Pts": 9.5,
+                "Reb": 4.1,
+                "Ast": 0.9
+            },
+            "Ebby Asamoah": {
+                "hs_rank": 101,
+                "Pts": 7.2,
+                "Reb": 3.6,
+                "Ast": 0.7
+            },
+            "Gianmarco Arletti": {
+                "hs_rank": 101,
+                "Pts": 2.8,
+                "Reb": 1.8,
+                "Ast": 0.4
+            },
+            "Logan Curtis": {
+                "hs_rank": 101,
+                "Pts": 2.8,
+                "Reb": 0.5,
+                "Ast": 0.5
+            },
+            "Wes Peterson": {
+                "hs_rank": 101,
+                "Pts": 1.0,
+                "Reb": 1.3,
+                "Ast": 0.5
+            },
+            "Reggie Gardner": {
+                "hs_rank": 101,
+                "Pts": 0.2,
+                "Reb": 0.5,
+                "Ast": 0.4
+            },
+            "O.D. Ogunbo": {
+                "hs_rank": 101,
+                "Pts": 1.3,
+                "Reb": 1.0,
+                "Ast": 0.0
+            },
+            "Davis Long": {
+                "hs_rank": 101,
+                "Pts": 0.8,
+                "Reb": 0.3,
+                "Ast": 0.3
+            },
+            "Fred Rullo IV": {
+                "hs_rank": 101,
+                "Pts": 0.7,
+                "Reb": 1.7,
+                "Ast": 0.0
+            },
+            "Anthony Ochefu": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Johnny McCoy": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Aleks Novakovich": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 26.1,
+                "FGA": 55.6,
+                "FG%": 0.469,
+                "2P": 18.5,
+                "2PA": 34.1,
+                "2P%": 0.543,
+                "3P": 7.6,
+                "3PA": 21.5,
+                "3P%": 0.352,
+                "FT": 14.0,
+                "FTA": 18.9,
+                "FT%": 0.743,
+                "ORB": 8.6,
+                "DRB": 24.2,
+                "TRB": 32.8,
+                "AST": 12.7,
+                "STL": 6.6,
+                "BLK": 3.7,
+                "TOV": 12.6,
+                "PF": 15.6,
+                "PTS": 73.8
+            },
+            "opponent_stats": {
+                "o_FG": 25.0,
+                "o_FGA": 58.5,
+                "o_FG%": 0.428,
+                "o_2P": 17.8,
+                "o_2PA": 37.9,
+                "o_2P%": 0.47,
+                "o_3P": 7.2,
+                "o_3PA": 20.6,
+                "o_3P%": 0.349,
+                "o_FT": 12.6,
+                "o_FTA": 16.7,
+                "o_FT%": 0.757,
+                "o_ORB": 10.4,
+                "o_DRB": 23.1,
+                "o_TRB": 33.6,
+                "o_AST": 11.3,
+                "o_STL": 6.5,
+                "o_BLK": 2.7,
+                "o_TOV": 12.7,
+                "o_PF": 17.6,
+                "o_PTS": 69.9
+            },
+            "team_ranks": {
+                "FG": 121,
+                "FGA": 290,
+                "FG%": 41,
+                "2P": 148,
+                "2PA": 243,
+                "2P%": 38,
+                "3P": 161,
+                "3PA": 187,
+                "3P%": 99,
+                "FT": 85,
+                "FTA": 110,
+                "FT%": 91,
+                "ORB": 277,
+                "DRB": 265,
+                "TRB": 292,
+                "AST": 193,
+                "STL": 165,
+                "BLK": 103,
+                "TOV": 168,
+                "PF": 251,
+                "PTS": 107
+            },
+            "opponent_ranks": {
+                "FG": 194,
+                "FGA": 218,
+                "FG%": 155,
+                "2P": 197,
+                "2PA": 269,
+                "2P%": 85,
+                "3P": 177,
+                "3PA": 126,
+                "3P%": 271,
+                "FT": 210,
+                "FTA": 149,
+                "FT%": 342,
+                "ORB": 256,
+                "DRB": 65,
+                "TRB": 125,
+                "AST": 166,
+                "STL": 191,
+                "BLK": 80,
+                "TOV": 174,
+                "PF": 255,
+                "PTS": 198
+            }
+        },
+        "seed": "15"
+    }
+}

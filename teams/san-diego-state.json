@@ -1,0 +1,221 @@
+{
+    "san-diego-state": {
+        "players": {
+            "Matt Bradley": {
+                "hs_rank": 73,
+                "Pts": 17.0,
+                "Reb": 5.4,
+                "Ast": 2.6
+            },
+            "Trey Pulliam": {
+                "hs_rank": 101,
+                "Pts": 8.5,
+                "Reb": 2.5,
+                "Ast": 3.4
+            },
+            "Nathan Mensah": {
+                "hs_rank": 101,
+                "Pts": 7.3,
+                "Reb": 7.1,
+                "Ast": 0.6
+            },
+            "Keshad Johnson": {
+                "hs_rank": 101,
+                "Pts": 7.2,
+                "Reb": 4.6,
+                "Ast": 1.0
+            },
+            "Lamont Butler": {
+                "hs_rank": 101,
+                "Pts": 7.5,
+                "Reb": 2.0,
+                "Ast": 2.1
+            },
+            "Chad Baker-Mazara": {
+                "hs_rank": 101,
+                "Pts": 6.0,
+                "Reb": 2.0,
+                "Ast": 0.6
+            },
+            "Adam Seiko": {
+                "hs_rank": 101,
+                "Pts": 5.3,
+                "Reb": 2.0,
+                "Ast": 1.0
+            },
+            "Joshua Tomaic": {
+                "hs_rank": 101,
+                "Pts": 3.0,
+                "Reb": 2.0,
+                "Ast": 0.4
+            },
+            "Aguek Arop": {
+                "hs_rank": 101,
+                "Pts": 3.4,
+                "Reb": 3.3,
+                "Ast": 0.5
+            },
+            "Tahirou Diabate": {
+                "hs_rank": 101,
+                "Pts": 2.0,
+                "Reb": 2.3,
+                "Ast": 0.0
+            },
+            "Keith Dinwiddie": {
+                "hs_rank": 101,
+                "Pts": 2.8,
+                "Reb": 0.9,
+                "Ast": 0.4
+            },
+            "Cade Alger": {
+                "hs_rank": 101,
+                "Pts": 0.6,
+                "Reb": 0.3,
+                "Ast": 0.0
+            },
+            "Jared Barnett": {
+                "hs_rank": 101,
+                "Pts": 0.5,
+                "Reb": 0.3,
+                "Ast": 0.1
+            },
+            "Triston Broughton": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.3,
+                "Ast": 0.3
+            },
+            "Tyler Broughton": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.8,
+                "Ast": 0.2
+            },
+            "Che Evans": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Demarshay Johnson Jr.": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Jaedon Ledee": {
+                "hs_rank": 75,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Derek Morhar": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Max Wilson": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 23.7,
+                "FGA": 54.7,
+                "FG%": 0.433,
+                "2P": 17.6,
+                "2PA": 37.9,
+                "2P%": 0.466,
+                "3P": 6.0,
+                "3PA": 16.9,
+                "3P%": 0.358,
+                "FT": 11.9,
+                "FTA": 17.1,
+                "FT%": 0.695,
+                "ORB": 9.8,
+                "DRB": 25.3,
+                "TRB": 35.1,
+                "AST": 11.9,
+                "STL": 7.5,
+                "BLK": 4.7,
+                "TOV": 12.7,
+                "PF": 17.4,
+                "PTS": 65.3
+            },
+            "opponent_stats": {
+                "o_FG": 20.3,
+                "o_FGA": 53.1,
+                "o_FG%": 0.382,
+                "o_2P": 14.1,
+                "o_2PA": 32.8,
+                "o_2P%": 0.431,
+                "o_3P": 6.2,
+                "o_3PA": 20.3,
+                "o_3P%": 0.304,
+                "o_FT": 10.9,
+                "o_FTA": 16.3,
+                "o_FT%": 0.673,
+                "o_ORB": 9.4,
+                "o_DRB": 23.4,
+                "o_TRB": 32.7,
+                "o_AST": 10.4,
+                "o_STL": 5.7,
+                "o_BLK": 3.1,
+                "o_TOV": 14.3,
+                "o_PF": 17.0,
+                "o_PTS": 57.7
+            },
+            "team_ranks": {
+                "FG": 304,
+                "FGA": 323,
+                "FG%": 231,
+                "2P": 215,
+                "2PA": 120,
+                "2P%": 310,
+                "3P": 301,
+                "3PA": 339,
+                "3P%": 73,
+                "FT": 217,
+                "FTA": 198,
+                "FT%": 257,
+                "ORB": 191,
+                "DRB": 180,
+                "TRB": 185,
+                "AST": 265,
+                "STL": 81,
+                "BLK": 36,
+                "TOV": 166,
+                "PF": 123,
+                "PTS": 313
+            },
+            "opponent_ranks": {
+                "FG": 4,
+                "FGA": 27,
+                "FG%": 4,
+                "2P": 8,
+                "2PA": 58,
+                "2P%": 6,
+                "3P": 42,
+                "3PA": 100,
+                "3P%": 35,
+                "FT": 83,
+                "FTA": 132,
+                "FT%": 20,
+                "ORB": 148,
+                "DRB": 76,
+                "TRB": 84,
+                "AST": 93,
+                "STL": 81,
+                "BLK": 179,
+                "TOV": 289,
+                "PF": 200,
+                "PTS": 2
+            }
+        },
+        "seed": "8"
+    }
+}

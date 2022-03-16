@@ -1,0 +1,209 @@
+{
+    "new-mexico-state": {
+        "players": {
+            "Teddy Allen": {
+                "hs_rank": 101,
+                "Pts": 19.3,
+                "Reb": 6.8,
+                "Ast": 2.6
+            },
+            "Sir'Jabari Rice": {
+                "hs_rank": 101,
+                "Pts": 12.2,
+                "Reb": 5.3,
+                "Ast": 3.2
+            },
+            "Johnny McCants": {
+                "hs_rank": 101,
+                "Pts": 8.5,
+                "Reb": 5.3,
+                "Ast": 2.3
+            },
+            "William McNair": {
+                "hs_rank": 101,
+                "Pts": 6.7,
+                "Reb": 4.9,
+                "Ast": 1.1
+            },
+            "Yuat Alok": {
+                "hs_rank": 101,
+                "Pts": 4.9,
+                "Reb": 1.8,
+                "Ast": 0.4
+            },
+            "Mike Peake": {
+                "hs_rank": 101,
+                "Pts": 4.3,
+                "Reb": 2.5,
+                "Ast": 0.6
+            },
+            "Donnie Tillman": {
+                "hs_rank": 101,
+                "Pts": 6.4,
+                "Reb": 3.4,
+                "Ast": 1.0
+            },
+            "Clayton Henry": {
+                "hs_rank": 101,
+                "Pts": 5.0,
+                "Reb": 3.3,
+                "Ast": 0.8
+            },
+            "Mario McKinney": {
+                "hs_rank": 101,
+                "Pts": 4.0,
+                "Reb": 2.1,
+                "Ast": 1.1
+            },
+            "Marchelus Avery": {
+                "hs_rank": 101,
+                "Pts": 4.0,
+                "Reb": 2.5,
+                "Ast": 0.6
+            },
+            "Nate Pryor": {
+                "hs_rank": 101,
+                "Pts": 2.9,
+                "Reb": 1.9,
+                "Ast": 1.7
+            },
+            "Virshon Cotton": {
+                "hs_rank": 101,
+                "Pts": 4.5,
+                "Reb": 1.3,
+                "Ast": 0.7
+            },
+            "Levar Williams": {
+                "hs_rank": 101,
+                "Pts": 2.9,
+                "Reb": 0.4,
+                "Ast": 0.4
+            },
+            "Marsei Caston": {
+                "hs_rank": 101,
+                "Pts": 2.5,
+                "Reb": 1.0,
+                "Ast": 0.0
+            },
+            "Cameron Crawford": {
+                "hs_rank": 101,
+                "Pts": 0.8,
+                "Reb": 0.3,
+                "Ast": 0.0
+            },
+            "Jorge Moreno": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Shakiru Odunewu": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Kiran Oliver": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 25.9,
+                "FGA": 56.6,
+                "FG%": 0.457,
+                "2P": 18.0,
+                "2PA": 32.5,
+                "2P%": 0.554,
+                "3P": 7.8,
+                "3PA": 24.0,
+                "3P%": 0.326,
+                "FT": 13.7,
+                "FTA": 19.7,
+                "FT%": 0.698,
+                "ORB": 11.1,
+                "DRB": 27.3,
+                "TRB": 38.5,
+                "AST": 13.9,
+                "STL": 5.1,
+                "BLK": 4.2,
+                "TOV": 14.0,
+                "PF": 15.9,
+                "PTS": 73.3
+            },
+            "opponent_stats": {
+                "o_FG": 22.9,
+                "o_FGA": 58.6,
+                "o_FG%": 0.391,
+                "o_2P": 15.3,
+                "o_2PA": 33.4,
+                "o_2P%": 0.456,
+                "o_3P": 7.6,
+                "o_3PA": 25.1,
+                "o_3P%": 0.303,
+                "o_FT": 11.7,
+                "o_FTA": 15.8,
+                "o_FT%": 0.736,
+                "o_ORB": 9.3,
+                "o_DRB": 21.9,
+                "o_TRB": 31.2,
+                "o_AST": 11.2,
+                "o_STL": 6.8,
+                "o_BLK": 2.0,
+                "o_TOV": 12.1,
+                "o_PF": 19.0,
+                "o_PTS": 65.0
+            },
+            "team_ranks": {
+                "FG": 137,
+                "FGA": 241,
+                "FG%": 80,
+                "2P": 178,
+                "2PA": 304,
+                "2P%": 27,
+                "3P": 133,
+                "3PA": 99,
+                "3P%": 245,
+                "FT": 106,
+                "FTA": 68,
+                "FT%": 239,
+                "ORB": 84,
+                "DRB": 44,
+                "TRB": 38,
+                "AST": 116,
+                "STL": 322,
+                "BLK": 73,
+                "TOV": 55,
+                "PF": 233,
+                "PTS": 116
+            },
+            "opponent_ranks": {
+                "FG": 50,
+                "FGA": 222,
+                "FG%": 15,
+                "2P": 29,
+                "2PA": 79,
+                "2P%": 37,
+                "3P": 241,
+                "3PA": 319,
+                "3P%": 34,
+                "FT": 131,
+                "FTA": 110,
+                "FT%": 287,
+                "ORB": 145,
+                "DRB": 18,
+                "TRB": 35,
+                "AST": 242,
+                "STL": 231,
+                "BLK": 4,
+                "TOV": 123,
+                "PF": 323,
+                "PTS": 54
+            }
+        },
+        "seed": "12"
+    }
+}

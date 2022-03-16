@@ -1,0 +1,203 @@
+{
+    "wisconsin": {
+        "players": {
+            "Johnny Davis": {
+                "hs_rank": 101,
+                "Pts": 19.7,
+                "Reb": 8.2,
+                "Ast": 2.2
+            },
+            "Brad Davison": {
+                "hs_rank": 101,
+                "Pts": 14.5,
+                "Reb": 4.1,
+                "Ast": 2.0
+            },
+            "Tyler Wahl": {
+                "hs_rank": 101,
+                "Pts": 11.4,
+                "Reb": 5.7,
+                "Ast": 1.5
+            },
+            "Steven Crowl": {
+                "hs_rank": 101,
+                "Pts": 9.1,
+                "Reb": 4.5,
+                "Ast": 1.5
+            },
+            "Chucky Hepburn": {
+                "hs_rank": 101,
+                "Pts": 8.2,
+                "Reb": 2.0,
+                "Ast": 2.3
+            },
+            "Chris Vogt": {
+                "hs_rank": 101,
+                "Pts": 2.8,
+                "Reb": 3.2,
+                "Ast": 0.7
+            },
+            "Lorne Bowman": {
+                "hs_rank": 101,
+                "Pts": 3.0,
+                "Reb": 1.1,
+                "Ast": 0.5
+            },
+            "Ben Carlson": {
+                "hs_rank": 101,
+                "Pts": 1.5,
+                "Reb": 2.1,
+                "Ast": 0.1
+            },
+            "Jahcobi Neath": {
+                "hs_rank": 101,
+                "Pts": 1.7,
+                "Reb": 1.4,
+                "Ast": 0.3
+            },
+            "Jordan Davis": {
+                "hs_rank": 101,
+                "Pts": 1.2,
+                "Reb": 0.8,
+                "Ast": 0.2
+            },
+            "Carter Gilmore": {
+                "hs_rank": 101,
+                "Pts": 0.9,
+                "Reb": 1.0,
+                "Ast": 0.4
+            },
+            "Markus Ilver": {
+                "hs_rank": 101,
+                "Pts": 0.6,
+                "Reb": 0.5,
+                "Ast": 0.0
+            },
+            "Isaac Lindsey": {
+                "hs_rank": 101,
+                "Pts": 0.6,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Carter Higginbottom": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Justin Taphorn": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Chris Hodges": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Matthew Mors": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 25.0,
+                "FGA": 58.8,
+                "FG%": 0.425,
+                "2P": 18.4,
+                "2PA": 37.6,
+                "2P%": 0.489,
+                "3P": 6.6,
+                "3PA": 21.2,
+                "3P%": 0.312,
+                "FT": 14.1,
+                "FTA": 19.0,
+                "FT%": 0.742,
+                "ORB": 9.3,
+                "DRB": 25.6,
+                "TRB": 34.9,
+                "AST": 11.1,
+                "STL": 5.3,
+                "BLK": 2.8,
+                "TOV": 8.5,
+                "PF": 17.0,
+                "PTS": 70.7
+            },
+            "opponent_stats": {
+                "o_FG": 24.9,
+                "o_FGA": 56.6,
+                "o_FG%": 0.439,
+                "o_2P": 18.7,
+                "o_2PA": 37.5,
+                "o_2P%": 0.499,
+                "o_3P": 6.2,
+                "o_3PA": 19.1,
+                "o_3P%": 0.323,
+                "o_FT": 10.6,
+                "o_FTA": 15.6,
+                "o_FT%": 0.68,
+                "o_ORB": 8.1,
+                "o_DRB": 26.6,
+                "o_TRB": 34.7,
+                "o_AST": 11.5,
+                "o_STL": 4.6,
+                "o_BLK": 3.4,
+                "o_TOV": 11.3,
+                "o_PF": 18.9,
+                "o_PTS": 66.5
+            },
+            "team_ranks": {
+                "FG": 215,
+                "FGA": 128,
+                "FG%": 268,
+                "2P": 153,
+                "2PA": 141,
+                "2P%": 242,
+                "3P": 260,
+                "3PA": 211,
+                "3P%": 300,
+                "FT": 78,
+                "FTA": 102,
+                "FT%": 94,
+                "ORB": 222,
+                "DRB": 144,
+                "TRB": 202,
+                "AST": 315,
+                "STL": 302,
+                "BLK": 223,
+                "TOV": 357,
+                "PF": 158,
+                "PTS": 188
+            },
+            "opponent_ranks": {
+                "FG": 183,
+                "FGA": 145,
+                "FG%": 214,
+                "2P": 262,
+                "2PA": 252,
+                "2P%": 207,
+                "3P": 42,
+                "3PA": 49,
+                "3P%": 113,
+                "FT": 63,
+                "FTA": 102,
+                "FT%": 35,
+                "ORB": 48,
+                "DRB": 297,
+                "TRB": 181,
+                "AST": 44,
+                "STL": 6,
+                "BLK": 242,
+                "TOV": 69,
+                "PF": 321,
+                "PTS": 102
+            }
+        },
+        "seed": "3"
+    }
+}

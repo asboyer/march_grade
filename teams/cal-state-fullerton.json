@@ -1,0 +1,179 @@
+{
+    "cal-state-fullerton": {
+        "players": {
+            "E.J. Anosike": {
+                "hs_rank": 101,
+                "Pts": 16.5,
+                "Reb": 8.3,
+                "Ast": 1.8
+            },
+            "Damari Milstead": {
+                "hs_rank": 101,
+                "Pts": 12.1,
+                "Reb": 3.1,
+                "Ast": 2.8
+            },
+            "Tray Maddox Jr.": {
+                "hs_rank": 101,
+                "Pts": 9.6,
+                "Reb": 2.6,
+                "Ast": 1.8
+            },
+            "Jalen Harris": {
+                "hs_rank": 101,
+                "Pts": 9.2,
+                "Reb": 1.0,
+                "Ast": 1.0
+            },
+            "Vincent Lee": {
+                "hs_rank": 101,
+                "Pts": 7.9,
+                "Reb": 6.1,
+                "Ast": 0.5
+            },
+            "Latrell Wrightsell": {
+                "hs_rank": 101,
+                "Pts": 6.7,
+                "Reb": 2.8,
+                "Ast": 1.7
+            },
+            "Dante Maddox": {
+                "hs_rank": 101,
+                "Pts": 7.0,
+                "Reb": 2.7,
+                "Ast": 1.1
+            },
+            "Tory San Antonio": {
+                "hs_rank": 101,
+                "Pts": 3.3,
+                "Reb": 3.8,
+                "Ast": 1.2
+            },
+            "Lado Laku": {
+                "hs_rank": 101,
+                "Pts": 1.8,
+                "Reb": 0.8,
+                "Ast": 0.1
+            },
+            "Ibrahim Famouke Doumbia": {
+                "hs_rank": 101,
+                "Pts": 1.1,
+                "Reb": 2.0,
+                "Ast": 0.1
+            },
+            "Grayson Carper": {
+                "hs_rank": 101,
+                "Pts": 2.3,
+                "Reb": 0.8,
+                "Ast": 0.1
+            },
+            "Cameron Carter": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Landis Spivey": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 24.8,
+                "FGA": 55.4,
+                "FG%": 0.447,
+                "2P": 19.3,
+                "2PA": 38.7,
+                "2P%": 0.498,
+                "3P": 5.5,
+                "3PA": 16.7,
+                "3P%": 0.33,
+                "FT": 15.2,
+                "FTA": 19.9,
+                "FT%": 0.763,
+                "ORB": 9.7,
+                "DRB": 23.9,
+                "TRB": 33.5,
+                "AST": 11.3,
+                "STL": 7.3,
+                "BLK": 2.0,
+                "TOV": 12.3,
+                "PF": 16.0,
+                "PTS": 70.3
+            },
+            "opponent_stats": {
+                "o_FG": 24.2,
+                "o_FGA": 55.3,
+                "o_FG%": 0.438,
+                "o_2P": 16.4,
+                "o_2PA": 34.5,
+                "o_2P%": 0.475,
+                "o_3P": 7.8,
+                "o_3PA": 20.7,
+                "o_3P%": 0.375,
+                "o_FT": 10.0,
+                "o_FTA": 14.4,
+                "o_FT%": 0.695,
+                "o_ORB": 8.9,
+                "o_DRB": 22.9,
+                "o_TRB": 31.8,
+                "o_AST": 13.1,
+                "o_STL": 6.2,
+                "o_BLK": 3.1,
+                "o_TOV": 13.9,
+                "o_PF": 19.5,
+                "o_PTS": 66.2
+            },
+            "team_ranks": {
+                "FG": 240,
+                "FGA": 298,
+                "FG%": 131,
+                "2P": 91,
+                "2PA": 78,
+                "2P%": 197,
+                "3P": 328,
+                "3PA": 341,
+                "3P%": 231,
+                "FT": 27,
+                "FTA": 63,
+                "FT%": 25,
+                "ORB": 197,
+                "DRB": 286,
+                "TRB": 263,
+                "AST": 305,
+                "STL": 97,
+                "BLK": 334,
+                "TOV": 222,
+                "PF": 219,
+                "PTS": 203
+            },
+            "opponent_ranks": {
+                "FG": 142,
+                "FGA": 75,
+                "FG%": 207,
+                "2P": 88,
+                "2PA": 121,
+                "2P%": 107,
+                "3P": 253,
+                "3PA": 131,
+                "3P%": 348,
+                "FT": 42,
+                "FTA": 51,
+                "FT%": 75,
+                "ORB": 105,
+                "DRB": 51,
+                "TRB": 49,
+                "AST": 54,
+                "STL": 141,
+                "BLK": 179,
+                "TOV": 271,
+                "PF": 345,
+                "PTS": 88
+            }
+        },
+        "seed": "15"
+    }
+}
