@@ -3,61 +3,43 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import json
+import requests
 
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
-year = 2021
+url = "https://www.ncaa.com/march-madness-live/bracket"
+r = requests.get(url)
 
-def scrape(url):
-    html = urlopen(url)
-    soup = BeautifulSoup(html, "html.parser")  
-    
-    headers = [th.getText() for th in soup.findAll("tr", limit=2)[0].findAll("th")]
-    headers = headers[1:]
+text = r.text
+l = text.split('<div class="logo-container" data-v-108f8bd2>')[1:224]
+teams = {}
+index = 0
+counter = 0
+div = ['west', 'south', 'east', 'midwest']
+for d in div:
+    teams[d] = {}
 
-    rows = soup.findAll('tr')[1:]
+    for line in l[0:]:
 
-    stats = {}
-    for i in range(len(rows)):
-        tds = rows[i].findAll("td")
-        if len(tds) > 0:
-            name = tds[0].getText()
-            try:
-                if stats[name] != {}:
-                    h = 0
-                    player_dict = {}
-                    for td in tds:
-                        header = headers[h]
-                        if header == 'MP' and 'advanced' in url:
-                            header = 'TMP'
-                        stats[name][header] = td.getText()
-                    if player_dict["Tm"] == "TOT":
-                        stats[name] = player_dict
-                    else:
-                        pass
-            except:
-                stats[name] = {}
-                h = 0
-                for td in tds:
-                    header = headers[h]
-                    if header == 'MP' and 'advanced' in url:
-                        header = 'TMP'
-                    stats[name][header] = td.getText()
-                    h += 1
-    return stats
+        seed = line.split('<span class="overline color_lvl_-5 " data-v-a92af722 data-v-108f8bd2>')[1][0:2].replace('<', '')
+        team = line.split('data-v-2dc29664 data-v-108f8bd2>')[1].split('</p>')[0]
 
-reg_stats_url = f"https://www.basketball-reference.com/leagues/NBA_{year}_per_game.html"
-adv_stats_url = f"https://www.basketball-reference.com/leagues/NBA_{year}_advanced.html"
+        counter += 1
 
-https://www.sports-reference.com/cbb/schools/duke/2022.html
+        teams[div[index]][counter] = {
+            'seed': seed,
+            'team': team
+        }
 
-reg_stats = scrape(reg_stats_url)
-adv_stats = scrape(adv_stats_url)
+        if counter % 16 == 0:
+            index += 1
 
-for player in reg_stats:
-    reg_stats[player].update(adv_stats[player])
-    del reg_stats[player][" "]
 
-with open('stats.json', 'w+', encoding='utf8') as file:
-    file.write(json.dumps(reg_stats, ensure_ascii=False, indent =4))
+# with open('test.txt', 'w+') as file:
+#     for line in l:
+#         file.write(line + "\n___________________________\n")
+
+
+with open('teams.json', 'w+', encoding='utf8') as file:
+    file.write(json.dumps(teams, ensure_ascii=False, indent =4))

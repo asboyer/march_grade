@@ -1,0 +1,71 @@
+{
+    "west": {
+        "1": {
+            "seed": "1",
+            "team": "Gonzaga"
+        },
+        "2": {
+            "seed": "16",
+            "team": "Georgia St."
+        },
+        "3": {
+            "seed": "8",
+            "team": "Boise St."
+        },
+        "4": {
+            "seed": "9",
+            "team": "Memphis"
+        },
+        "5": {
+            "seed": "5",
+            "team": "UConn"
+        },
+        "6": {
+            "seed": "12",
+            "team": "New Mexico St."
+        },
+        "7": {
+            "seed": "4",
+            "team": "Arkansas"
+        },
+        "8": {
+            "seed": "13",
+            "team": "Vermont"
+        },
+        "9": {
+            "seed": "6",
+            "team": "Alabama"
+        },
+        "10": {
+            "seed": "/",
+            "team": ""
+        },
+        "11": {
+            "seed": "3",
+            "team": "Texas Tech"
+        },
+        "12": {
+            "seed": "14",
+            "team": "Montana St."
+        },
+        "13": {
+            "seed": "7",
+            "team": "Michigan St."
+        },
+        "14": {
+            "seed": "10",
+            "team": "Davidson"
+        },
+        "15": {
+            "seed": "2",
+            "team": "Duke"
+        },
+        "16": {
+            "seed": "15",
+            "team": "Cal St. Fullerton"
+        }
+    },
+    "south": {},
+    "east": {},
+    "midwest": {}
+}
