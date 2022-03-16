@@ -1,0 +1,202 @@
+{
+    "gonzaga": {
+        "players": {
+            "Drew Timme": {
+                "hs_rank": 42,
+                "Pts": 17.5,
+                "Reb": 6.3,
+                "Ast": 2.7
+            },
+            "Chet Holmgren": {
+                "hs_rank": 1,
+                "Pts": 14.2,
+                "Reb": 9.6,
+                "Ast": 1.8
+            },
+            "Julian Strawther": {
+                "hs_rank": 58,
+                "Pts": 12.3,
+                "Reb": 5.5,
+                "Ast": 1.0
+            },
+            "Andrew Nembhard": {
+                "hs_rank": 25,
+                "Pts": 11.7,
+                "Reb": 3.2,
+                "Ast": 5.7
+            },
+            "Rasir Bolton": {
+                "hs_rank": 101,
+                "Pts": 11.2,
+                "Reb": 2.6,
+                "Ast": 2.3
+            },
+            "Anton Watson": {
+                "hs_rank": 48,
+                "Pts": 7.7,
+                "Reb": 4.5,
+                "Ast": 1.9
+            },
+            "Nolan Hickman": {
+                "hs_rank": 26,
+                "Pts": 5.4,
+                "Reb": 1.6,
+                "Ast": 1.4
+            },
+            "Hunter Sallis": {
+                "hs_rank": 15,
+                "Pts": 4.4,
+                "Reb": 2.1,
+                "Ast": 0.7
+            },
+            "Ben Gregg": {
+                "hs_rank": 101,
+                "Pts": 2.5,
+                "Reb": 2.1,
+                "Ast": 0.6
+            },
+            "Matthew Lang": {
+                "hs_rank": 101,
+                "Pts": 1.1,
+                "Reb": 0.9,
+                "Ast": 0.3
+            },
+            "Kaden Perry": {
+                "hs_rank": 50,
+                "Pts": 1.8,
+                "Reb": 2.3,
+                "Ast": 0.1
+            },
+            "Martynas Arlauskas": {
+                "hs_rank": 87,
+                "Pts": 0.8,
+                "Reb": 0.7,
+                "Ast": 0.0
+            },
+            "Will Graves": {
+                "hs_rank": 101,
+                "Pts": 0.7,
+                "Reb": 0.3,
+                "Ast": 0.0
+            },
+            "Joe Few": {
+                "hs_rank": 101,
+                "Pts": 0.1,
+                "Reb": 0.7,
+                "Ast": 0.3
+            },
+            "Colby Brooks": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Abe Eagle": {
+                "hs_rank": 101,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            },
+            "Dominick Harris": {
+                "hs_rank": 64,
+                "Pts": 0.0,
+                "Reb": 0.0,
+                "Ast": 0.0
+            }
+        },
+        "team": {
+            "team_stats": {
+                "FG": 32.9,
+                "FGA": 62.4,
+                "FG%": 0.527,
+                "2P": 24.6,
+                "2PA": 40.3,
+                "2P%": 0.609,
+                "3P": 8.4,
+                "3PA": 22.1,
+                "3P%": 0.379,
+                "FT": 13.6,
+                "FTA": 18.6,
+                "FT%": 0.73,
+                "ORB": 9.4,
+                "DRB": 32.1,
+                "TRB": 41.5,
+                "AST": 18.2,
+                "STL": 6.7,
+                "BLK": 5.9,
+                "TOV": 11.8,
+                "PF": 15.4,
+                "PTS": 87.8
+            },
+            "opponent_stats": {
+                "FG": 24.4,
+                "FGA": 64.2,
+                "FG%": 0.379,
+                "2P": 17.7,
+                "2PA": 42.5,
+                "2P%": 0.416,
+                "3P": 6.7,
+                "3PA": 21.8,
+                "3P%": 0.307,
+                "FT": 9.9,
+                "FTA": 14.2,
+                "FT%": 0.695,
+                "ORB": 9.6,
+                "DRB": 23.0,
+                "TRB": 32.6,
+                "AST": 10.0,
+                "STL": 6.2,
+                "BLK": 2.7,
+                "TOV": 12.6,
+                "PF": 17.8,
+                "PTS": 65.3
+            },
+            "team_ranks": {
+                "FG": 1,
+                "FGA": 25,
+                "FG%": 1,
+                "2P": 1,
+                "2PA": 37,
+                "2P%": 1,
+                "3P": 82,
+                "3PA": 157,
+                "3P%": 18,
+                "FT": 113,
+                "FTA": 120,
+                "FT%": 131,
+                "ORB": 217,
+                "DRB": 1,
+                "TRB": 4,
+                "AST": 3,
+                "STL": 158,
+                "BLK": 6,
+                "TOV": 263,
+                "PF": 272,
+                "PTS": 1
+            },
+            "opponent_ranks": {
+                "FG": 151,
+                "FGA": 354,
+                "FG%": 3,
+                "2P": 186,
+                "2PA": 352,
+                "2P%": 1,
+                "3P": 105,
+                "3PA": 192,
+                "3P%": 42,
+                "FT": 39,
+                "FTA": 46,
+                "FT%": 74,
+                "ORB": 163,
+                "DRB": 58,
+                "TRB": 76,
+                "AST": 356,
+                "STL": 155,
+                "BLK": 83,
+                "TOV": 163,
+                "PF": 274,
+                "PTS": 64
+            }
+        }
+    }
+}
