@@ -11,49 +11,75 @@ def get_team_stats(team):
     html = urlopen(url)
     soup = BeautifulSoup(html, "html.parser")  
 
-    headers = [th.getText() for th in soup.findAll("tr", limit=2)[0].findAll("th")]
-    headers = headers[1:]
-
     rows = soup.findAll('tr')[1:]
-
     stats = {}
     players = []
+    f = 0
     for i in range(len(rows)):
         player = rows[i].findAll('th')[0]
-        # print("'" + player.getText() + "'")
-        if player.getText() == 'Team':
-            players = players[0:len(players) - 1]
-            break
-        else:
-            players.append([player.getText(), rows[i].findAll('td')])
-    for player in players:
+        if player.getText() == 'Rk':
+            if f == 0:
+                ind = i
+                f += 1
+            elif f == 1:
+                end = i
+                break
+
+    headers = []
+    hs = rows[ind].findAll('th')
+    for h in hs:
+        headers.append(h.getText())
+    headers = headers[2:]
+    
+    for p in rows[ind+1:end]:
         h = 0
-        stats[player[0]] = {}
-        for td in player[1]:
-            stats[player[0]][headers[h]] = td.getText()
+        tds = p.findAll('td')
+        stats[f"{tds[0].getText()} ({team})"] = {}
+        for td in tds[1:]:
+            if td.getText() == '':
+                num = 0.0
+            else:
+                num = td.getText()
+            stats[f"{tds[0].getText()} ({team})"][headers[h]] = float(num)
+            h += 1
+
+    stats1 = {}
+    f = 0
+    for i in range(len(rows)):
+        player = rows[i].findAll('th')[0]
+        if player.getText() == 'Rk':
+            if f == 8:
+                adv_ind = i
+            elif f == 9:
+                end = i
+                break
+            f += 1
+
+    headers = []
+    hs = []
+    hs = rows[adv_ind].findAll('th')
+    for h in hs:
+        headers.append(h.getText())
+    headers = headers[2:]
+    for p in rows[adv_ind+1:end]:
+        h = 0
+        tds = p.findAll('td')
+        stats1[f"{tds[0].getText()} ({team})"] = {}
+        for td in tds[1:]:
+            if td.getText() == '':
+                num = 0.0
+            else:
+                num = td.getText()
+            stats1[f"{tds[0].getText()} ({team})"][headers[h]] = float(num)
             h += 1
 
     final_stats = {}
+
     for player in stats:
-        final_stats[player] = {}
-        if stats[player]["RSCI Top 100"] == "":
-            final_stats[player]['hs_rank'] = 101
-        else:
-            final_stats[player]['hs_rank'] = int(stats[player]["RSCI Top 100"].split(' ')[0])
-        summary_str = stats[player]['Summary']
-        cats = ['Pts', 'Reb', 'Ast']
-        if summary_str == '':
-            for c in range(len(cats)):
-                final_stats[player][cats[c]] = 0.0
-        else:
-            sum_list = summary_str.split(',')
-            for i in range(len(sum_list)):
-                sum_list[i] = sum_list[i].strip()
-            pstats = []
-            for i in range(len(sum_list)):
-                pstats.append(float(sum_list[i].split(' ')[0]))
-            for c in range(len(cats)):
-                final_stats[player][cats[c]] = pstats[c]
+        stats[player].update(stats1[player])
+        del stats[player]["\u00a0"]
+
+    final_stats = stats
 
     team_stats = {}
     categories = []
@@ -107,3 +133,8 @@ def get_team_stats(team):
     }
 
     return j
+
+if __name__ == '__main__':
+    data = get_team_stats('gonzaga')
+    with open('test.json', 'w+') as file:
+        file.write(json.dumps(data, indent = 4))
