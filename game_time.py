@@ -14,7 +14,7 @@ def game_time():
                 pass
             else:
                 name = correct_name(bracket[conf][team]['team'])
-                goat_grade = grades[name]['goat_rank']
+                goat_grade = grades[name]['goat_grade']
                 bracket[conf][team]['goat_grade'] = goat_grade
     with open('data/teams.json', 'w+') as file:
         file.write(json.dumps(bracket, indent=4))

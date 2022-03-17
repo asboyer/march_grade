@@ -1,14 +1,14 @@
 import json
 from random import randint
 
-def final_grade(player_weight=1, team_weight=1.5, seed_weight=16, randomness=5):
+def final_grade(player_weight=1, team_weight=1.5):
     with open('data/final.json', 'r') as file:
         d = json.load(file)
     for team in d:
         goat_grade = d[team]['avg_player_grade'] * player_weight
         goat_grade += d[team]['team_grade'] * team_weight
-        goat_grade += d[team]['seed'] * seed_weight
-        goat_grade += randint(-randomness, randomness)
+        # goat_grade += d[team]['seed'] * seed_weight
+        # goat_grade += randint(-randomness, randomness)
         d[team]['goat_grade'] = int(goat_grade)
         del d[team]['avg_player_grade']
         del d[team]['team_grade']

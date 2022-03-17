@@ -3,326 +3,328 @@
         "1": {
             "seed": "1",
             "team": "Gonzaga",
-            "goat_grade": 2
+            "goat_grade": 823
         },
         "2": {
             "seed": "16",
             "team": "Georgia St.",
-            "goat_grade": 60
+            "goat_grade": 1371
         },
         "3": {
             "seed": "8",
             "team": "Boise St.",
-            "goat_grade": 17
+            "goat_grade": 986
         },
         "4": {
             "seed": "9",
             "team": "Memphis",
-            "goat_grade": 30
+            "goat_grade": 1120
         },
         "5": {
             "seed": "5",
             "team": "UConn",
-            "goat_grade": 20
+            "goat_grade": 1051
         },
         "6": {
             "seed": "12",
             "team": "New Mexico St.",
-            "goat_grade": 36
+            "goat_grade": 1118
         },
         "7": {
             "seed": "4",
             "team": "Arkansas",
-            "goat_grade": 23
+            "goat_grade": 1132
         },
         "8": {
             "seed": "13",
             "team": "Vermont",
-            "goat_grade": 9
+            "goat_grade": 852
         },
         "9": {
             "seed": "6",
             "team": "Alabama",
-            "goat_grade": 58
+            "goat_grade": 1481
         },
         "10": {
-            "seed": "/",
-            "team": ""
+            "seed": "11",
+            "team": "Notre Dame",
+            "goat_grade": 1047
         },
         "11": {
             "seed": "3",
             "team": "Texas Tech",
-            "goat_grade": 5
+            "goat_grade": 970
         },
         "12": {
             "seed": "14",
             "team": "Montana St.",
-            "goat_grade": 41
+            "goat_grade": 1103
         },
         "13": {
             "seed": "7",
             "team": "Michigan St.",
-            "goat_grade": 55
+            "goat_grade": 1393
         },
         "14": {
             "seed": "10",
             "team": "Davidson",
-            "goat_grade": 38
+            "goat_grade": 1160
         },
         "15": {
             "seed": "2",
             "team": "Duke",
-            "goat_grade": 13
+            "goat_grade": 1030
         },
         "16": {
             "seed": "15",
             "team": "Cal St. Fullerton",
-            "goat_grade": 54
+            "goat_grade": 1229
         }
     },
     "south": {
         "17": {
             "seed": "1",
             "team": "Arizona",
-            "goat_grade": 4
+            "goat_grade": 900
         },
         "18": {
-            "seed": "/",
-            "team": ""
+            "seed": "16",
+            "team": "Wright St.",
+            "goat_grade": 1173
         },
         "19": {
             "seed": "8",
             "team": "Seton Hall",
-            "goat_grade": 28
+            "goat_grade": 1123
         },
         "20": {
             "seed": "9",
             "team": "TCU",
-            "goat_grade": 52
+            "goat_grade": 1297
         },
         "21": {
             "seed": "5",
             "team": "Houston",
-            "goat_grade": 1
+            "goat_grade": 738
         },
         "22": {
             "seed": "12",
             "team": "UAB",
-            "goat_grade": 32
+            "goat_grade": 1084
         },
         "23": {
             "seed": "4",
             "team": "Illinois",
-            "goat_grade": 27
+            "goat_grade": 1187
         },
         "24": {
             "seed": "13",
             "team": "Chattanooga",
-            "goat_grade": 31
+            "goat_grade": 1060
         },
         "25": {
             "seed": "6",
             "team": "Colorado St.",
-            "goat_grade": 34
+            "goat_grade": 1196
         },
         "26": {
             "seed": "11",
             "team": "Michigan",
-            "goat_grade": 56
+            "goat_grade": 1331
         },
         "27": {
             "seed": "3",
             "team": "Tennessee",
-            "goat_grade": 22
+            "goat_grade": 1139
         },
         "28": {
             "seed": "14",
             "team": "Longwood",
-            "goat_grade": 39
+            "goat_grade": 1106
         },
         "29": {
             "seed": "7",
             "team": "Ohio St.",
-            "goat_grade": 24
+            "goat_grade": 1082
         },
         "30": {
             "seed": "10",
             "team": "Loyola Chicago",
-            "goat_grade": 15
+            "goat_grade": 927
         },
         "31": {
             "seed": "2",
             "team": "Villanova",
-            "goat_grade": 12
+            "goat_grade": 1042
         },
         "32": {
             "seed": "15",
             "team": "Delaware",
-            "goat_grade": 59
+            "goat_grade": 1348
         }
     },
     "east": {
         "33": {
             "seed": "1",
             "team": "Baylor",
-            "goat_grade": 14
+            "goat_grade": 1069
         },
         "34": {
             "seed": "16",
             "team": "Norfolk St.",
-            "goat_grade": 44
+            "goat_grade": 1101
         },
         "35": {
             "seed": "8",
             "team": "North Carolina",
-            "goat_grade": 57
+            "goat_grade": 1392
         },
         "36": {
             "seed": "9",
             "team": "Marquette",
-            "goat_grade": 51
+            "goat_grade": 1291
         },
         "37": {
             "seed": "5",
             "team": "Saint Mary's",
-            "goat_grade": 19
+            "goat_grade": 1051
         },
         "38": {
             "seed": "12",
             "team": "Indiana",
-            "goat_grade": 40
+            "goat_grade": 1162
         },
         "39": {
             "seed": "4",
             "team": "UCLA",
-            "goat_grade": 6
+            "goat_grade": 945
         },
         "40": {
             "seed": "13",
             "team": "Akron",
-            "goat_grade": 33
+            "goat_grade": 1076
         },
         "41": {
             "seed": "6",
             "team": "Texas",
-            "goat_grade": 16
+            "goat_grade": 1007
         },
         "42": {
             "seed": "11",
             "team": "Virginia Tech",
-            "goat_grade": 26
+            "goat_grade": 1053
         },
         "43": {
             "seed": "3",
             "team": "Purdue",
-            "goat_grade": 8
+            "goat_grade": 986
         },
         "44": {
             "seed": "14",
             "team": "Yale",
-            "goat_grade": 62
+            "goat_grade": 1674
         },
         "45": {
             "seed": "7",
             "team": "Murray St.",
-            "goat_grade": 3
+            "goat_grade": 775
         },
         "46": {
             "seed": "10",
             "team": "San Francisco",
-            "goat_grade": 37
+            "goat_grade": 1125
         },
         "47": {
             "seed": "2",
             "team": "Kentucky",
-            "goat_grade": 11
+            "goat_grade": 1016
         },
         "48": {
             "seed": "15",
             "team": "Saint Peter's",
-            "goat_grade": 35
+            "goat_grade": 1052
         }
     },
     "midwest": {
         "49": {
             "seed": "1",
             "team": "Kansas",
-            "goat_grade": 10
+            "goat_grade": 1042
         },
         "50": {
             "seed": "16",
             "team": "Texas Southern",
-            "goat_grade": 43
+            "goat_grade": 1094
         },
         "51": {
             "seed": "8",
             "team": "San Diego St.",
-            "goat_grade": 45
+            "goat_grade": 1240
         },
         "52": {
             "seed": "9",
             "team": "Creighton",
-            "goat_grade": 50
+            "goat_grade": 1285
         },
         "53": {
             "seed": "5",
             "team": "Iowa",
-            "goat_grade": 18
+            "goat_grade": 1042
         },
         "54": {
             "seed": "12",
             "team": "Richmond",
-            "goat_grade": 61
+            "goat_grade": 1511
         },
         "55": {
             "seed": "4",
             "team": "Providence",
-            "goat_grade": 21
+            "goat_grade": 1109
         },
         "56": {
             "seed": "13",
             "team": "South Dakota St.",
-            "goat_grade": 7
+            "goat_grade": 811
         },
         "57": {
             "seed": "6",
             "team": "LSU",
-            "goat_grade": 49
+            "goat_grade": 1317
         },
         "58": {
             "seed": "11",
             "team": "Iowa St.",
-            "goat_grade": 25
+            "goat_grade": 1036
         },
         "59": {
             "seed": "3",
             "team": "Wisconsin",
-            "goat_grade": 53
+            "goat_grade": 1429
         },
         "60": {
             "seed": "14",
             "team": "Colgate",
-            "goat_grade": 42
+            "goat_grade": 1132
         },
         "61": {
             "seed": "7",
             "team": "USC",
-            "goat_grade": 48
+            "goat_grade": 1317
         },
         "62": {
             "seed": "10",
             "team": "Miami (FL)",
-            "goat_grade": 46
+            "goat_grade": 1206
         },
         "63": {
             "seed": "2",
             "team": "Auburn",
-            "goat_grade": 29
+            "goat_grade": 1206
         },
         "64": {
             "seed": "15",
             "team": "Jacksonville St.",
-            "goat_grade": 47
+            "goat_grade": 1137
         }
     }
 }

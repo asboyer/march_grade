@@ -9,9 +9,9 @@ from game_time import game_time
 
 
 
-# get_teams()
-# build_dict()
-# merge_data()
+get_teams()
+build_dict()
+merge_data()
 rank_players()
 rank_teams()
 players_to_team()
