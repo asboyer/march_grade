@@ -2,8 +2,8 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import json
 
-import ssl
-ssl._create_default_https_context = ssl._create_unverified_context
+# import ssl
+# ssl._create_default_https_context = ssl._create_unverified_context
 
 def get_team_stats(team):
     url = f"https://www.sports-reference.com/cbb/schools/{team}/2022.html"

@@ -1,312 +1,312 @@
 {
     "akron": {
         "seed": 13,
-        "goat_grade": 468,
-        "goat_rank": 36
+        "goat_grade": 1256,
+        "goat_rank": 33
     },
     "alabama-birmingham": {
         "seed": 12,
-        "goat_grade": 419,
-        "goat_rank": 10
+        "goat_grade": 1239,
+        "goat_rank": 32
     },
     "alabama": {
         "seed": 6,
-        "goat_grade": 549,
+        "goat_grade": 1542,
         "goat_rank": 58
     },
     "arizona": {
         "seed": 1,
-        "goat_grade": 384,
-        "goat_rank": 6
+        "goat_grade": 909,
+        "goat_rank": 4
     },
     "arkansas": {
         "seed": 4,
-        "goat_grade": 471,
-        "goat_rank": 37
+        "goat_grade": 1159,
+        "goat_rank": 23
     },
     "auburn": {
         "seed": 2,
-        "goat_grade": 467,
-        "goat_rank": 33
+        "goat_grade": 1223,
+        "goat_rank": 29
     },
     "baylor": {
         "seed": 1,
-        "goat_grade": 428,
-        "goat_rank": 13
+        "goat_grade": 1047,
+        "goat_rank": 14
     },
     "boise-state": {
         "seed": 8,
-        "goat_grade": 446,
-        "goat_rank": 20
+        "goat_grade": 1081,
+        "goat_rank": 17
     },
     "cal-state-fullerton": {
         "seed": 15,
-        "goat_grade": 534,
-        "goat_rank": 56
+        "goat_grade": 1440,
+        "goat_rank": 54
     },
     "chattanooga": {
         "seed": 13,
-        "goat_grade": 461,
-        "goat_rank": 30
+        "goat_grade": 1231,
+        "goat_rank": 31
     },
     "colgate": {
         "seed": 14,
-        "goat_grade": 467,
-        "goat_rank": 34
+        "goat_grade": 1321,
+        "goat_rank": 42
     },
     "colorado-state": {
         "seed": 6,
-        "goat_grade": 500,
-        "goat_rank": 46
+        "goat_grade": 1256,
+        "goat_rank": 34
     },
     "connecticut": {
         "seed": 5,
-        "goat_grade": 448,
-        "goat_rank": 23
+        "goat_grade": 1116,
+        "goat_rank": 20
     },
     "creighton": {
         "seed": 9,
-        "goat_grade": 558,
-        "goat_rank": 59
+        "goat_grade": 1394,
+        "goat_rank": 50
     },
     "davidson": {
         "seed": 10,
-        "goat_grade": 467,
-        "goat_rank": 35
+        "goat_grade": 1288,
+        "goat_rank": 38
     },
     "delaware": {
         "seed": 15,
-        "goat_grade": 535,
-        "goat_rank": 57
+        "goat_grade": 1553,
+        "goat_rank": 59
     },
     "duke": {
         "seed": 2,
-        "goat_grade": 438,
-        "goat_rank": 17
+        "goat_grade": 1044,
+        "goat_rank": 13
     },
     "georgia-state": {
         "seed": 16,
-        "goat_grade": 533,
-        "goat_rank": 53
+        "goat_grade": 1583,
+        "goat_rank": 60
     },
     "gonzaga": {
         "seed": 1,
-        "goat_grade": 355,
+        "goat_grade": 830,
         "goat_rank": 2
     },
     "houston": {
         "seed": 5,
-        "goat_grade": 319,
+        "goat_grade": 788,
         "goat_rank": 1
     },
     "illinois": {
         "seed": 4,
-        "goat_grade": 474,
-        "goat_rank": 38
+        "goat_grade": 1211,
+        "goat_rank": 27
     },
     "indiana": {
         "seed": 12,
-        "goat_grade": 483,
+        "goat_grade": 1315,
         "goat_rank": 40
     },
     "iowa-state": {
         "seed": 11,
-        "goat_grade": 495,
-        "goat_rank": 42
+        "goat_grade": 1185,
+        "goat_rank": 25
     },
     "iowa": {
         "seed": 5,
-        "goat_grade": 432,
-        "goat_rank": 14
+        "goat_grade": 1092,
+        "goat_rank": 18
     },
     "jacksonville-state": {
         "seed": 15,
-        "goat_grade": 494,
-        "goat_rank": 41
+        "goat_grade": 1342,
+        "goat_rank": 47
     },
     "kansas": {
         "seed": 1,
-        "goat_grade": 432,
-        "goat_rank": 15
+        "goat_grade": 1030,
+        "goat_rank": 10
     },
     "kentucky": {
         "seed": 2,
-        "goat_grade": 420,
-        "goat_rank": 12
+        "goat_grade": 1033,
+        "goat_rank": 11
     },
     "longwood": {
         "seed": 14,
-        "goat_grade": 447,
-        "goat_rank": 21
+        "goat_grade": 1289,
+        "goat_rank": 39
     },
     "louisiana-state": {
         "seed": 6,
-        "goat_grade": 511,
-        "goat_rank": 48
+        "goat_grade": 1375,
+        "goat_rank": 49
     },
     "loyola-il": {
         "seed": 10,
-        "goat_grade": 399,
-        "goat_rank": 7
+        "goat_grade": 1059,
+        "goat_rank": 15
     },
     "marquette": {
         "seed": 9,
-        "goat_grade": 533,
-        "goat_rank": 54
+        "goat_grade": 1401,
+        "goat_rank": 51
     },
     "memphis": {
         "seed": 9,
-        "goat_grade": 445,
-        "goat_rank": 19
+        "goat_grade": 1225,
+        "goat_rank": 30
     },
     "miami-fl": {
         "seed": 10,
-        "goat_grade": 520,
-        "goat_rank": 51
+        "goat_grade": 1332,
+        "goat_rank": 46
     },
     "michigan-state": {
         "seed": 7,
-        "goat_grade": 533,
+        "goat_grade": 1465,
         "goat_rank": 55
     },
     "michigan": {
         "seed": 11,
-        "goat_grade": 532,
-        "goat_rank": 52
+        "goat_grade": 1470,
+        "goat_rank": 56
     },
     "montana-state": {
         "seed": 14,
-        "goat_grade": 450,
-        "goat_rank": 24
+        "goat_grade": 1318,
+        "goat_rank": 41
     },
     "murray-state": {
         "seed": 7,
-        "goat_grade": 359,
+        "goat_grade": 873,
         "goat_rank": 3
     },
     "new-mexico-state": {
         "seed": 12,
-        "goat_grade": 447,
-        "goat_rank": 22
+        "goat_grade": 1269,
+        "goat_rank": 36
     },
     "norfolk-state": {
         "seed": 16,
-        "goat_grade": 460,
-        "goat_rank": 29
+        "goat_grade": 1323,
+        "goat_rank": 44
     },
     "north-carolina": {
         "seed": 8,
-        "goat_grade": 519,
-        "goat_rank": 50
+        "goat_grade": 1482,
+        "goat_rank": 57
     },
     "ohio-state": {
         "seed": 7,
-        "goat_grade": 466,
-        "goat_rank": 32
+        "goat_grade": 1163,
+        "goat_rank": 24
     },
     "providence": {
         "seed": 4,
-        "goat_grade": 502,
-        "goat_rank": 47
+        "goat_grade": 1140,
+        "goat_rank": 21
     },
     "purdue": {
         "seed": 3,
-        "goat_grade": 419,
-        "goat_rank": 11
+        "goat_grade": 1026,
+        "goat_rank": 8
     },
     "richmond": {
         "seed": 12,
-        "goat_grade": 571,
+        "goat_grade": 1635,
         "goat_rank": 61
     },
     "saint-marys-ca": {
         "seed": 5,
-        "goat_grade": 455,
-        "goat_rank": 26
+        "goat_grade": 1093,
+        "goat_rank": 19
     },
     "saint-peters": {
         "seed": 15,
-        "goat_grade": 477,
-        "goat_rank": 39
+        "goat_grade": 1257,
+        "goat_rank": 35
     },
     "san-diego-state": {
         "seed": 8,
-        "goat_grade": 498,
+        "goat_grade": 1331,
         "goat_rank": 45
     },
     "san-francisco": {
         "seed": 10,
-        "goat_grade": 458,
-        "goat_rank": 28
+        "goat_grade": 1271,
+        "goat_rank": 37
     },
     "seton-hall": {
         "seed": 8,
-        "goat_grade": 462,
-        "goat_rank": 31
+        "goat_grade": 1215,
+        "goat_rank": 28
     },
     "south-dakota-state": {
         "seed": 13,
-        "goat_grade": 364,
-        "goat_rank": 4
+        "goat_grade": 996,
+        "goat_rank": 7
     },
     "southern-california": {
         "seed": 7,
-        "goat_grade": 496,
-        "goat_rank": 43
+        "goat_grade": 1373,
+        "goat_rank": 48
     },
     "tennessee": {
         "seed": 3,
-        "goat_grade": 438,
-        "goat_rank": 18
+        "goat_grade": 1150,
+        "goat_rank": 22
     },
     "texas-christian": {
         "seed": 9,
-        "goat_grade": 516,
-        "goat_rank": 49
+        "goat_grade": 1401,
+        "goat_rank": 52
     },
     "texas-southern": {
         "seed": 16,
-        "goat_grade": 497,
-        "goat_rank": 44
+        "goat_grade": 1322,
+        "goat_rank": 43
     },
     "texas-tech": {
         "seed": 3,
-        "goat_grade": 401,
-        "goat_rank": 8
+        "goat_grade": 983,
+        "goat_rank": 5
     },
     "texas": {
         "seed": 6,
-        "goat_grade": 434,
+        "goat_grade": 1071,
         "goat_rank": 16
     },
     "ucla": {
         "seed": 4,
-        "goat_grade": 408,
-        "goat_rank": 9
+        "goat_grade": 983,
+        "goat_rank": 6
     },
     "vermont": {
         "seed": 13,
-        "goat_grade": 369,
-        "goat_rank": 5
+        "goat_grade": 1028,
+        "goat_rank": 9
     },
     "villanova": {
         "seed": 2,
-        "goat_grade": 450,
-        "goat_rank": 25
+        "goat_grade": 1036,
+        "goat_rank": 12
     },
     "virginia-tech": {
         "seed": 11,
-        "goat_grade": 455,
-        "goat_rank": 27
+        "goat_grade": 1195,
+        "goat_rank": 26
     },
     "wisconsin": {
         "seed": 3,
-        "goat_grade": 571,
-        "goat_rank": 62
+        "goat_grade": 1438,
+        "goat_rank": 53
     },
     "yale": {
         "seed": 14,
-        "goat_grade": 566,
-        "goat_rank": 60
+        "goat_grade": 1860,
+        "goat_rank": 62
     }
 }

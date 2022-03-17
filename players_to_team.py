@@ -1,32 +1,34 @@
 import json, os
-final = {}
 
-with open('player_ranks.json', 'r') as file:
-    players = json.load(file)
-with open('team_ranks.json', 'r') as file:
-    teams = json.load(file)
+def players_to_team():
+    final = {}
 
-files = os.listdir('teams')
+    with open('data/player_ranks.json', 'r') as file:
+        players = json.load(file)
+    with open('data/team_ranks.json', 'r') as file:
+        teams = json.load(file)
 
-rosters = {}
-for filename in files:
-    with open(f'teams/{filename}', 'r') as file:
-        team = json.load(file)
-    count = 0
-    for player in team[filename.split('.json')[0]]['players']:
-        count += 1
-    rosters[filename.split('.json')[0]] = count
+    files = os.listdir('teams')
 
-for team in teams:
-    player_grade = 0
-    for player in players:
-        if player.split('(')[1].replace(')', '') == team:
-            player_grade += players[player]['rank']
-    final[team] = {
-        'player_grade': int(player_grade / (rosters[team])),
-        'team_grade': teams[team]['grade'] * 16,
-        'seed': teams[team]['seed']
-    }
+    rosters = {}
+    for filename in files:
+        with open(f'teams/{filename}', 'r') as file:
+            team = json.load(file)
+        count = 0
+        for player in team[filename.split('.json')[0]]['players']:
+            count += 1
+        rosters[filename.split('.json')[0]] = count
 
-with open('final.json', 'w+', encoding='utf8') as file:
-    file.write(json.dumps(final, indent=4))
+    for team in teams:
+        player_grade = 0
+        for player in players:
+            if player.split('(')[1].replace(')', '') == team:
+                player_grade += players[player]['rank']
+        final[team] = {
+            'avg_player_grade': int(player_grade / (rosters[team])),
+            'team_grade': teams[team]['grade'] * (rosters[team]),
+            'seed': teams[team]['seed']
+        }
+
+    with open('data/final.json', 'w+', encoding='utf8') as file:
+        file.write(json.dumps(final, indent=4))

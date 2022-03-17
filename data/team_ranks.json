@@ -40,7 +40,10 @@
         "o_TOV": 47,
         "o_PF": 5,
         "o_PTS": 12,
-        "grade": 1212
+        "grade": 30,
+        "score": 1212,
+        "seed": 13,
+        "rank": 26
     },
     "alabama-birmingham": {
         "FG": 7,
@@ -83,7 +86,10 @@
         "o_TOV": 5,
         "o_PF": 53,
         "o_PTS": 35,
-        "grade": 1067
+        "grade": 26,
+        "score": 1067,
+        "seed": 12,
+        "rank": 7
     },
     "alabama": {
         "FG": 16,
@@ -126,7 +132,10 @@
         "o_TOV": 27,
         "o_PF": 14,
         "o_PTS": 62,
-        "grade": 1469
+        "grade": 36,
+        "score": 1469,
+        "seed": 6,
+        "rank": 52
     },
     "arizona": {
         "FG": 4,
@@ -169,7 +178,10 @@
         "o_TOV": 31,
         "o_PF": 9,
         "o_PTS": 44,
-        "grade": 970
+        "grade": 24,
+        "score": 970,
+        "seed": 1,
+        "rank": 4
     },
     "arkansas": {
         "FG": 31,
@@ -212,7 +224,10 @@
         "o_TOV": 10,
         "o_PF": 2,
         "o_PTS": 50,
-        "grade": 1275
+        "grade": 31,
+        "score": 1275,
+        "seed": 4,
+        "rank": 32
     },
     "auburn": {
         "FG": 14,
@@ -255,7 +270,10 @@
         "o_TOV": 9,
         "o_PF": 27,
         "o_PTS": 39,
-        "grade": 1089
+        "grade": 27,
+        "score": 1089,
+        "seed": 2,
+        "rank": 9
     },
     "baylor": {
         "FG": 11,
@@ -298,7 +316,10 @@
         "o_TOV": 7,
         "o_PF": 47,
         "o_PTS": 17,
-        "grade": 1100
+        "grade": 27,
+        "score": 1100,
+        "seed": 1,
+        "rank": 12
     },
     "boise-state": {
         "FG": 57,
@@ -341,7 +362,10 @@
         "o_TOV": 25,
         "o_PF": 4,
         "o_PTS": 7,
-        "grade": 1254
+        "grade": 31,
+        "score": 1254,
+        "seed": 8,
+        "rank": 29
     },
     "cal-state-fullerton": {
         "FG": 54,
@@ -384,7 +408,10 @@
         "o_TOV": 17,
         "o_PF": 3,
         "o_PTS": 34,
-        "grade": 1443
+        "grade": 36,
+        "score": 1443,
+        "seed": 15,
+        "rank": 51
     },
     "chattanooga": {
         "FG": 21,
@@ -427,7 +454,10 @@
         "o_TOV": 39,
         "o_PF": 62,
         "o_PTS": 19,
-        "grade": 1219
+        "grade": 30,
+        "score": 1219,
+        "seed": 13,
+        "rank": 27
     },
     "colgate": {
         "FG": 15,
@@ -470,7 +500,10 @@
         "o_TOV": 52,
         "o_PF": 59,
         "o_PTS": 42,
-        "grade": 1357
+        "grade": 33,
+        "score": 1357,
+        "seed": 14,
+        "rank": 45
     },
     "colorado-state": {
         "FG": 30,
@@ -513,7 +546,10 @@
         "o_TOV": 38,
         "o_PF": 29,
         "o_PTS": 28,
-        "grade": 1298
+        "grade": 32,
+        "score": 1298,
+        "seed": 6,
+        "rank": 37
     },
     "connecticut": {
         "FG": 26,
@@ -556,7 +592,10 @@
         "o_TOV": 37,
         "o_PF": 40,
         "o_PTS": 25,
-        "grade": 1120
+        "grade": 28,
+        "score": 1120,
+        "seed": 5,
+        "rank": 13
     },
     "creighton": {
         "FG": 46,
@@ -599,7 +638,10 @@
         "o_TOV": 56,
         "o_PF": 57,
         "o_PTS": 31,
-        "grade": 1539
+        "grade": 38,
+        "score": 1539,
+        "seed": 9,
+        "rank": 58
     },
     "davidson": {
         "FG": 29,
@@ -642,7 +684,10 @@
         "o_TOV": 51,
         "o_PF": 23,
         "o_PTS": 30,
-        "grade": 1175
+        "grade": 29,
+        "score": 1175,
+        "seed": 10,
+        "rank": 20
     },
     "delaware": {
         "FG": 38,
@@ -685,7 +730,10 @@
         "o_TOV": 33,
         "o_PF": 26,
         "o_PTS": 55,
-        "grade": 1489
+        "grade": 37,
+        "score": 1489,
+        "seed": 15,
+        "rank": 55
     },
     "duke": {
         "FG": 6,
@@ -728,7 +776,10 @@
         "o_TOV": 53,
         "o_PF": 52,
         "o_PTS": 43,
-        "grade": 1130
+        "grade": 28,
+        "score": 1130,
+        "seed": 2,
+        "rank": 14
     },
     "georgia-state": {
         "FG": 53,
@@ -771,7 +822,10 @@
         "o_TOV": 3,
         "o_PF": 42,
         "o_PTS": 20,
-        "grade": 1347
+        "grade": 33,
+        "score": 1347,
+        "seed": 16,
+        "rank": 43
     },
     "gonzaga": {
         "FG": 1,
@@ -814,7 +868,10 @@
         "o_TOV": 35,
         "o_PF": 22,
         "o_PTS": 26,
-        "grade": 810
+        "grade": 20,
+        "score": 810,
+        "seed": 1,
+        "rank": 1
     },
     "houston": {
         "FG": 12,
@@ -857,7 +914,10 @@
         "o_TOV": 12,
         "o_PF": 39,
         "o_PTS": 2,
-        "grade": 822
+        "grade": 20,
+        "score": 822,
+        "seed": 5,
+        "rank": 2
     },
     "illinois": {
         "FG": 28,
@@ -900,7 +960,10 @@
         "o_TOV": 54,
         "o_PF": 19,
         "o_PTS": 45,
-        "grade": 1266
+        "grade": 31,
+        "score": 1266,
+        "seed": 4,
+        "rank": 31
     },
     "indiana": {
         "FG": 41,
@@ -943,7 +1006,10 @@
         "o_TOV": 43,
         "o_PF": 34,
         "o_PTS": 29,
-        "grade": 1316
+        "grade": 32,
+        "score": 1316,
+        "seed": 12,
+        "rank": 39
     },
     "iowa-state": {
         "FG": 56,
@@ -986,7 +1052,10 @@
         "o_TOV": 2,
         "o_PF": 33,
         "o_PTS": 14,
-        "grade": 1539
+        "grade": 38,
+        "score": 1539,
+        "seed": 11,
+        "rank": 59
     },
     "iowa": {
         "FG": 5,
@@ -1029,7 +1098,10 @@
         "o_TOV": 21,
         "o_PF": 21,
         "o_PTS": 59,
-        "grade": 1182
+        "grade": 29,
+        "score": 1182,
+        "seed": 5,
+        "rank": 22
     },
     "jacksonville-state": {
         "FG": 34,
@@ -1072,7 +1144,10 @@
         "o_TOV": 46,
         "o_PF": 55,
         "o_PTS": 38,
-        "grade": 1353
+        "grade": 33,
+        "score": 1353,
+        "seed": 15,
+        "rank": 44
     },
     "kansas": {
         "FG": 9,
@@ -1115,7 +1190,10 @@
         "o_TOV": 30,
         "o_PF": 25,
         "o_PTS": 46,
-        "grade": 1188
+        "grade": 29,
+        "score": 1188,
+        "seed": 1,
+        "rank": 24
     },
     "kentucky": {
         "FG": 3,
@@ -1158,7 +1236,10 @@
         "o_TOV": 42,
         "o_PF": 51,
         "o_PTS": 33,
-        "grade": 1002
+        "grade": 25,
+        "score": 1002,
+        "seed": 2,
+        "rank": 6
     },
     "longwood": {
         "FG": 27,
@@ -1201,7 +1282,10 @@
         "o_TOV": 14,
         "o_PF": 16,
         "o_PTS": 24,
-        "grade": 1094
+        "grade": 27,
+        "score": 1094,
+        "seed": 14,
+        "rank": 10
     },
     "louisiana-state": {
         "FG": 37,
@@ -1244,7 +1328,10 @@
         "o_TOV": 1,
         "o_PF": 43,
         "o_PTS": 16,
-        "grade": 1295
+        "grade": 32,
+        "score": 1295,
+        "seed": 6,
+        "rank": 36
     },
     "loyola-il": {
         "FG": 35,
@@ -1287,7 +1374,10 @@
         "o_TOV": 23,
         "o_PF": 36,
         "o_PTS": 8,
-        "grade": 1136
+        "grade": 28,
+        "score": 1136,
+        "seed": 10,
+        "rank": 15
     },
     "marquette": {
         "FG": 24,
@@ -1330,7 +1420,10 @@
         "o_TOV": 20,
         "o_PF": 56,
         "o_PTS": 57,
-        "grade": 1553
+        "grade": 38,
+        "score": 1553,
+        "seed": 9,
+        "rank": 60
     },
     "memphis": {
         "FG": 23,
@@ -1373,7 +1466,10 @@
         "o_TOV": 11,
         "o_PF": 11,
         "o_PTS": 48,
-        "grade": 1223
+        "grade": 30,
+        "score": 1223,
+        "seed": 9,
+        "rank": 28
     },
     "miami-fl": {
         "FG": 20,
@@ -1416,7 +1512,10 @@
         "o_TOV": 19,
         "o_PF": 58,
         "o_PTS": 58,
-        "grade": 1522
+        "grade": 38,
+        "score": 1522,
+        "seed": 10,
+        "rank": 56
     },
     "michigan-state": {
         "FG": 40,
@@ -1459,7 +1558,10 @@
         "o_TOV": 57,
         "o_PF": 38,
         "o_PTS": 49,
-        "grade": 1475
+        "grade": 36,
+        "score": 1475,
+        "seed": 7,
+        "rank": 53
     },
     "michigan": {
         "FG": 22,
@@ -1502,7 +1604,10 @@
         "o_TOV": 59,
         "o_PF": 50,
         "o_PTS": 56,
-        "grade": 1418
+        "grade": 35,
+        "score": 1418,
+        "seed": 11,
+        "rank": 49
     },
     "montana-state": {
         "FG": 33,
@@ -1545,7 +1650,10 @@
         "o_TOV": 29,
         "o_PF": 1,
         "o_PTS": 51,
-        "grade": 1173
+        "grade": 29,
+        "score": 1173,
+        "seed": 14,
+        "rank": 19
     },
     "murray-state": {
         "FG": 8,
@@ -1588,7 +1696,10 @@
         "o_TOV": 15,
         "o_PF": 46,
         "o_PTS": 10,
-        "grade": 883
+        "grade": 22,
+        "score": 883,
+        "seed": 7,
+        "rank": 3
     },
     "new-mexico-state": {
         "FG": 45,
@@ -1631,7 +1742,10 @@
         "o_TOV": 41,
         "o_PF": 7,
         "o_PTS": 22,
-        "grade": 1178
+        "grade": 29,
+        "score": 1178,
+        "seed": 12,
+        "rank": 21
     },
     "norfolk-state": {
         "FG": 32,
@@ -1674,7 +1788,10 @@
         "o_TOV": 18,
         "o_PF": 15,
         "o_PTS": 18,
-        "grade": 1186
+        "grade": 29,
+        "score": 1186,
+        "seed": 16,
+        "rank": 23
     },
     "north-carolina": {
         "FG": 19,
@@ -1717,7 +1834,10 @@
         "o_TOV": 61,
         "o_PF": 45,
         "o_PTS": 60,
-        "grade": 1328
+        "grade": 33,
+        "score": 1328,
+        "seed": 8,
+        "rank": 40
     },
     "ohio-state": {
         "FG": 44,
@@ -1760,7 +1880,10 @@
         "o_TOV": 58,
         "o_PF": 32,
         "o_PTS": 52,
-        "grade": 1369
+        "grade": 34,
+        "score": 1369,
+        "seed": 7,
+        "rank": 47
     },
     "providence": {
         "FG": 58,
@@ -1803,7 +1926,10 @@
         "o_TOV": 55,
         "o_PF": 10,
         "o_PTS": 40,
-        "grade": 1486
+        "grade": 37,
+        "score": 1486,
+        "seed": 4,
+        "rank": 54
     },
     "purdue": {
         "FG": 10,
@@ -1846,7 +1972,10 @@
         "o_TOV": 62,
         "o_PF": 6,
         "o_PTS": 53,
-        "grade": 1088
+        "grade": 27,
+        "score": 1088,
+        "seed": 3,
+        "rank": 8
     },
     "richmond": {
         "FG": 49,
@@ -1889,7 +2018,10 @@
         "o_TOV": 28,
         "o_PF": 54,
         "o_PTS": 47,
-        "grade": 1559
+        "grade": 38,
+        "score": 1559,
+        "seed": 12,
+        "rank": 61
     },
     "saint-marys-ca": {
         "FG": 36,
@@ -1932,7 +2064,10 @@
         "o_TOV": 32,
         "o_PF": 60,
         "o_PTS": 6,
-        "grade": 1261
+        "grade": 31,
+        "score": 1261,
+        "seed": 5,
+        "rank": 30
     },
     "saint-peters": {
         "FG": 62,
@@ -1975,7 +2110,10 @@
         "o_TOV": 16,
         "o_PF": 17,
         "o_PTS": 9,
-        "grade": 1329
+        "grade": 33,
+        "score": 1329,
+        "seed": 15,
+        "rank": 41
     },
     "san-diego-state": {
         "FG": 61,
@@ -2018,7 +2156,10 @@
         "o_TOV": 13,
         "o_PF": 37,
         "o_PTS": 1,
-        "grade": 1302
+        "grade": 32,
+        "score": 1302,
+        "seed": 8,
+        "rank": 38
     },
     "san-francisco": {
         "FG": 18,
@@ -2061,7 +2202,10 @@
         "o_TOV": 26,
         "o_PF": 35,
         "o_PTS": 41,
-        "grade": 1208
+        "grade": 30,
+        "score": 1208,
+        "seed": 10,
+        "rank": 25
     },
     "seton-hall": {
         "FG": 48,
@@ -2104,7 +2248,10 @@
         "o_TOV": 34,
         "o_PF": 44,
         "o_PTS": 36,
-        "grade": 1332
+        "grade": 33,
+        "score": 1332,
+        "seed": 8,
+        "rank": 42
     },
     "south-dakota-state": {
         "FG": 2,
@@ -2147,7 +2294,10 @@
         "o_TOV": 48,
         "o_PF": 18,
         "o_PTS": 61,
-        "grade": 1138
+        "grade": 28,
+        "score": 1138,
+        "seed": 13,
+        "rank": 16
     },
     "southern-california": {
         "FG": 25,
@@ -2190,7 +2340,10 @@
         "o_TOV": 60,
         "o_PF": 31,
         "o_PTS": 32,
-        "grade": 1359
+        "grade": 33,
+        "score": 1359,
+        "seed": 7,
+        "rank": 46
     },
     "tennessee": {
         "FG": 43,
@@ -2233,7 +2386,10 @@
         "o_TOV": 6,
         "o_PF": 28,
         "o_PTS": 13,
-        "grade": 1151
+        "grade": 28,
+        "score": 1151,
+        "seed": 3,
+        "rank": 18
     },
     "texas-christian": {
         "FG": 51,
@@ -2276,7 +2432,10 @@
         "o_TOV": 36,
         "o_PF": 49,
         "o_PTS": 23,
-        "grade": 1429
+        "grade": 35,
+        "score": 1429,
+        "seed": 9,
+        "rank": 50
     },
     "texas-southern": {
         "FG": 50,
@@ -2319,7 +2478,10 @@
         "o_TOV": 45,
         "o_PF": 13,
         "o_PTS": 27,
-        "grade": 1412
+        "grade": 35,
+        "score": 1412,
+        "seed": 16,
+        "rank": 48
     },
     "texas-tech": {
         "FG": 42,
@@ -2362,7 +2524,10 @@
         "o_TOV": 4,
         "o_PF": 12,
         "o_PTS": 4,
-        "grade": 1097
+        "grade": 27,
+        "score": 1097,
+        "seed": 3,
+        "rank": 11
     },
     "texas": {
         "FG": 60,
@@ -2405,7 +2570,10 @@
         "o_TOV": 8,
         "o_PF": 20,
         "o_PTS": 3,
-        "grade": 1276
+        "grade": 31,
+        "score": 1276,
+        "seed": 6,
+        "rank": 33
     },
     "ucla": {
         "FG": 13,
@@ -2448,7 +2616,10 @@
         "o_TOV": 22,
         "o_PF": 30,
         "o_PTS": 21,
-        "grade": 1138
+        "grade": 28,
+        "score": 1138,
+        "seed": 4,
+        "rank": 17
     },
     "vermont": {
         "FG": 17,
@@ -2491,7 +2662,10 @@
         "o_TOV": 50,
         "o_PF": 48,
         "o_PTS": 5,
-        "grade": 982
+        "grade": 24,
+        "score": 982,
+        "seed": 13,
+        "rank": 5
     },
     "villanova": {
         "FG": 55,
@@ -2534,7 +2708,10 @@
         "o_TOV": 40,
         "o_PF": 41,
         "o_PTS": 15,
-        "grade": 1277
+        "grade": 31,
+        "score": 1277,
+        "seed": 2,
+        "rank": 34
     },
     "virginia-tech": {
         "FG": 39,
@@ -2577,7 +2754,10 @@
         "o_TOV": 44,
         "o_PF": 61,
         "o_PTS": 11,
-        "grade": 1289
+        "grade": 32,
+        "score": 1289,
+        "seed": 11,
+        "rank": 35
     },
     "wisconsin": {
         "FG": 52,
@@ -2620,7 +2800,10 @@
         "o_TOV": 49,
         "o_PF": 8,
         "o_PTS": 37,
-        "grade": 1527
+        "grade": 38,
+        "score": 1527,
+        "seed": 3,
+        "rank": 57
     },
     "yale": {
         "FG": 47,
@@ -2663,6 +2846,9 @@
         "o_TOV": 24,
         "o_PF": 24,
         "o_PTS": 54,
-        "grade": 1616
+        "grade": 40,
+        "score": 1616,
+        "seed": 14,
+        "rank": 62
     }
 }

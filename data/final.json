@@ -1,0 +1,312 @@
+{
+    "akron": {
+        "avg_player_grade": 458,
+        "team_grade": 390,
+        "seed": 13
+    },
+    "alabama-birmingham": {
+        "avg_player_grade": 424,
+        "team_grade": 416,
+        "seed": 12
+    },
+    "alabama": {
+        "avg_player_grade": 523,
+        "team_grade": 612,
+        "seed": 6
+    },
+    "arizona": {
+        "avg_player_grade": 385,
+        "team_grade": 336,
+        "seed": 1
+    },
+    "arkansas": {
+        "avg_player_grade": 447,
+        "team_grade": 434,
+        "seed": 4
+    },
+    "auburn": {
+        "avg_player_grade": 503,
+        "team_grade": 459,
+        "seed": 2
+    },
+    "baylor": {
+        "avg_player_grade": 426,
+        "team_grade": 405,
+        "seed": 1
+    },
+    "boise-state": {
+        "avg_player_grade": 398,
+        "team_grade": 372,
+        "seed": 8
+    },
+    "cal-state-fullerton": {
+        "avg_player_grade": 494,
+        "team_grade": 468,
+        "seed": 15
+    },
+    "chattanooga": {
+        "avg_player_grade": 442,
+        "team_grade": 390,
+        "seed": 13
+    },
+    "colgate": {
+        "avg_player_grade": 406,
+        "team_grade": 462,
+        "seed": 14
+    },
+    "colorado-state": {
+        "avg_player_grade": 489,
+        "team_grade": 448,
+        "seed": 6
+    },
+    "connecticut": {
+        "avg_player_grade": 449,
+        "team_grade": 392,
+        "seed": 5
+    },
+    "creighton": {
+        "avg_player_grade": 510,
+        "team_grade": 494,
+        "seed": 9
+    },
+    "davidson": {
+        "avg_player_grade": 471,
+        "team_grade": 435,
+        "seed": 10
+    },
+    "delaware": {
+        "avg_player_grade": 479,
+        "team_grade": 555,
+        "seed": 15
+    },
+    "duke": {
+        "avg_player_grade": 429,
+        "team_grade": 392,
+        "seed": 2
+    },
+    "georgia-state": {
+        "avg_player_grade": 539,
+        "team_grade": 528,
+        "seed": 16
+    },
+    "gonzaga": {
+        "avg_player_grade": 391,
+        "team_grade": 280,
+        "seed": 1
+    },
+    "houston": {
+        "avg_player_grade": 318,
+        "team_grade": 260,
+        "seed": 5
+    },
+    "illinois": {
+        "avg_player_grade": 453,
+        "team_grade": 465,
+        "seed": 4
+    },
+    "indiana": {
+        "avg_player_grade": 455,
+        "team_grade": 448,
+        "seed": 12
+    },
+    "iowa-state": {
+        "avg_player_grade": 382,
+        "team_grade": 418,
+        "seed": 11
+    },
+    "iowa": {
+        "avg_player_grade": 400,
+        "team_grade": 406,
+        "seed": 5
+    },
+    "jacksonville-state": {
+        "avg_player_grade": 460,
+        "team_grade": 429,
+        "seed": 15
+    },
+    "kansas": {
+        "avg_player_grade": 400,
+        "team_grade": 406,
+        "seed": 1
+    },
+    "kentucky": {
+        "avg_player_grade": 441,
+        "team_grade": 375,
+        "seed": 2
+    },
+    "longwood": {
+        "avg_player_grade": 462,
+        "team_grade": 405,
+        "seed": 14
+    },
+    "louisiana-state": {
+        "avg_player_grade": 510,
+        "team_grade": 512,
+        "seed": 6
+    },
+    "loyola-il": {
+        "avg_player_grade": 351,
+        "team_grade": 364,
+        "seed": 10
+    },
+    "marquette": {
+        "avg_player_grade": 458,
+        "team_grade": 532,
+        "seed": 9
+    },
+    "memphis": {
+        "avg_player_grade": 411,
+        "team_grade": 450,
+        "seed": 9
+    },
+    "miami-fl": {
+        "avg_player_grade": 433,
+        "team_grade": 494,
+        "seed": 10
+    },
+    "michigan-state": {
+        "avg_player_grade": 490,
+        "team_grade": 576,
+        "seed": 7
+    },
+    "michigan": {
+        "avg_player_grade": 505,
+        "team_grade": 525,
+        "seed": 11
+    },
+    "montana-state": {
+        "avg_player_grade": 437,
+        "team_grade": 435,
+        "seed": 14
+    },
+    "murray-state": {
+        "avg_player_grade": 367,
+        "team_grade": 264,
+        "seed": 7
+    },
+    "new-mexico-state": {
+        "avg_player_grade": 430,
+        "team_grade": 435,
+        "seed": 12
+    },
+    "norfolk-state": {
+        "avg_player_grade": 456,
+        "team_grade": 406,
+        "seed": 16
+    },
+    "north-carolina": {
+        "avg_player_grade": 510,
+        "team_grade": 561,
+        "seed": 8
+    },
+    "ohio-state": {
+        "avg_player_grade": 388,
+        "team_grade": 442,
+        "seed": 7
+    },
+    "providence": {
+        "avg_player_grade": 413,
+        "team_grade": 444,
+        "seed": 4
+    },
+    "purdue": {
+        "avg_player_grade": 407,
+        "team_grade": 378,
+        "seed": 3
+    },
+    "richmond": {
+        "avg_player_grade": 535,
+        "team_grade": 608,
+        "seed": 12
+    },
+    "saint-marys-ca": {
+        "avg_player_grade": 414,
+        "team_grade": 403,
+        "seed": 5
+    },
+    "saint-peters": {
+        "avg_player_grade": 427,
+        "team_grade": 396,
+        "seed": 15
+    },
+    "san-diego-state": {
+        "avg_player_grade": 484,
+        "team_grade": 480,
+        "seed": 8
+    },
+    "san-francisco": {
+        "avg_player_grade": 437,
+        "team_grade": 450,
+        "seed": 10
+    },
+    "seton-hall": {
+        "avg_player_grade": 397,
+        "team_grade": 462,
+        "seed": 8
+    },
+    "south-dakota-state": {
+        "avg_player_grade": 280,
+        "team_grade": 336,
+        "seed": 13
+    },
+    "southern-california": {
+        "avg_player_grade": 464,
+        "team_grade": 528,
+        "seed": 7
+    },
+    "tennessee": {
+        "avg_player_grade": 429,
+        "team_grade": 448,
+        "seed": 3
+    },
+    "texas-christian": {
+        "avg_player_grade": 473,
+        "team_grade": 525,
+        "seed": 9
+    },
+    "texas-southern": {
+        "avg_player_grade": 433,
+        "team_grade": 420,
+        "seed": 16
+    },
+    "texas-tech": {
+        "avg_player_grade": 371,
+        "team_grade": 378,
+        "seed": 3
+    },
+    "texas": {
+        "avg_player_grade": 371,
+        "team_grade": 403,
+        "seed": 6
+    },
+    "ucla": {
+        "avg_player_grade": 368,
+        "team_grade": 364,
+        "seed": 4
+    },
+    "vermont": {
+        "avg_player_grade": 354,
+        "team_grade": 312,
+        "seed": 13
+    },
+    "villanova": {
+        "avg_player_grade": 404,
+        "team_grade": 403,
+        "seed": 2
+    },
+    "virginia-tech": {
+        "avg_player_grade": 399,
+        "team_grade": 416,
+        "seed": 11
+    },
+    "wisconsin": {
+        "avg_player_grade": 535,
+        "team_grade": 570,
+        "seed": 3
+    },
+    "yale": {
+        "avg_player_grade": 491,
+        "team_grade": 760,
+        "seed": 14
+    }
+}
